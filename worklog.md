@@ -224,3 +224,55 @@ Stage Summary:
 - Live: https://emocionesmatutinas.pages.dev (HTTP 200, 558KB, 16/16 verificaciones OK)
 - GitHub: https://github.com/funnellersinfo-maker/emocionesmatutinas actualizado
 - La sensación pasó de "buen ecommerce" a "quiero comprar aquí y quiero saber quién construyó esta tienda"
+
+---
+Task ID: 23 (emotional correction - maintain store feel)
+Agent: main (Z.ai Code)
+Task: Corregir el balance emoción vs tienda. La versión actual gana en sensación ecommerce pero pierde en emoción. Hero debe generar deseo ("necesito comprar") no catálogo ("hay muchos productos").
+
+Work Log:
+- Busqué 4 pools de imágenes emocionales reales:
+  - emocion-flores: mujer sorprendida recibiendo flores (lágrimas de felicidad)
+  - emocion-madre: madre abriendo caja de regalo sorpresa
+  - emocion-cumple: cumpleaños sorpresa con velas emoción
+  - emocion-romantica: pareja romántica cena sorpresa
+- Regeneré image-pools.ts con 12 pools (8 anteriores + 4 emocionales nuevos)
+- 1. Hero cinematográfico rediseñado:
+  - Foto full-bleed de mujer recibiendo flores (de pool emocion-flores)
+  - H1: "Hoy puedes cambiar el día de alguien. 💝" (con emoji flotante)
+  - Sub: "No regales cosas. Regala un recuerdo que nunca olvidará."
+  - Min-height 92vh, gradient overlay lateral para legibilidad
+  - 4 señales de profesionalismo preservadas
+- 2. Sección Momentos rediseñada con fotos reales emocionales:
+  - "¿Qué momento quieres crear hoy?"
+  - Bento grid 4 momentos gigantes (no productos):
+    * "Una novia recibiendo flores" (xl, foto emocion-flores)
+    * "Una mamá abriendo su caja" (foto emocion-madre)
+    * "Un cumpleaños sorpresa" (foto emocion-cumple)
+    * "Una entrega romántica" (foto emocion-romantica)
+  - Cada uno con gradiente, emoji, subtítulo emocional, link a categoría
+- 3. Experiencias Digitales rediseñadas como categoría premium diferenciadora:
+  - Fondo pink-950 oscuro con blobs decorativos
+  - Badge "Categoría Premium · Exclusivo" con icono Crown
+  - 3 badges de valor: "100% personalizable", "Lo guardará para siempre", "No existe en otras tiendas"
+  - Cards premium con gradientes vibrantes, tag (Más pedida/Innovadora/Emocional/Tierra), features detalladas (4 por card), precio "Desde"
+  - Footer: "✨ Experiencias únicas que no encontrarás en ninguna otra tienda de regalos de Bogotá"
+- 4. Sensación de tienda PRESERVADA intacta:
+  - Marquee de actividad (Chapinero, María, Usaquén...) preservado
+  - Filtros (categoría, precio, calificación, destacados, personalizables) preservados
+  - 160 productos con nombres emocionales preservados
+  - Urgencia tiempo real preservada
+  - WhatsApp dinámico preservado
+  - Tarjetas destacadas gigantes preservadas
+- Build estático exitoso 3.0MB, 92 archivos
+- Deploy Cloudflare Pages exitoso
+- Verificación live: 15/15 checks pasaron
+- Push GitHub exitoso
+
+Stage Summary:
+- Hero genera deseo: "Hoy puedes cambiar el día de alguien 💝" + foto real de mujer emocionada recibiendo flores
+- Sección Momentos con fotos emocionales gigantes (novia, mamá, cumpleaños, romántica) - no productos
+- Experiencias Digitales posicionadas como categoría premium diferenciadora ("no existe en otras tiendas")
+- Sensación de tienda (marquee, filtros, 160 productos, urgencia, WhatsApp) 100% preservada
+- Live: https://emocionesmatutinas.pages.dev (HTTP 200, 565KB, 15/15 verificaciones OK)
+- GitHub: https://github.com/funnellersinfo-maker/emocionesmatutinas actualizado
