@@ -1,12 +1,13 @@
 'use client'
 
-import { useMemo, useState } from 'react'
-import { SlidersHorizontal, Star } from 'lucide-react'
+import { Fragment, useMemo, useState, useEffect } from 'react'
+import { SlidersHorizontal, Star, Zap, Eye, Clock, TrendingUp } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 import { Sheet, SheetContent, SheetHeader, SheetTitle } from '@/components/ui/sheet'
 import { ProductCard } from './product-card'
+import { FeaturedBanner } from './featured-banner'
 import type { Product } from '@/data/products'
 import { CATEGORIES } from '@/data/products'
 import { cn } from '@/lib/utils'
@@ -73,6 +74,16 @@ export function ProductGrid({ products, onOpen, activeCategory, onCategory, sear
 
   const shown = filtered.slice(0, visible)
   const cat = CATEGORIES.find((c) => c.id === activeCategory)
+
+  // Featured products for giant banners (only on "all" view)
+  const destacadaProduct = useMemo(
+    () => products.find((p) => p.badge === 'Premium' && p.category === 'aniversarios') || products.find((p) => p.badge === 'Premium'),
+    [products]
+  )
+  const masRegaladoProduct = useMemo(
+    () => products.find((p) => p.badge === 'Más vendido' && p.category === 'desayunos') || products.find((p) => p.badge === 'Más vendido'),
+    [products]
+  )
 
   const FiltersContent = (
     <div className="space-y-5">
@@ -182,6 +193,9 @@ export function ProductGrid({ products, onOpen, activeCategory, onCategory, sear
 
         {/* Grid */}
         <div>
+          {/* Urgency banner */}
+          <UrgencyBanner />
+
           {shown.length === 0 ? (
             <div className="flex flex-col items-center justify-center gap-3 rounded-2xl border border-dashed border-border py-20 text-center">
               <div className="text-5xl">🔍</div>
@@ -195,7 +209,17 @@ export function ProductGrid({ products, onOpen, activeCategory, onCategory, sear
             <>
               <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 sm:gap-4 xl:grid-cols-4">
                 {shown.map((p, i) => (
-                  <ProductCard key={p.id} product={p} onOpen={onOpen} index={i} />
+                  <Fragment key={p.id}>
+                    <ProductCard product={p} onOpen={onOpen} index={i} />
+                    {/* Inject featured banner after 8th product (only on "all" view) */}
+                    {i === 7 && activeCategory === 'all' && !search && destacadaProduct && (
+                      <FeaturedBanner product={destacadaProduct} variant="destacada" onOpen={onOpen} />
+                    )}
+                    {/* Inject second featured banner after 16th product */}
+                    {i === 15 && activeCategory === 'all' && !search && masRegaladoProduct && (
+                      <FeaturedBanner product={masRegaladoProduct} variant="mas-regalado" onOpen={onOpen} />
+                    )}
+                  </Fragment>
                 ))}
               </div>
               {visible < filtered.length && (
@@ -230,5 +254,55 @@ export function ProductGrid({ products, onOpen, activeCategory, onCategory, sear
         </SheetContent>
       </Sheet>
     </section>
+  )
+}
+
+// Urgency banner with real-time signals
+function UrgencyBanner() {
+  const [cupos, setCupos] = useState(7)
+  const [visto, setVisto] = useState(23)
+  const [horaLimite, setHoraLimite] = useState('')
+
+  useEffect(() => {
+    // Calculate deadline: 2pm today
+    const now = new Date()
+    const limite = new Date()
+    limite.setHours(14, 0, 0, 0)
+    if (now > limite) limite.setDate(limite.getDate() + 1)
+    const diff = limite.getTime() - now.getTime()
+    const h = Math.floor(diff / 3600000)
+    const m = Math.floor((diff % 3600000) / 60000)
+    setHoraLimite(`${h}h ${m}m`)
+
+    // Simulate slight variation
+    const interval = setInterval(() => {
+      setCupos((c) => Math.max(2, c - (Math.random() < 0.3 ? 1 : 0)))
+      setVisto((v) => v + Math.floor(Math.random() * 3))
+    }, 15000)
+    return () => clearInterval(interval)
+  }, [])
+
+  return (
+    <div className="mb-5 flex flex-wrap items-center gap-2 rounded-2xl border border-orange-200 bg-gradient-to-r from-orange-50 via-pink-50 to-rose-50 px-4 py-3 text-xs font-medium sm:text-sm">
+      <span className="flex items-center gap-1.5 text-orange-700">
+        <Zap className="h-4 w-4" fill="currentColor" />
+        <strong>Entrega hoy disponible</strong>
+      </span>
+      <span className="text-pink-300">·</span>
+      <span className="flex items-center gap-1.5 text-rose-700">
+        <Clock className="h-4 w-4" />
+        Quedan <strong className="tabular-nums">{cupos}</strong> cupos para hoy
+      </span>
+      <span className="text-pink-300">·</span>
+      <span className="flex items-center gap-1.5 text-pink-700">
+        <TrendingUp className="h-4 w-4" />
+        Agenda en <strong className="tabular-nums">{horaLimite}</strong>
+      </span>
+      <span className="text-pink-300">·</span>
+      <span className="flex items-center gap-1.5 text-fuchsia-700">
+        <Eye className="h-4 w-4" />
+        <strong className="tabular-nums">{visto}</strong> personas viendo ahora
+      </span>
+    </div>
   )
 }

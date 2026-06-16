@@ -1,0 +1,64 @@
+{
+  "success": true,
+  "query": "anniversary couple romantic dinner champagne celebration",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9c4c2bf99bd6.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "958px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/16f131401edd.jpg",
+      "caption": "",
+      "source": "Cottage Grove",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e944101fcc48.jpg",
+      "caption": "",
+      "source": "123RF",
+      "original_width": "1300px",
+      "original_height": "885px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/839e921bbdef.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3f273151d38e.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1700px",
+      "original_height": "1700px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/61cb5f543941.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f3afde778da0.webp",
+      "caption": "",
+      "source": "Vallarta Adventures",
+      "original_width": "3840px",
+      "original_height": "2560px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/66a7caca0cb1.jpg",
+      "caption": "",
+      "source": "DepositPhotos",
+      "original_width": "1600px",
+      "original_height": "1167px"
+    }
+  ]
+}

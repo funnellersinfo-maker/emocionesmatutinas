@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "query": "birthday party celebration candles cake colorful",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/eb7226802a66.jpg",
+      "caption": "",
+      "source": "Dreamstime.com",
+      "original_width": "1205px",
+      "original_height": "1690px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/75276251a4e3.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1500px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/857785a5aecb.jpg",
+      "caption": "",
+      "source": "Bonjour Fête",
+      "original_width": "1397px",
+      "original_height": "2048px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9e0667454ebe.jpg",
+      "caption": "",
+      "source": "Pinterest",
+      "original_width": "736px",
+      "original_height": "1104px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9894c1aaa98c.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "1200px",
+      "original_height": "948px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a77a066e1680.jpg",
+      "caption": "",
+      "source": "Etsy",
+      "original_width": "1080px",
+      "original_height": "893px"
+    }
+  ]
+}

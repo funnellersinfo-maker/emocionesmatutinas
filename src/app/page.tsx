@@ -2,10 +2,14 @@
 
 import { useState, useEffect, useCallback, Suspense } from 'react'
 import { PRODUCTS, CATEGORIES } from '@/data/products'
+import { IMAGE_POOLS } from '@/data/image-pools'
 import { Header } from '@/components/catalog/header'
 import { Hero, CategoryStrip } from '@/components/catalog/hero'
-import { CommercialSections } from '@/components/catalog/commercial-sections'
+import { Momentos } from '@/components/catalog/momentos'
+import { AsiFunciona } from '@/components/catalog/asi-funciona'
 import { Experiencias } from '@/components/catalog/experiencias'
+import { CommercialSections } from '@/components/catalog/commercial-sections'
+import { Testimonios } from '@/components/catalog/testimonios'
 import { ProductGrid } from '@/components/catalog/product-grid'
 import { ProductDetail } from '@/components/catalog/product-detail'
 import { CartDrawer } from '@/components/catalog/cart-drawer'
@@ -114,6 +118,9 @@ function CatalogContent() {
           <>
             <Hero onCategory={selectCategory} onShop={() => document.getElementById('catalogo')?.scrollIntoView({ behavior: 'smooth' })} />
             <CategoryStrip active={activeCategory} onSelect={selectCategory} />
+            <Momentos onSelectCategory={selectCategory} imagePool={IMAGE_POOLS} />
+            <AsiFunciona onShop={() => document.getElementById('catalogo')?.scrollIntoView({ behavior: 'smooth' })} />
+            <Experiencias onAdd={handleAddExp} />
             <CommercialSections onOpen={openProduct} onSeeAll={() => document.getElementById('catalogo')?.scrollIntoView({ behavior: 'smooth' })} />
             <ProductGrid
               products={PRODUCTS}
@@ -122,7 +129,7 @@ function CatalogContent() {
               onCategory={selectCategory}
               search={search}
             />
-            <Experiencias onAdd={handleAddExp} />
+            <Testimonios imagePool={IMAGE_POOLS} />
           </>
         )}
       </main>
