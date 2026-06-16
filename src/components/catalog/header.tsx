@@ -21,6 +21,7 @@ interface HeaderProps {
 export function Header({ activeCategory, onCategory, onHome, search, onSearch, onMobileMenu }: HeaderProps) {
   const count = useCart((s) => s.count())
   const setOpen = useCart((s) => s.setOpen)
+  const buildWhatsAppLink = useCart((s) => s.buildWhatsAppLink)
 
   return (
     <header className="sticky top-0 z-40 border-b border-pink-100 bg-background/85 backdrop-blur-md">
@@ -54,13 +55,13 @@ export function Header({ activeCategory, onCategory, onHome, search, onSearch, o
 
         <div className="ml-auto flex items-center gap-1 md:ml-0">
           <a
-            href="https://wa.me/573202761748"
+            href={buildWhatsAppLink(count > 0 ? 'cart' : 'help')}
             target="_blank"
             rel="noopener noreferrer"
             className="hidden items-center gap-1.5 rounded-full border border-pink-200 px-3 py-1.5 text-xs font-medium text-pink-700 transition hover:bg-pink-50 sm:flex"
           >
             <Phone className="h-3.5 w-3.5" />
-            WhatsApp
+            {count > 0 ? `Pedir (${count})` : 'WhatsApp'}
           </a>
           <Button variant="ghost" size="icon" className="hidden text-pink-600 hover:bg-pink-50 hover:text-pink-700 sm:grid" aria-label="Favoritos">
             <Heart className="h-5 w-5" />

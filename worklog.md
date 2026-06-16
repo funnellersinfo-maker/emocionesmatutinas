@@ -102,3 +102,33 @@ Stage Summary:
 - 26 notificaciones de compras reales con nombres colombianos, barrios de Bogotá, productos reales del catálogo, ratings y tiempos relativos
 - Efecto FOMO/social proof: cada entrada muestra "María G. · Chapinero · 🌹 Bouquet Amor Infinito Premium · ⭐⭐⭐⭐⭐ · hace 2 min"
 - Lint pasa, sin errores, responsive móvil correcto
+
+---
+Task ID: 19 (WhatsApp dinámico + botones flotantes)
+Agent: main (Z.ai Code)
+Task: 1) Botón flotante WhatsApp traslúcido (no compita por atención) 2) Botón flotante "volver arriba" con flecha 3) Todos los links wa.me al +573202761748 personalizados en tiempo real con la info del pedido organizada.
+
+Work Log:
+- Añadí WHATSAPP_NUMBER constante y método buildWhatsAppLink(context) al cart store (zustand):
+  - context='cart' genera mensaje con: header Emociones Matutinas, resumen numerado de cada item (nombre, cantidad, precio unitario, subtotal), complementos (upsells) si los hay, bloque "🎨 Personalización" con destinatario/dedicatoria/color/fecha/hora/mensaje/instrucciones, total calculado, entrega en Bogotá, despedida
+  - context='help' genera mensaje de consulta genérica
+  - URL final: https://wa.me/573202761748?text=<mensaje encoded>
+- Creé componente FloatingButtons (src/components/catalog/floating-buttons.tsx):
+  - Botón WhatsApp traslúcido: bg-emerald-500/30 backdrop-blur, border emerald-300/50, h-12 w-12, esquina inferior derecha, ícono MessageCircle, badge pink con count del carrito, tooltip "Enviar pedido (N)" al hover (desktop)
+  - Botón "Volver arriba": aparece con AnimatePresence cuando scrollY > 400, bg-white/60 backdrop-blur, border pink, ícono ArrowUp, animación smooth scroll al top
+  - Ambos translúcidos (backdrop-blur-md) para no robar atención del contenido
+- Actualicé Header: botón WhatsApp ahora usa buildWhatsAppLink dinámico, texto cambia a "Pedir (N)" cuando hay items
+- Actualicé Footer: link WhatsApp dinámico, texto "Enviar pedido (N)" cuando hay items
+- Actualicé CartDrawer: botón "Finalizar pedido" ahora verde con ícono WhatsApp, abre wa.me con el pedido completo en nueva pestaña, texto explicativo "Te lleva a WhatsApp con tu pedido listo para enviar"
+- Añadí <FloatingButtons /> al page.tsx después del CartDrawer
+
+Stage Summary:
+- Botón flotante WhatsApp traslúcido (esquina inferior derecha, no compite visualmente) que envía el pedido completo organizado a +573202761748
+- Botón flotante "volver arriba" con flecha (aparece tras scroll > 400px, scroll suave al top)
+- TODOS los links de WhatsApp ahora dinámicos:
+  - Header: "WhatsApp" vacío / "Pedir (N)" con items
+  - Footer: número de teléfono / "Enviar pedido (N)" con items
+  - Cart drawer: botón verde "Finalizar pedido · $TOTAL" → abre WhatsApp con pedido completo
+  - Botón flotante: tooltip "Escríbenos" / "Enviar pedido (N)" con items
+- Mensaje de WhatsApp generado con formato profesional: header, items numerados con subtotales, complementos, bloque de personalización con todos los campos, total, despedida
+- Verificado con Agent Browser: 3 items en carrito generan mensaje correcto con personalizaciones (Para: María José, Dedicatoria: Para el amor de mi vida, Color: Rosado, Mensaje: Gracias por todo, te amo), botón volver arriba funciona (1500 → 0), lint pasa, sin errores

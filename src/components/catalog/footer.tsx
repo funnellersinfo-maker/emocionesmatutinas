@@ -2,12 +2,16 @@
 
 import { Truck, ShieldCheck, RefreshCw, Headphones, Instagram, Facebook, MessageCircle, Mail, MapPin, Clock, Phone } from 'lucide-react'
 import { CATEGORIES } from '@/data/products'
+import { useCart } from '@/store/cart'
 
 interface FooterProps {
   onCategory: (id: string) => void
 }
 
 export function Footer({ onCategory }: FooterProps) {
+  const count = useCart((s) => s.count())
+  const buildWhatsAppLink = useCart((s) => s.buildWhatsAppLink)
+  const waHref = buildWhatsAppLink(count > 0 ? 'cart' : 'help')
   return (
     <footer className="mt-auto bg-gradient-to-br from-pink-950 via-pink-950 to-purple-950 text-pink-100">
       {/* Trust strip */}
@@ -94,7 +98,9 @@ export function Footer({ onCategory }: FooterProps) {
               </li>
               <li className="flex items-start gap-2">
                 <Phone className="mt-0.5 h-4 w-4 shrink-0 text-pink-400" />
-                <a href="https://wa.me/573202761748" className="hover:text-white">WhatsApp: +57 320 276 1748</a>
+                <a href={waHref} target="_blank" rel="noopener noreferrer" className="hover:text-white">
+                  {count > 0 ? `Enviar pedido (${count})` : 'WhatsApp: +57 320 276 1748'}
+                </a>
               </li>
               <li className="flex items-start gap-2">
                 <Mail className="mt-0.5 h-4 w-4 shrink-0 text-pink-400" />

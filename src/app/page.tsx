@@ -10,6 +10,7 @@ import { ProductGrid } from '@/components/catalog/product-grid'
 import { ProductDetail } from '@/components/catalog/product-detail'
 import { CartDrawer } from '@/components/catalog/cart-drawer'
 import { Footer } from '@/components/catalog/footer'
+import { FloatingButtons } from '@/components/catalog/floating-buttons'
 import { Sheet, SheetContent, SheetHeader, SheetTitle } from '@/components/ui/sheet'
 import { useCart } from '@/store/cart'
 import { toast } from 'sonner'
@@ -102,6 +103,7 @@ function CatalogContent() {
 
       <Footer onCategory={selectCategory} />
       <CartDrawer />
+      <FloatingButtons />
 
       {/* Mobile menu */}
       <Sheet open={mobileMenu} onOpenChange={setMobileMenu}>
