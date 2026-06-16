@@ -7,6 +7,7 @@ import { Badge } from '@/components/ui/badge'
 import { useCart } from '@/store/cart'
 import { CATEGORIES } from '@/data/products'
 import { cn } from '@/lib/utils'
+import { SocialProofMarquee } from '@/components/catalog/marquee'
 
 interface HeaderProps {
   activeCategory: string
@@ -23,6 +24,8 @@ export function Header({ activeCategory, onCategory, onHome, search, onSearch, o
 
   return (
     <header className="sticky top-0 z-40 border-b border-pink-100 bg-background/85 backdrop-blur-md">
+      {/* Social proof marquee — sticky at very top */}
+      <SocialProofMarquee />
       {/* Main header */}
       <div className="mx-auto flex max-w-7xl items-center gap-3 px-4 py-3 sm:gap-4 sm:px-6">
         <button onClick={onMobileMenu} className="grid h-9 w-9 place-items-center rounded-lg hover:bg-pink-50 lg:hidden" aria-label="Menú">

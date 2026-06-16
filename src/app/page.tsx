@@ -5,7 +5,6 @@ import { useSearchParams, useRouter } from 'next/navigation'
 import { PRODUCTS, CATEGORIES } from '@/data/products'
 import { Header } from '@/components/catalog/header'
 import { Hero, CategoryStrip } from '@/components/catalog/hero'
-import { Marquee } from '@/components/catalog/marquee'
 import { Experiencias } from '@/components/catalog/experiencias'
 import { ProductGrid } from '@/components/catalog/product-grid'
 import { ProductDetail } from '@/components/catalog/product-detail'
@@ -88,7 +87,6 @@ function CatalogContent() {
         ) : (
           <>
             <Hero onCategory={selectCategory} onShop={() => document.getElementById('catalogo')?.scrollIntoView({ behavior: 'smooth' })} />
-            <Marquee />
             <CategoryStrip active={activeCategory} onSelect={selectCategory} />
             <ProductGrid
               products={PRODUCTS}

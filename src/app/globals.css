@@ -122,13 +122,14 @@
   }
 }
 
-/* Marquee ticker animation */
+/* Marquee ticker animation — moves RIGHT to LEFT */
 @keyframes marquee {
   0% { transform: translateX(0); }
   100% { transform: translateX(-50%); }
 }
 .animate-marquee {
-  animation: marquee 40s linear infinite;
+  animation: marquee 60s linear infinite;
+  will-change: transform;
 }
 .marquee-pause:hover .animate-marquee {
   animation-play-state: paused;
