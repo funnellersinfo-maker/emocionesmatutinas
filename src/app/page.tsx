@@ -1,7 +1,6 @@
 'use client'
 
 import { useState, useEffect, useCallback, Suspense } from 'react'
-import { useSearchParams, useRouter } from 'next/navigation'
 import { PRODUCTS, CATEGORIES } from '@/data/products'
 import { Header } from '@/components/catalog/header'
 import { Hero, CategoryStrip } from '@/components/catalog/hero'
@@ -16,37 +15,62 @@ import { useCart } from '@/store/cart'
 import { toast } from 'sonner'
 
 function CatalogContent() {
-  const router = useRouter()
-  const searchParams = useSearchParams()
-  const productSlug = searchParams.get('producto')
-  const categoryParam = searchParams.get('categoria')
-
-  const activeCategory = categoryParam || 'all'
+  const [productSlug, setProductSlug] = useState<string | null>(null)
+  const [activeCategory, setActiveCategory] = useState<string>('all')
   const [search, setSearch] = useState('')
+
+  // Read URL params client-side (allows static pre-render of main content)
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search)
+    const p = params.get('producto')
+    const c = params.get('categoria')
+    setProductSlug(p)
+    if (c) setActiveCategory(c)
+    else setActiveCategory('all')
+  }, [])
+
+  // Listen for URL changes (back/forward)
+  useEffect(() => {
+    const onPop = () => {
+      const params = new URLSearchParams(window.location.search)
+      const p = params.get('producto')
+      const c = params.get('categoria')
+      setProductSlug(p)
+      setActiveCategory(c || 'all')
+    }
+    window.addEventListener('popstate', onPop)
+    return () => window.removeEventListener('popstate', onPop)
+  }, [])
 
   // Scroll to top when product changes
   useEffect(() => {
-    window.scrollTo({ top: 0, behavior: 'instant' })
+    if (productSlug) window.scrollTo({ top: 0, behavior: 'instant' })
   }, [productSlug])
 
   const openProduct = useCallback((id: string) => {
-    router.push(`?producto=${id}`, { scroll: false })
-  }, [router])
+    setProductSlug(id)
+    window.history.pushState({}, '', `?producto=${id}`)
+    window.scrollTo({ top: 0, behavior: 'instant' })
+  }, [])
 
   const goHome = useCallback(() => {
-    router.push('/', { scroll: false })
-  }, [router])
+    setProductSlug(null)
+    setActiveCategory('all')
+    window.history.pushState({}, '', '/')
+  }, [])
 
   const selectCategory = useCallback((id: string) => {
+    setActiveCategory(id)
+    setProductSlug(null)
     if (id === 'all') {
-      router.push('?', { scroll: false })
+      window.history.pushState({}, '', '?')
     } else {
-      router.push(`?categoria=${id}`, { scroll: false })
+      window.history.pushState({}, '', `?categoria=${id}`)
     }
     setTimeout(() => {
       document.getElementById('catalogo')?.scrollIntoView({ behavior: 'smooth', block: 'start' })
     }, 100)
-  }, [router])
+  }, [])
 
   const [mobileMenu, setMobileMenu] = useState(false)
   const addItem = useCart((s) => s.addItem)
