@@ -5,12 +5,15 @@ import { useSearchParams, useRouter } from 'next/navigation'
 import { PRODUCTS, CATEGORIES } from '@/data/products'
 import { Header } from '@/components/catalog/header'
 import { Hero, CategoryStrip } from '@/components/catalog/hero'
+import { Marquee } from '@/components/catalog/marquee'
+import { Experiencias } from '@/components/catalog/experiencias'
 import { ProductGrid } from '@/components/catalog/product-grid'
 import { ProductDetail } from '@/components/catalog/product-detail'
 import { CartDrawer } from '@/components/catalog/cart-drawer'
 import { Footer } from '@/components/catalog/footer'
 import { Sheet, SheetContent, SheetHeader, SheetTitle } from '@/components/ui/sheet'
-import { Button } from '@/components/ui/button'
+import { useCart } from '@/store/cart'
+import { toast } from 'sonner'
 
 function CatalogContent() {
   const router = useRouter()
@@ -46,6 +49,17 @@ function CatalogContent() {
   }, [router])
 
   const [mobileMenu, setMobileMenu] = useState(false)
+  const addItem = useCart((s) => s.addItem)
+
+  const handleAddExp = useCallback((exp: { id: string; title: string; price: number; emoji: string }) => {
+    addItem({
+      productId: `exp-${exp.id}`,
+      name: `${exp.emoji} ${exp.title}`,
+      price: exp.price,
+      image: '/hero-banner.png',
+    })
+    toast.success(`${exp.title} agregada al carrito`)
+  }, [addItem])
 
   const product = productSlug ? PRODUCTS.find((p) => p.id === productSlug) : null
   const related = product
@@ -74,6 +88,7 @@ function CatalogContent() {
         ) : (
           <>
             <Hero onCategory={selectCategory} onShop={() => document.getElementById('catalogo')?.scrollIntoView({ behavior: 'smooth' })} />
+            <Marquee />
             <CategoryStrip active={activeCategory} onSelect={selectCategory} />
             <ProductGrid
               products={PRODUCTS}
@@ -82,11 +97,12 @@ function CatalogContent() {
               onCategory={selectCategory}
               search={search}
             />
+            <Experiencias onAdd={handleAddExp} />
           </>
         )}
       </main>
 
-      <Footer />
+      <Footer onCategory={selectCategory} />
       <CartDrawer />
 
       {/* Mobile menu */}
@@ -98,21 +114,21 @@ function CatalogContent() {
           <div className="p-4">
             <button
               onClick={() => { selectCategory('all'); setMobileMenu(false) }}
-              className="block w-full rounded-lg px-3 py-2.5 text-left text-sm font-medium hover:bg-muted"
+              className="block w-full rounded-lg px-3 py-2.5 text-left text-sm font-medium hover:bg-pink-50"
             >
-              🏠 Todos los productos
+              🛍️ Todos los productos
             </button>
             {CATEGORIES.map((c) => (
               <button
                 key={c.id}
                 onClick={() => { selectCategory(c.id); setMobileMenu(false) }}
-                className="block w-full rounded-lg px-3 py-2.5 text-left text-sm font-medium hover:bg-muted"
+                className="block w-full rounded-lg px-3 py-2.5 text-left text-sm font-medium hover:bg-pink-50"
               >
                 {c.emoji} {c.label}
               </button>
             ))}
-            <div className="mt-4 rounded-xl bg-rose-50 p-3 text-xs text-rose-700">
-              💝 ¿Necesitas ayuda? Escríbenos por WhatsApp: 320 123 4567
+            <div className="mt-4 rounded-xl bg-pink-50 p-3 text-xs text-pink-700">
+              💝 ¿Necesitas ayuda? Escríbenos por WhatsApp: +57 320 276 1748
             </div>
           </div>
         </SheetContent>
@@ -123,7 +139,7 @@ function CatalogContent() {
 
 export default function Home() {
   return (
-    <Suspense fallback={<div className="flex min-h-screen items-center justify-center"><div className="h-8 w-8 animate-spin rounded-full border-4 border-rose-600 border-t-transparent" /></div>}>
+    <Suspense fallback={<div className="flex min-h-screen items-center justify-center"><div className="h-8 w-8 animate-spin rounded-full border-4 border-pink-500 border-t-transparent" /></div>}>
       <CatalogContent />
     </Suspense>
   )

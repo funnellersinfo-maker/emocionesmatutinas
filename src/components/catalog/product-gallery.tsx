@@ -39,7 +39,7 @@ export function ProductGallery({ images, name }: ProductGalleryProps) {
             onClick={() => setActive(i)}
             className={cn(
               'relative h-16 w-16 shrink-0 overflow-hidden rounded-lg border-2 transition-all sm:h-18 sm:w-18',
-              active === i ? 'border-rose-600 ring-2 ring-rose-600/20' : 'border-border hover:border-rose-400'
+              active === i ? 'border-pink-600 ring-2 ring-pink-600/20' : 'border-border hover:border-pink-400'
             )}
           >
             <Image src={img} alt={`${name} ${i + 1}`} fill sizes="72px" className="object-cover" />
@@ -96,7 +96,7 @@ export function ProductGallery({ images, name }: ProductGalleryProps) {
             <button
               key={i}
               onClick={() => setActive(i)}
-              className={cn('h-1.5 rounded-full transition-all', active === i ? 'w-5 bg-rose-600' : 'w-1.5 bg-border')}
+              className={cn('h-1.5 rounded-full transition-all', active === i ? 'w-5 bg-pink-600' : 'w-1.5 bg-border')}
             />
           ))}
         </div>

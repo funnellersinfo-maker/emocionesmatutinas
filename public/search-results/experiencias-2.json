@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "query": "personalized video photo slideshow gift memories",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3a57a7406c56.png",
+      "caption": "",
+      "source": "peach and pear studio",
+      "original_width": "2048px",
+      "original_height": "2048px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d21a98af9d63.jpg",
+      "caption": "",
+      "source": "Amazon.in",
+      "original_width": "1080px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/58e6ea4072a5.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "1080px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/40a3f7f79e6a.png",
+      "caption": "",
+      "source": "PCMag",
+      "original_width": "1050px",
+      "original_height": "757px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e60a5c942404.png",
+      "caption": "",
+      "source": "Tribute Blog",
+      "original_width": "2560px",
+      "original_height": "1396px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/679cc4f692e5.jpg",
+      "caption": "",
+      "source": "Amazon.in",
+      "original_width": "1080px",
+      "original_height": "1080px"
+    }
+  ]
+}

@@ -18,10 +18,10 @@ interface ProductCardProps {
 }
 
 const badgeStyles: Record<string, string> = {
-  'Más vendido': 'bg-rose-600 text-white hover:bg-rose-600',
-  'Premium': 'bg-amber-600 text-white hover:bg-amber-600',
-  'Nuevo': 'bg-emerald-600 text-white hover:bg-emerald-600',
-  'Favorito': 'bg-fuchsia-600 text-white hover:bg-fuchsia-600',
+  'Más vendido': 'bg-pink-500 text-white hover:bg-pink-500',
+  'Premium': 'bg-amber-500 text-white hover:bg-amber-500',
+  'Nuevo': 'bg-emerald-500 text-white hover:bg-emerald-500',
+  'Favorito': 'bg-fuchsia-500 text-white hover:bg-fuchsia-500',
 }
 
 export function ProductCard({ product, onOpen, index = 0 }: ProductCardProps) {
@@ -50,14 +50,14 @@ export function ProductCard({ product, onOpen, index = 0 }: ProductCardProps) {
       className="h-full"
     >
       <Card
-        className="group relative overflow-hidden border-border/60 bg-card transition-all duration-300 hover:shadow-xl hover:shadow-rose-500/10 hover:-translate-y-1 cursor-pointer h-full flex flex-col"
+        className="group relative h-full cursor-pointer overflow-hidden border-pink-100/80 bg-white transition-all duration-300 hover:-translate-y-1 hover:border-pink-300 hover:shadow-xl hover:shadow-pink-500/10"
         onClick={() => onOpen(product.id)}
         onMouseEnter={() => product.images.length > 1 && setImgIdx(1)}
         onMouseLeave={() => setImgIdx(0)}
       >
         {/* Image area */}
-        <div className="relative aspect-square overflow-hidden bg-muted/30">
-          {!loaded && <div className="absolute inset-0 animate-pulse bg-muted" />}
+        <div className="relative aspect-square overflow-hidden bg-pink-50/40">
+          {!loaded && <div className="absolute inset-0 animate-pulse bg-pink-100/50" />}
           <Image
             src={product.images[imgIdx] || product.images[0]}
             alt={product.name}
@@ -83,7 +83,7 @@ export function ProductCard({ product, onOpen, index = 0 }: ProductCardProps) {
             className="absolute right-3 top-3 z-10 grid h-9 w-9 place-items-center rounded-full bg-white/80 backdrop-blur transition-colors hover:bg-white"
             aria-label="Me gusta"
           >
-            <Heart className={cn('h-4 w-4 transition-all', liked ? 'fill-rose-600 text-rose-600' : 'text-foreground/60')} />
+            <Heart className={cn('h-4 w-4 transition-all', liked ? 'fill-pink-500 text-pink-500' : 'text-gray-500')} />
           </button>
 
           {/* Quick add - appears on hover (desktop) */}
@@ -91,7 +91,7 @@ export function ProductCard({ product, onOpen, index = 0 }: ProductCardProps) {
             <Button
               size="sm"
               onClick={quickAdd}
-              className="flex-1 bg-rose-600 text-white hover:bg-rose-700 shadow-lg"
+              className="flex-1 rounded-full bg-pink-500 text-white shadow-lg hover:bg-pink-600"
             >
               <ShoppingCart className="mr-1.5 h-4 w-4" />
               Agregar
@@ -100,7 +100,7 @@ export function ProductCard({ product, onOpen, index = 0 }: ProductCardProps) {
               size="sm"
               variant="secondary"
               onClick={(e) => { e.stopPropagation(); onOpen(product.id) }}
-              className="bg-white/90 text-foreground hover:bg-white shadow-lg"
+              className="rounded-full bg-white/90 text-gray-800 shadow-lg hover:bg-white"
             >
               <Eye className="h-4 w-4" />
             </Button>
@@ -109,7 +109,7 @@ export function ProductCard({ product, onOpen, index = 0 }: ProductCardProps) {
 
         {/* Content */}
         <div className="flex flex-1 flex-col p-3 sm:p-4">
-          <div className="mb-1 flex items-center gap-1 text-xs text-muted-foreground">
+          <div className="mb-1 flex items-center gap-1 text-xs text-pink-600/80">
             <span>{product.emoji}</span>
             <span>{product.categoryLabel}</span>
           </div>
@@ -126,13 +126,13 @@ export function ProductCard({ product, onOpen, index = 0 }: ProductCardProps) {
           </div>
 
           <div className="mt-auto pt-3">
-            <div className="text-base font-bold text-rose-700 sm:text-lg">
+            <div className="text-base font-bold text-pink-600 sm:text-lg">
               {formatCOP(product.price)}
             </div>
             <Button
               size="sm"
               onClick={quickAdd}
-              className="mt-2 w-full bg-rose-600 text-white hover:bg-rose-700 sm:hidden"
+              className="mt-2 w-full rounded-full bg-pink-500 text-white hover:bg-pink-600 sm:hidden"
             >
               <ShoppingCart className="mr-1.5 h-4 w-4" />
               Agregar

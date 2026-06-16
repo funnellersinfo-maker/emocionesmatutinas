@@ -62,7 +62,7 @@ export function ProductDetail({ product, related, onBack, onOpen }: ProductDetai
     <div className="mx-auto max-w-7xl px-4 py-6 sm:px-6 sm:py-8">
       {/* Breadcrumb */}
       <nav className="mb-4 flex items-center gap-1.5 text-sm text-muted-foreground">
-        <button onClick={onBack} className="hover:text-rose-600">Inicio</button>
+        <button onClick={onBack} className="hover:text-pink-600">Inicio</button>
         <span>/</span>
         <span>{product.emoji} {product.categoryLabel}</span>
         <span>/</span>
@@ -79,7 +79,7 @@ export function ProductDetail({ product, related, onBack, onOpen }: ProductDetai
         <motion.div initial={{ opacity: 0, x: 10 }} animate={{ opacity: 1, x: 0 }} className="flex flex-col">
           <div className="flex items-center gap-2">
             <span className="text-sm text-muted-foreground">{product.emoji} {product.categoryLabel}</span>
-            {product.badge && <Badge className="bg-rose-600 text-white">{product.badge}</Badge>}
+            {product.badge && <Badge className="bg-pink-600 text-white">{product.badge}</Badge>}
           </div>
 
           <h1 className="mt-2 text-2xl font-bold leading-tight text-foreground sm:text-3xl">
@@ -97,7 +97,7 @@ export function ProductDetail({ product, related, onBack, onOpen }: ProductDetai
           </div>
 
           <div className="mt-4 flex items-baseline gap-2">
-            <span className="text-3xl font-bold text-rose-700">{formatCOP(product.price)}</span>
+            <span className="text-3xl font-bold text-pink-700">{formatCOP(product.price)}</span>
             <span className="text-sm text-muted-foreground">incluye envío en Bogotá</span>
           </div>
 
@@ -106,15 +106,15 @@ export function ProductDetail({ product, related, onBack, onOpen }: ProductDetai
           {/* Trust badges */}
           <div className="mt-4 grid grid-cols-3 gap-2 rounded-xl bg-muted/40 p-3">
             <div className="flex flex-col items-center gap-1 text-center">
-              <Truck className="h-5 w-5 text-rose-600" />
+              <Truck className="h-5 w-5 text-pink-600" />
               <span className="text-[11px] font-medium">Entrega hoy</span>
             </div>
             <div className="flex flex-col items-center gap-1 text-center">
-              <ShieldCheck className="h-5 w-5 text-rose-600" />
+              <ShieldCheck className="h-5 w-5 text-pink-600" />
               <span className="text-[11px] font-medium">Pago seguro</span>
             </div>
             <div className="flex flex-col items-center gap-1 text-center">
-              <RefreshCw className="h-5 w-5 text-rose-600" />
+              <RefreshCw className="h-5 w-5 text-pink-600" />
               <span className="text-[11px] font-medium">Garantía total</span>
             </div>
           </div>
@@ -143,7 +143,7 @@ export function ProductDetail({ product, related, onBack, onOpen }: ProductDetai
                 <ul className="grid grid-cols-1 gap-1.5 sm:grid-cols-2">
                   {product.benefits.map((b, i) => (
                     <li key={i} className="flex items-start gap-2 text-sm text-muted-foreground">
-                      <ShoppingBag className="mt-0.5 h-4 w-4 shrink-0 text-rose-600" /> {b}
+                      <ShoppingBag className="mt-0.5 h-4 w-4 shrink-0 text-pink-600" /> {b}
                     </li>
                   ))}
                 </ul>
@@ -161,7 +161,7 @@ export function ProductDetail({ product, related, onBack, onOpen }: ProductDetai
             <TabsContent value="reviews" className="mt-4 space-y-3">
               <div className="flex items-center gap-4 rounded-xl border border-border bg-muted/30 p-4">
                 <div className="text-center">
-                  <div className="text-4xl font-bold text-rose-700">{product.rating}</div>
+                  <div className="text-4xl font-bold text-pink-700">{product.rating}</div>
                   <div className="mt-1 flex justify-center">
                     {[1,2,3,4,5].map((s) => (
                       <Star key={s} className={cn('h-3.5 w-3.5', s <= Math.round(product.rating) ? 'fill-amber-500 text-amber-500' : 'fill-muted text-muted')} />
@@ -190,7 +190,7 @@ export function ProductDetail({ product, related, onBack, onOpen }: ProductDetai
                 <div key={i} className="rounded-xl border border-border p-3">
                   <div className="flex items-center justify-between">
                     <div className="flex items-center gap-2">
-                      <div className="grid h-8 w-8 place-items-center rounded-full bg-rose-100 text-xs font-semibold text-rose-700">
+                      <div className="grid h-8 w-8 place-items-center rounded-full bg-pink-100 text-xs font-semibold text-pink-700">
                         {r.author.charAt(0)}
                       </div>
                       <div>
@@ -224,8 +224,8 @@ export function ProductDetail({ product, related, onBack, onOpen }: ProductDetai
 
           {/* Personalization */}
           {product.customizable && (
-            <div className="mt-5 rounded-xl border border-rose-200 bg-rose-50/50 p-4">
-              <h3 className="mb-3 flex items-center gap-2 text-sm font-bold text-rose-800">
+            <div className="mt-5 rounded-xl border border-pink-200 bg-pink-50/50 p-4">
+              <h3 className="mb-3 flex items-center gap-2 text-sm font-bold text-pink-800">
                 <span className="text-base">✨</span> Personaliza tu regalo
               </h3>
               <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
@@ -272,7 +272,7 @@ export function ProductDetail({ product, related, onBack, onOpen }: ProductDetai
                 <Plus className="h-4 w-4" />
               </button>
             </div>
-            <Button onClick={handleAdd} className="flex-1 bg-rose-600 py-6 text-base font-semibold text-white hover:bg-rose-700 shadow-lg shadow-rose-600/20">
+            <Button onClick={handleAdd} className="flex-1 bg-pink-600 py-6 text-base font-semibold text-white hover:bg-pink-700 shadow-lg shadow-pink-600/20">
               <ShoppingBag className="mr-2 h-5 w-5" />
               Agregar · {formatCOP(total)}
             </Button>

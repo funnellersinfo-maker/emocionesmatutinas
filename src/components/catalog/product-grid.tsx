@@ -81,7 +81,7 @@ export function ProductGrid({ products, onOpen, activeCategory, onCategory, sear
         <div className="flex flex-wrap gap-1.5">
           <button
             onClick={() => onCategory('all')}
-            className={cn('rounded-full border px-3 py-1 text-xs', activeCategory === 'all' ? 'border-rose-600 bg-rose-600 text-white' : 'border-border')}
+            className={cn('rounded-full border px-3 py-1 text-xs', activeCategory === 'all' ? 'border-pink-600 bg-pink-600 text-white' : 'border-border')}
           >
             Todas
           </button>
@@ -89,7 +89,7 @@ export function ProductGrid({ products, onOpen, activeCategory, onCategory, sear
             <button
               key={c.id}
               onClick={() => onCategory(c.id)}
-              className={cn('rounded-full border px-3 py-1 text-xs', activeCategory === c.id ? 'border-rose-600 bg-rose-600 text-white' : 'border-border')}
+              className={cn('rounded-full border px-3 py-1 text-xs', activeCategory === c.id ? 'border-pink-600 bg-pink-600 text-white' : 'border-border')}
             >
               {c.emoji} {c.label}
             </button>
@@ -104,7 +104,7 @@ export function ProductGrid({ products, onOpen, activeCategory, onCategory, sear
             <button
               key={p.id}
               onClick={() => setPriceRange(p.id)}
-              className={cn('block w-full rounded-lg border px-3 py-1.5 text-left text-xs', priceRange === p.id ? 'border-rose-600 bg-rose-50 text-rose-700' : 'border-border')}
+              className={cn('block w-full rounded-lg border px-3 py-1.5 text-left text-xs', priceRange === p.id ? 'border-pink-600 bg-pink-50 text-pink-700' : 'border-border')}
             >
               {p.label}
             </button>
@@ -119,7 +119,7 @@ export function ProductGrid({ products, onOpen, activeCategory, onCategory, sear
             <button
               key={r}
               onClick={() => setMinRating(r)}
-              className={cn('flex items-center gap-1 rounded-lg border px-2.5 py-1.5 text-xs', minRating === r ? 'border-rose-600 bg-rose-50 text-rose-700' : 'border-border')}
+              className={cn('flex items-center gap-1 rounded-lg border px-2.5 py-1.5 text-xs', minRating === r ? 'border-pink-600 bg-pink-50 text-pink-700' : 'border-border')}
             >
               {r === 0 ? 'Todas' : (<><Star className="h-3 w-3 fill-amber-500 text-amber-500" />{r}+</>)}
             </button>
@@ -129,11 +129,11 @@ export function ProductGrid({ products, onOpen, activeCategory, onCategory, sear
 
       <div className="space-y-2">
         <label className="flex items-center gap-2 text-sm">
-          <input type="checkbox" checked={onlyBadges} onChange={(e) => setOnlyBadges(e.target.checked)} className="accent-rose-600" />
+          <input type="checkbox" checked={onlyBadges} onChange={(e) => setOnlyBadges(e.target.checked)} className="accent-pink-600" />
           Solo productos destacados
         </label>
         <label className="flex items-center gap-2 text-sm">
-          <input type="checkbox" checked={onlyCustom} onChange={(e) => setOnlyCustom(e.target.checked)} className="accent-rose-600" />
+          <input type="checkbox" checked={onlyCustom} onChange={(e) => setOnlyCustom(e.target.checked)} className="accent-pink-600" />
           Solo personalizables
         </label>
       </div>
@@ -204,7 +204,7 @@ export function ProductGrid({ products, onOpen, activeCategory, onCategory, sear
                     size="lg"
                     variant="outline"
                     onClick={() => setVisible((v) => v + 12)}
-                    className="border-rose-200 px-8"
+                    className="border-pink-200 px-8"
                   >
                     Ver más productos ({filtered.length - visible})
                   </Button>
@@ -223,7 +223,7 @@ export function ProductGrid({ products, onOpen, activeCategory, onCategory, sear
           </SheetHeader>
           <div className="overflow-y-auto p-4">{FiltersContent}</div>
           <div className="border-t p-4">
-            <Button className="w-full bg-rose-600 text-white hover:bg-rose-700" onClick={() => setFilterOpen(false)}>
+            <Button className="w-full bg-pink-600 text-white hover:bg-pink-700" onClick={() => setFilterOpen(false)}>
               Ver {filtered.length} productos
             </Button>
           </div>

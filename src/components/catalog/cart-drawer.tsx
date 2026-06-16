@@ -12,12 +12,12 @@ export function CartDrawer() {
 
   return (
     <Sheet open={isOpen} onOpenChange={setOpen}>
-      <SheetContent className="flex w-full flex-col border-l-rose-100 sm:max-w-md">
+      <SheetContent className="flex w-full flex-col border-l-pink-100 sm:max-w-md">
         <SheetHeader className="border-b border-border pb-4">
           <SheetTitle className="flex items-center gap-2 text-lg font-bold">
-            <ShoppingBag className="h-5 w-5 text-rose-600" />
+            <ShoppingBag className="h-5 w-5 text-pink-600" />
             Tu carrito
-            <span className="rounded-full bg-rose-100 px-2 py-0.5 text-xs font-semibold text-rose-700">
+            <span className="rounded-full bg-pink-100 px-2 py-0.5 text-xs font-semibold text-pink-700">
               {count()}
             </span>
           </SheetTitle>
@@ -32,7 +32,7 @@ export function CartDrawer() {
               <p className="font-semibold text-foreground">Tu carrito está vacío</p>
               <p className="mt-1 text-sm text-muted-foreground">Agrega productos y volverán aquí</p>
             </div>
-            <Button onClick={() => setOpen(false)} className="mt-2 bg-rose-600 text-white hover:bg-rose-700">
+            <Button onClick={() => setOpen(false)} className="mt-2 bg-pink-600 text-white hover:bg-pink-700">
               Explorar catálogo
             </Button>
           </div>
@@ -62,10 +62,10 @@ export function CartDrawer() {
                           <Plus className="h-3 w-3" />
                         </button>
                       </div>
-                      <span className="text-sm font-bold text-rose-700">{formatCOP(it.price * it.quantity)}</span>
+                      <span className="text-sm font-bold text-pink-700">{formatCOP(it.price * it.quantity)}</span>
                     </div>
                   </div>
-                  <button onClick={() => removeItem(it.id)} className="self-start text-muted-foreground hover:text-rose-600">
+                  <button onClick={() => removeItem(it.id)} className="self-start text-muted-foreground hover:text-pink-600">
                     <Trash2 className="h-4 w-4" />
                   </button>
                 </div>
@@ -82,10 +82,10 @@ export function CartDrawer() {
                 <span className="text-sm text-muted-foreground">Subtotal</span>
                 <span className="text-lg font-bold text-foreground">{formatCOP(total())}</span>
               </div>
-              <Button className="w-full bg-rose-600 py-6 text-base font-semibold text-white hover:bg-rose-700">
+              <Button className="w-full bg-pink-600 py-6 text-base font-semibold text-white hover:bg-pink-700">
                 Finalizar compra · {formatCOP(total())}
               </Button>
-              <button onClick={() => setOpen(false)} className="mt-2 w-full text-center text-sm text-muted-foreground hover:text-rose-600">
+              <button onClick={() => setOpen(false)} className="mt-2 w-full text-center text-sm text-muted-foreground hover:text-pink-600">
                 Seguir comprando
               </button>
             </div>
