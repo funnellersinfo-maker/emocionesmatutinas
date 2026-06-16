@@ -388,7 +388,30 @@ function buildFull(p, idx) {
   }
 }
 
-const allProducts = PRODUCTS_DEF.map((p, i) => buildFull(p, i))
+const allProductsRaw = PRODUCTS_DEF.map((p, i) => buildFull(p, i))
+
+// Interleave products across categories (round-robin) so the catalog feels varied
+// instead of showing 20 peluches, then 20 flores, etc.
+// Strategy: rotate through categories [peluches, flores, desayunos, globos, cumpleanos,
+// aniversarios, personalizados, sorpresas] picking one product at a time from each.
+const CAT_ORDER = ['peluches', 'flores', 'desayunos', 'globos', 'cumpleanos', 'aniversarios', 'personalizados', 'sorpresas']
+const buckets = {}
+for (const cat of CAT_ORDER) buckets[cat] = []
+for (const p of allProductsRaw) buckets[p.category].push(p)
+
+const allProducts = []
+let remaining = allProductsRaw.length
+let idx = 0
+while (remaining > 0) {
+  const cat = CAT_ORDER[idx % CAT_ORDER.length]
+  if (buckets[cat].length > 0) {
+    allProducts.push(buckets[cat].shift())
+    remaining--
+  }
+  idx++
+  // safety
+  if (idx > allProductsRaw.length * CAT_ORDER.length) break
+}
 
 // Stats
 const byCat = {}

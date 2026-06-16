@@ -109,6 +109,475 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
+    "id": "el-amor-que-no-cabe-en-palabras",
+    "name": "El amor que no cabe en palabras",
+    "category": "flores",
+    "categoryLabel": "Flores",
+    "emoji": "🌹",
+    "price": 189900,
+    "shortDescription": "Ramo de flores frescas el amor que no cabe en palabras con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El amor que no cabe en palabras es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el amor que no cabe en palabras con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Arreglo floral fresco",
+      "Papel kraft de lujo",
+      "Cinta de raso",
+      "Tarjeta dedicatoria",
+      "Conservante floral"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 180,
+    "reviews": [
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "fresco",
+      "flores",
+      "romántico",
+      "elegante",
+      "regalo"
+    ],
+    "badge": "Más vendido",
+    "customizable": false,
+    "features": [
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos"
+    ],
+    "benefits": [
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/0422f20293e1.jpg",
+      "https://sfile.chatglm.cn/images-ppt/7b455d6a3f21.jpg",
+      "https://sfile.chatglm.cn/images-ppt/964a50cb51e6.jpg",
+      "https://sfile.chatglm.cn/images-ppt/adac82b38165.jpg",
+      "https://sfile.chatglm.cn/images-ppt/7ac7345de4c7.jpg"
+    ]
+  },
+  {
+    "id": "el-despertar-magico-que-recordara-toda-la-vida",
+    "name": "El despertar mágico que recordará toda la vida",
+    "category": "desayunos",
+    "categoryLabel": "Desayunos",
+    "emoji": "🎂",
+    "price": 149900,
+    "shortDescription": "Desayuno especial el despertar mágico que recordará toda la vida con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El despertar mágico que recordará toda la vida es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el despertar mágico que recordará toda la vida con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Jugo natural",
+      "Café premium",
+      "Pan artesanal",
+      "Fruta fresca",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 280,
+    "reviews": [
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "domicilio",
+      "mañana",
+      "gourmet",
+      "bogotá",
+      "entrega"
+    ],
+    "badge": "Más vendido",
+    "customizable": true,
+    "features": [
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional"
+    ],
+    "benefits": [
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/dd7865fd67f5.jpg",
+      "https://sfile.chatglm.cn/images-ppt/d305a8df11b4.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/14133150b31f.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1dc357b450c3.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b967a9e38f6b.jpg"
+    ]
+  },
+  {
+    "id": "la-fiesta-empieza-antes-de-abrir-la-puerta",
+    "name": "La fiesta empieza antes de abrir la puerta",
+    "category": "globos",
+    "categoryLabel": "Globos",
+    "emoji": "🎈",
+    "price": 159900,
+    "shortDescription": "Decoración con globos la fiesta empieza antes de abrir la puerta de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "La fiesta empieza antes de abrir la puerta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la fiesta empieza antes de abrir la puerta de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Globos látex premium",
+      "Globos foil",
+      "Helio incluido",
+      "Cinta y lazo",
+      "Soporte decorativo"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 380,
+    "reviews": [
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "helio",
+      "decoración",
+      "fiesta",
+      "cumpleaños",
+      "celebración"
+    ],
+    "badge": "Más vendido",
+    "customizable": false,
+    "features": [
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos"
+    ],
+    "benefits": [
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/f16a76e2b223.jpg",
+      "https://sfile.chatglm.cn/images-ppt/196965b72070.jpg",
+      "https://sfile.chatglm.cn/images-ppt/fa3d79730493.jpg",
+      "https://sfile.chatglm.cn/images-ppt/0218fc9529ee.jpg",
+      "https://sfile.chatglm.cn/images-ppt/6ab0e72c0dc4.jpg"
+    ]
+  },
+  {
+    "id": "el-cumpleanos-legendario-que-recordara-siempre",
+    "name": "El cumpleaños legendario que recordará siempre",
+    "category": "cumpleanos",
+    "categoryLabel": "Cumpleaños",
+    "emoji": "🎁",
+    "price": 129900,
+    "shortDescription": "Celebra con el cumpleaños legendario que recordará siempre, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "El cumpleaños legendario que recordará siempre es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el cumpleaños legendario que recordará siempre, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto principal",
+      "Velas de cumpleaños",
+      "Tarjeta dedicatoria",
+      "Decoración",
+      "Bolsa de regalo"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 160,
+    "reviews": [
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "cumpleaños",
+      "fiesta",
+      "celebración",
+      "torta",
+      "regalo"
+    ],
+    "badge": "Más vendido",
+    "customizable": true,
+    "features": [
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional"
+    ],
+    "benefits": [
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/a111fbcdf0b1.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c03b84109179.jpg",
+      "https://sfile.chatglm.cn/images-ppt/72a5189d07bd.jpg",
+      "https://sfile.chatglm.cn/images-ppt/8591b7823154.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b7332b82be61.jpeg"
+    ]
+  },
+  {
+    "id": "la-noche-que-nunca-olvidara",
+    "name": "La noche que nunca olvidará",
+    "category": "aniversarios",
+    "categoryLabel": "Aniversarios",
+    "emoji": "💝",
+    "price": 249900,
+    "shortDescription": "Celebra su aniversario con la noche que nunca olvidará, una experiencia pensada para parejas.",
+    "fullDescription": "La noche que nunca olvidará es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con la noche que nunca olvidará, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Experiencia principal",
+      "Detalle romántico",
+      "Tarjeta dedicatoria",
+      "Empaque de lujo",
+      "Velas decorativas"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 260,
+    "reviews": [
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "aniversario",
+      "pareja",
+      "romántico",
+      "amor",
+      "experiencia"
+    ],
+    "badge": "Premium",
+    "customizable": true,
+    "features": [
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos"
+    ],
+    "benefits": [
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/1f4bf09d769c.jpg",
+      "https://sfile.chatglm.cn/images-ppt/71ca00b38576.jpg",
+      "https://sfile.chatglm.cn/images-ppt/0d4fa1db74c2.jpg",
+      "https://sfile.chatglm.cn/images-ppt/2b1937ef2e4f.png",
+      "https://sfile.chatglm.cn/images-ppt/6c056bb92d90.png"
+    ]
+  },
+  {
+    "id": "su-nombre-grabado-en-oro-para-siempre",
+    "name": "Su nombre grabado en oro para siempre",
+    "category": "personalizados",
+    "categoryLabel": "Personalizados",
+    "emoji": "✨",
+    "price": 119900,
+    "shortDescription": "Producto personalizado su nombre grabado en oro para siempre con grabado e impresión de alta calidad.",
+    "fullDescription": "Su nombre grabado en oro para siempre es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado su nombre grabado en oro para siempre con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto personalizado",
+      "Diseño a medida",
+      "Prueba digital",
+      "Caja de regalo",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 360,
+    "reviews": [
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "personalizado",
+      "nombre",
+      "foto",
+      "único",
+      "grabado"
+    ],
+    "badge": "Más vendido",
+    "customizable": true,
+    "features": [
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional"
+    ],
+    "benefits": [
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/211c44e447bc.jpg",
+      "https://sfile.chatglm.cn/images-ppt/6ab3b3241f06.jpg",
+      "https://sfile.chatglm.cn/images-ppt/de106f065e3f.jpg",
+      "https://sfile.chatglm.cn/images-ppt/6392b75a76b6.jpg",
+      "https://sfile.chatglm.cn/images-ppt/bbc28a4aa401.png"
+    ]
+  },
+  {
+    "id": "la-caja-misterio-que-no-querra-dejar-de-abrir",
+    "name": "La caja misterio que no querrá dejar de abrir",
+    "category": "sorpresas",
+    "categoryLabel": "Sorpresas",
+    "emoji": "🎉",
+    "price": 159900,
+    "shortDescription": "Sorpresa única la caja misterio que no querrá dejar de abrir con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "La caja misterio que no querrá dejar de abrir es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única la caja misterio que no querrá dejar de abrir con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Curaduría de productos",
+      "Empaque de lujo",
+      "Tarjeta sorpresa",
+      "Cinta decorativa",
+      "Detalle especial"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 140,
+    "reviews": [
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "sorpresa",
+      "misterio",
+      "curado",
+      "lujo",
+      "regalo"
+    ],
+    "badge": "Más vendido",
+    "customizable": true,
+    "features": [
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos"
+    ],
+    "benefits": [
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/f54bd88a1eb8.jpg",
+      "https://sfile.chatglm.cn/images-ppt/fc19c3e94f0b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/0e4ce6118eec.jpg",
+      "https://sfile.chatglm.cn/images-ppt/fd2f6f2d3158.jpg",
+      "https://sfile.chatglm.cn/images-ppt/e8096263ee97.jpg"
+    ]
+  },
+  {
     "id": "su-primer-gran-amor-de-felpa",
     "name": "Su primer gran amor de felpa",
     "category": "peluches",
@@ -178,6 +647,517 @@ export const PRODUCTS: Product[] = [
       "https://sfile.chatglm.cn/images-ppt/6a7775a57f4e.jpg",
       "https://sfile.chatglm.cn/images-ppt/1840d0c42b12.jpeg",
       "https://sfile.chatglm.cn/images-ppt/3e9fefe1b530.jpg"
+    ]
+  },
+  {
+    "id": "el-verano-eterno-en-su-mesa",
+    "name": "El verano eterno en su mesa",
+    "category": "flores",
+    "categoryLabel": "Flores",
+    "emoji": "🌹",
+    "price": 119900,
+    "shortDescription": "Ramo de flores frescas el verano eterno en su mesa con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El verano eterno en su mesa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el verano eterno en su mesa con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Arreglo floral fresco",
+      "Papel kraft de lujo",
+      "Cinta de raso",
+      "Tarjeta dedicatoria",
+      "Conservante floral"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 217,
+    "reviews": [
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "fresco",
+      "flores",
+      "romántico",
+      "elegante",
+      "regalo"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado"
+    ],
+    "benefits": [
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/d9874d0be311.jpg",
+      "https://sfile.chatglm.cn/images-ppt/899b79ac661f.jpg",
+      "https://sfile.chatglm.cn/images-ppt/45caa7c88923.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a9aa637d7fb4.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f4951493a7d7.jpg"
+    ]
+  },
+  {
+    "id": "una-manana-en-paris-sin-salir-de-bogota",
+    "name": "Una mañana en París sin salir de Bogotá",
+    "category": "desayunos",
+    "categoryLabel": "Desayunos",
+    "emoji": "🎂",
+    "price": 129900,
+    "shortDescription": "Desayuno especial una mañana en parís sin salir de bogotá con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "Una mañana en París sin salir de Bogotá es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial una mañana en parís sin salir de bogotá con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Jugo natural",
+      "Café premium",
+      "Pan artesanal",
+      "Fruta fresca",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 317,
+    "reviews": [
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "domicilio",
+      "mañana",
+      "gourmet",
+      "bogotá",
+      "entrega"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD"
+    ],
+    "benefits": [
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/3e85aa4d138c.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c713f78b10fa.jpg",
+      "https://sfile.chatglm.cn/images-ppt/9eecd1ed8eb8.jpg",
+      "https://sfile.chatglm.cn/images-ppt/15dc99716b5b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1a885f9e2150.jpg"
+    ]
+  },
+  {
+    "id": "la-sorpresa-que-flota-sobre-su-mesa",
+    "name": "La sorpresa que flota sobre su mesa",
+    "category": "globos",
+    "categoryLabel": "Globos",
+    "emoji": "🎈",
+    "price": 89900,
+    "shortDescription": "Decoración con globos la sorpresa que flota sobre su mesa de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "La sorpresa que flota sobre su mesa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la sorpresa que flota sobre su mesa de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Globos látex premium",
+      "Globos foil",
+      "Helio incluido",
+      "Cinta y lazo",
+      "Soporte decorativo"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 97,
+    "reviews": [
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "helio",
+      "decoración",
+      "fiesta",
+      "cumpleaños",
+      "celebración"
+    ],
+    "badge": "Favorito",
+    "customizable": false,
+    "features": [
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado"
+    ],
+    "benefits": [
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/d8325845ed1c.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a9d907a0b30b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a30f760e2796.jpg",
+      "https://sfile.chatglm.cn/images-ppt/e9715df9876b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/449925b0d69c.jpg"
+    ]
+  },
+  {
+    "id": "el-cumpleanos-que-lo-tiene-absolutamente-todo",
+    "name": "El cumpleaños que lo tiene absolutamente todo",
+    "category": "cumpleanos",
+    "categoryLabel": "Cumpleaños",
+    "emoji": "🎁",
+    "price": 189900,
+    "shortDescription": "Celebra con el cumpleaños que lo tiene absolutamente todo, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "El cumpleaños que lo tiene absolutamente todo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el cumpleaños que lo tiene absolutamente todo, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto principal",
+      "Velas de cumpleaños",
+      "Tarjeta dedicatoria",
+      "Decoración",
+      "Bolsa de regalo"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 197,
+    "reviews": [
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "cumpleaños",
+      "fiesta",
+      "celebración",
+      "torta",
+      "regalo"
+    ],
+    "badge": "Premium",
+    "customizable": true,
+    "features": [
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD"
+    ],
+    "benefits": [
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/6c7debd10a0a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/78bf09d06ce7.jpg",
+      "https://sfile.chatglm.cn/images-ppt/0537aa4c60c4.jpg",
+      "https://sfile.chatglm.cn/images-ppt/0ba7ccd86258.jpg",
+      "https://sfile.chatglm.cn/images-ppt/4e857e812910.jpg"
+    ]
+  },
+  {
+    "id": "el-amor-eterno-celebrado-en-una-caja",
+    "name": "El amor eterno celebrado en una caja",
+    "category": "aniversarios",
+    "categoryLabel": "Aniversarios",
+    "emoji": "💝",
+    "price": 189900,
+    "shortDescription": "Celebra su aniversario con el amor eterno celebrado en una caja, una experiencia pensada para parejas.",
+    "fullDescription": "El amor eterno celebrado en una caja es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el amor eterno celebrado en una caja, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Experiencia principal",
+      "Detalle romántico",
+      "Tarjeta dedicatoria",
+      "Empaque de lujo",
+      "Velas decorativas"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 297,
+    "reviews": [
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "aniversario",
+      "pareja",
+      "romántico",
+      "amor",
+      "experiencia"
+    ],
+    "badge": "Más vendido",
+    "customizable": false,
+    "features": [
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado"
+    ],
+    "benefits": [
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/faeca602d653.png",
+      "https://sfile.chatglm.cn/images-ppt/7754fe81acb9.png",
+      "https://sfile.chatglm.cn/images-ppt/4eee24e44e3a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f59cf35a5d15.jpg",
+      "https://sfile.chatglm.cn/images-ppt/4c550ee8ecaf.jpeg"
+    ]
+  },
+  {
+    "id": "la-taza-de-los-dos-con-su-mejor-foto",
+    "name": "La taza de los dos con su mejor foto",
+    "category": "personalizados",
+    "categoryLabel": "Personalizados",
+    "emoji": "✨",
+    "price": 69900,
+    "shortDescription": "Producto personalizado la taza de los dos con su mejor foto con grabado e impresión de alta calidad.",
+    "fullDescription": "La taza de los dos con su mejor foto es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la taza de los dos con su mejor foto con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto personalizado",
+      "Diseño a medida",
+      "Prueba digital",
+      "Caja de regalo",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 397,
+    "reviews": [
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "personalizado",
+      "nombre",
+      "foto",
+      "único",
+      "grabado"
+    ],
+    "badge": "Favorito",
+    "customizable": true,
+    "features": [
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD"
+    ],
+    "benefits": [
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/593747e116b9.jpg",
+      "https://sfile.chatglm.cn/images-ppt/7c8ee3e6ccff.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f0c6aa98f35a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/e8df8c394add.jpg",
+      "https://sfile.chatglm.cn/images-ppt/0c031f6d34c5.jpg"
+    ]
+  },
+  {
+    "id": "la-sorpresa-mananera-que-despierta-sonrisas",
+    "name": "La sorpresa mañanera que despierta sonrisas",
+    "category": "sorpresas",
+    "categoryLabel": "Sorpresas",
+    "emoji": "🎉",
+    "price": 139900,
+    "shortDescription": "Sorpresa única la sorpresa mañanera que despierta sonrisas con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "La sorpresa mañanera que despierta sonrisas es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única la sorpresa mañanera que despierta sonrisas con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Curaduría de productos",
+      "Empaque de lujo",
+      "Tarjeta sorpresa",
+      "Cinta decorativa",
+      "Detalle especial"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 177,
+    "reviews": [
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "sorpresa",
+      "misterio",
+      "curado",
+      "lujo",
+      "regalo"
+    ],
+    "badge": "Favorito",
+    "customizable": true,
+    "features": [
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado"
+    ],
+    "benefits": [
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/7416daf92108.jpg",
+      "https://sfile.chatglm.cn/images-ppt/bbc3e939ec8e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f0899cd6ae48.jpg",
+      "https://sfile.chatglm.cn/images-ppt/3cae8c2bf183.png",
+      "https://sfile.chatglm.cn/images-ppt/2a9964bf6233.jpg"
     ]
   },
   {
@@ -256,6 +1236,559 @@ export const PRODUCTS: Product[] = [
       "https://sfile.chatglm.cn/images-ppt/1d130fbb0056.jpg",
       "https://sfile.chatglm.cn/images-ppt/8cffa34eefde.jpg",
       "https://sfile.chatglm.cn/images-ppt/dc803f6234a5.jpg"
+    ]
+  },
+  {
+    "id": "el-sol-que-la-hace-sonreir-cada-manana",
+    "name": "El sol que la hace sonreír cada mañana",
+    "category": "flores",
+    "categoryLabel": "Flores",
+    "emoji": "🌹",
+    "price": 139900,
+    "shortDescription": "Ramo de flores frescas el sol que la hace sonreír cada mañana con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El sol que la hace sonreír cada mañana es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el sol que la hace sonreír cada mañana con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Arreglo floral fresco",
+      "Papel kraft de lujo",
+      "Cinta de raso",
+      "Tarjeta dedicatoria",
+      "Conservante floral"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 254,
+    "reviews": [
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "fresco",
+      "flores",
+      "romántico",
+      "elegante",
+      "regalo"
+    ],
+    "badge": "Favorito",
+    "customizable": false,
+    "features": [
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo"
+    ],
+    "benefits": [
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/2a73acdad3fb.jpg",
+      "https://sfile.chatglm.cn/images-ppt/9139c6a6f2be.webp",
+      "https://sfile.chatglm.cn/images-ppt/27cf4456272d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/13f54c896aae.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a387647014fb.webp"
+    ]
+  },
+  {
+    "id": "el-amanecer-americano-servido-en-su-cama",
+    "name": "El amanecer americano servido en su cama",
+    "category": "desayunos",
+    "categoryLabel": "Desayunos",
+    "emoji": "🎂",
+    "price": 99900,
+    "shortDescription": "Desayuno especial el amanecer americano servido en su cama con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El amanecer americano servido en su cama es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el amanecer americano servido en su cama con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Jugo natural",
+      "Café premium",
+      "Pan artesanal",
+      "Fruta fresca",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 354,
+    "reviews": [
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "domicilio",
+      "mañana",
+      "gourmet",
+      "bogotá",
+      "entrega"
+    ],
+    "badge": "Favorito",
+    "customizable": false,
+    "features": [
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante"
+    ],
+    "benefits": [
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/34b08e04436c.jpg",
+      "https://sfile.chatglm.cn/images-ppt/59cff464ff2a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/5417a8c3fea4.jpg",
+      "https://sfile.chatglm.cn/images-ppt/fc801d40021d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/28ca5055e4e1.jpg"
+    ]
+  },
+  {
+    "id": "el-numero-que-hace-oficial-la-celebracion",
+    "name": "El número que hace oficial la celebración",
+    "category": "globos",
+    "categoryLabel": "Globos",
+    "emoji": "🎈",
+    "price": 49900,
+    "shortDescription": "Decoración con globos el número que hace oficial la celebración de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "El número que hace oficial la celebración es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el número que hace oficial la celebración de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Globos látex premium",
+      "Globos foil",
+      "Helio incluido",
+      "Cinta y lazo",
+      "Soporte decorativo"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 134,
+    "reviews": [
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "helio",
+      "decoración",
+      "fiesta",
+      "cumpleaños",
+      "celebración"
+    ],
+    "badge": "",
+    "customizable": true,
+    "features": [
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo"
+    ],
+    "benefits": [
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/5347e63ba593.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/c010d805d86f.jpg",
+      "https://sfile.chatglm.cn/images-ppt/46a767a1efad.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a975b1ffe7f7.jpg",
+      "https://sfile.chatglm.cn/images-ppt/685141bbacdc.jpg"
+    ]
+  },
+  {
+    "id": "la-fiesta-completa-antes-de-tocar-el-timbre",
+    "name": "La fiesta completa antes de tocar el timbre",
+    "category": "cumpleanos",
+    "categoryLabel": "Cumpleaños",
+    "emoji": "🎁",
+    "price": 159900,
+    "shortDescription": "Celebra con la fiesta completa antes de tocar el timbre, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "La fiesta completa antes de tocar el timbre es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con la fiesta completa antes de tocar el timbre, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto principal",
+      "Velas de cumpleaños",
+      "Tarjeta dedicatoria",
+      "Decoración",
+      "Bolsa de regalo"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 234,
+    "reviews": [
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "cumpleaños",
+      "fiesta",
+      "celebración",
+      "torta",
+      "regalo"
+    ],
+    "badge": "Favorito",
+    "customizable": false,
+    "features": [
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante"
+    ],
+    "benefits": [
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/b10fa4b407cd.jpg",
+      "https://sfile.chatglm.cn/images-ppt/50204a25d43d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/40c69292383e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/63e58da4e916.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c3e1ca163e0b.png"
+    ]
+  },
+  {
+    "id": "el-brindis-que-sella-otro-ano-juntos",
+    "name": "El brindis que sella otro año juntos",
+    "category": "aniversarios",
+    "categoryLabel": "Aniversarios",
+    "emoji": "💝",
+    "price": 174900,
+    "shortDescription": "Celebra su aniversario con el brindis que sella otro año juntos, una experiencia pensada para parejas.",
+    "fullDescription": "El brindis que sella otro año juntos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el brindis que sella otro año juntos, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Experiencia principal",
+      "Detalle romántico",
+      "Tarjeta dedicatoria",
+      "Empaque de lujo",
+      "Velas decorativas"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 334,
+    "reviews": [
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "aniversario",
+      "pareja",
+      "romántico",
+      "amor",
+      "experiencia"
+    ],
+    "badge": "Favorito",
+    "customizable": false,
+    "features": [
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo"
+    ],
+    "benefits": [
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/52935132985d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f10561ddf6a6.jpg",
+      "https://sfile.chatglm.cn/images-ppt/50a733307f82.jpg",
+      "https://sfile.chatglm.cn/images-ppt/8d06445e3a73.jpg",
+      "https://sfile.chatglm.cn/images-ppt/5920c8e61222.jpeg"
+    ]
+  },
+  {
+    "id": "el-marco-que-guarda-el-recuerdo-favorito",
+    "name": "El marco que guarda el recuerdo favorito",
+    "category": "personalizados",
+    "categoryLabel": "Personalizados",
+    "emoji": "✨",
+    "price": 84900,
+    "shortDescription": "Producto personalizado el marco que guarda el recuerdo favorito con grabado e impresión de alta calidad.",
+    "fullDescription": "El marco que guarda el recuerdo favorito es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el marco que guarda el recuerdo favorito con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto personalizado",
+      "Diseño a medida",
+      "Prueba digital",
+      "Caja de regalo",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 114,
+    "reviews": [
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "personalizado",
+      "nombre",
+      "foto",
+      "único",
+      "grabado"
+    ],
+    "badge": "",
+    "customizable": true,
+    "features": [
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante"
+    ],
+    "benefits": [
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/31f003eaad30.jpg",
+      "https://sfile.chatglm.cn/images-ppt/920823d90bc6.webp",
+      "https://sfile.chatglm.cn/images-ppt/317062da4365.jpg",
+      "https://sfile.chatglm.cn/images-ppt/6ee0029ca4f0.jpg",
+      "https://sfile.chatglm.cn/images-ppt/ce2acbaac2c2.jpg"
+    ]
+  },
+  {
+    "id": "el-hamper-gourmet-para-el-paladar-exigente",
+    "name": "El hamper gourmet para el paladar exigente",
+    "category": "sorpresas",
+    "categoryLabel": "Sorpresas",
+    "emoji": "🎉",
+    "price": 189900,
+    "shortDescription": "Sorpresa única el hamper gourmet para el paladar exigente con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "El hamper gourmet para el paladar exigente es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única el hamper gourmet para el paladar exigente con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Curaduría de productos",
+      "Empaque de lujo",
+      "Tarjeta sorpresa",
+      "Cinta decorativa",
+      "Detalle especial"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 214,
+    "reviews": [
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "sorpresa",
+      "misterio",
+      "curado",
+      "lujo",
+      "regalo"
+    ],
+    "badge": "Premium",
+    "customizable": false,
+    "features": [
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo"
+    ],
+    "benefits": [
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/16f9847c64d1.jpg",
+      "https://sfile.chatglm.cn/images-ppt/6fd12f8c0ef6.jpg",
+      "https://sfile.chatglm.cn/images-ppt/52e3c492a65a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/6b007250728d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/671f9cc44ec9.jpg"
     ]
   },
   {
@@ -340,1425 +1873,6 @@ export const PRODUCTS: Product[] = [
       "https://sfile.chatglm.cn/images-ppt/e83c6266f1b8.jpg",
       "https://sfile.chatglm.cn/images-ppt/c9958cc7fca5.jpg",
       "https://sfile.chatglm.cn/images-ppt/1d42ad8488cc.jpg"
-    ]
-  },
-  {
-    "id": "el-guardian-silencioso-de-su-mesa",
-    "name": "El guardián silencioso de su mesa",
-    "category": "peluches",
-    "categoryLabel": "Peluches",
-    "emoji": "🧸",
-    "price": 99900,
-    "shortDescription": "Peluche premium el guardián silencioso de su mesa con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "El guardián silencioso de su mesa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el guardián silencioso de su mesa con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Peluche de felpa premium",
-      "Tarjeta dedicatoria",
-      "Bolsa de regalo",
-      "Cinta decorativa"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 228,
-    "reviews": [
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "felpa",
-      "suave",
-      "regalo",
-      "romántico",
-      "tierno"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos"
-    ],
-    "benefits": [
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/581feb5157ea.jpg",
-      "https://sfile.chatglm.cn/images-ppt/086f724d34f6.jpg",
-      "https://sfile.chatglm.cn/images-ppt/d189ab0fec39.jpg",
-      "https://sfile.chatglm.cn/images-ppt/6a96e01c8fd9.webp",
-      "https://sfile.chatglm.cn/images-ppt/54c984600731.jpg"
-    ]
-  },
-  {
-    "id": "el-gatito-que-siempre-pidio-y-nunca-llego",
-    "name": "El gatito que siempre pidió y nunca llegó",
-    "category": "peluches",
-    "categoryLabel": "Peluches",
-    "emoji": "🧸",
-    "price": 129900,
-    "shortDescription": "Peluche premium el gatito que siempre pidió y nunca llegó con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "El gatito que siempre pidió y nunca llegó es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el gatito que siempre pidió y nunca llegó con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Peluche de felpa premium",
-      "Tarjeta dedicatoria",
-      "Bolsa de regalo",
-      "Cinta decorativa"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 265,
-    "reviews": [
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "felpa",
-      "suave",
-      "regalo",
-      "romántico",
-      "tierno"
-    ],
-    "badge": "Nuevo",
-    "customizable": false,
-    "features": [
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado"
-    ],
-    "benefits": [
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/745f82fa6ddd.jpg",
-      "https://sfile.chatglm.cn/images-ppt/bd753b74391a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a1e82666f18c.jpg",
-      "https://sfile.chatglm.cn/images-ppt/74be6e967638.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/9f60d6aab3ac.jpg"
-    ]
-  },
-  {
-    "id": "el-companero-de-todas-sus-aventuras",
-    "name": "El compañero de todas sus aventuras",
-    "category": "peluches",
-    "categoryLabel": "Peluches",
-    "emoji": "🧸",
-    "price": 149900,
-    "shortDescription": "Peluche premium el compañero de todas sus aventuras con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "El compañero de todas sus aventuras es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el compañero de todas sus aventuras con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Peluche de felpa premium",
-      "Tarjeta dedicatoria",
-      "Bolsa de regalo",
-      "Cinta decorativa"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 302,
-    "reviews": [
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "felpa",
-      "suave",
-      "regalo",
-      "romántico",
-      "tierno"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo"
-    ],
-    "benefits": [
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/663b3b87a31e.png",
-      "https://sfile.chatglm.cn/images-ppt/6ccd5ac415c7.jpg",
-      "https://sfile.chatglm.cn/images-ppt/28685a892d22.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b5e6e3a66d54.jpg",
-      "https://sfile.chatglm.cn/images-ppt/d8990808c629.jpg"
-    ]
-  },
-  {
-    "id": "el-elefante-que-nunca-olvida-tu-amor",
-    "name": "El elefante que nunca olvida tu amor",
-    "category": "peluches",
-    "categoryLabel": "Peluches",
-    "emoji": "🧸",
-    "price": 94900,
-    "shortDescription": "Peluche premium el elefante que nunca olvida tu amor con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "El elefante que nunca olvida tu amor es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el elefante que nunca olvida tu amor con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Peluche de felpa premium",
-      "Tarjeta dedicatoria",
-      "Bolsa de regalo",
-      "Cinta decorativa"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 339,
-    "reviews": [
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "felpa",
-      "suave",
-      "regalo",
-      "romántico",
-      "tierno"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia"
-    ],
-    "benefits": [
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/7935ec818c5a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/23288a9bd832.jpg",
-      "https://sfile.chatglm.cn/images-ppt/e7f375521427.jpg",
-      "https://sfile.chatglm.cn/images-ppt/ae3e8bec9791.jpg",
-      "https://sfile.chatglm.cn/images-ppt/ff0eb4186a89.jpg"
-    ]
-  },
-  {
-    "id": "el-abrazo-calido-en-el-invierno-bogotano",
-    "name": "El abrazo cálido en el invierno bogotano",
-    "category": "peluches",
-    "categoryLabel": "Peluches",
-    "emoji": "🧸",
-    "price": 109900,
-    "shortDescription": "Peluche premium el abrazo cálido en el invierno bogotano con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "El abrazo cálido en el invierno bogotano es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el abrazo cálido en el invierno bogotano con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Peluche de felpa premium",
-      "Tarjeta dedicatoria",
-      "Bolsa de regalo",
-      "Cinta decorativa"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 376,
-    "reviews": [
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "felpa",
-      "suave",
-      "regalo",
-      "romántico",
-      "tierno"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional"
-    ],
-    "benefits": [
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/eb0a123992c4.jpg",
-      "https://sfile.chatglm.cn/images-ppt/6e1a3a2b990d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/e12e7c0bb193.jpg",
-      "https://sfile.chatglm.cn/images-ppt/9d1a65fd2833.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b5cc80a17cd4.jpg"
-    ]
-  },
-  {
-    "id": "el-primer-te-quiero-hecho-peluche",
-    "name": "El primer te quiero hecho peluche",
-    "category": "peluches",
-    "categoryLabel": "Peluches",
-    "emoji": "🧸",
-    "price": 79900,
-    "shortDescription": "Peluche premium el primer te quiero hecho peluche con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "El primer te quiero hecho peluche es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el primer te quiero hecho peluche con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Peluche de felpa premium",
-      "Tarjeta dedicatoria",
-      "Bolsa de regalo",
-      "Cinta decorativa"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 93,
-    "reviews": [
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "felpa",
-      "suave",
-      "regalo",
-      "romántico",
-      "tierno"
-    ],
-    "badge": "Favorito",
-    "customizable": false,
-    "features": [
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD"
-    ],
-    "benefits": [
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/231e932d74f9.jpg",
-      "https://sfile.chatglm.cn/images-ppt/4673beacf015.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/f98237d3b0db.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1de8bde7c9c1.jpg",
-      "https://sfile.chatglm.cn/images-ppt/657634b428af.jpeg"
-    ]
-  },
-  {
-    "id": "para-tocar-el-cielo-de-su-habitacion",
-    "name": "Para tocar el cielo de su habitación",
-    "category": "peluches",
-    "categoryLabel": "Peluches",
-    "emoji": "🧸",
-    "price": 139900,
-    "shortDescription": "Peluche premium para tocar el cielo de su habitación con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Para tocar el cielo de su habitación es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium para tocar el cielo de su habitación con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Peluche de felpa premium",
-      "Tarjeta dedicatoria",
-      "Bolsa de regalo",
-      "Cinta decorativa"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 130,
-    "reviews": [
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "felpa",
-      "suave",
-      "regalo",
-      "romántico",
-      "tierno"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante"
-    ],
-    "benefits": [
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/1572e8b6aee3.jpg",
-      "https://sfile.chatglm.cn/images-ppt/29a70f32fe69.jpg",
-      "https://sfile.chatglm.cn/images-ppt/79bb6b3363ff.jpg",
-      "https://sfile.chatglm.cn/images-ppt/453e3534beb6.jpg",
-      "https://sfile.chatglm.cn/images-ppt/dd6275f3acaf.jpg"
-    ]
-  },
-  {
-    "id": "el-rey-que-protege-su-corazon",
-    "name": "El rey que protege su corazón",
-    "category": "peluches",
-    "categoryLabel": "Peluches",
-    "emoji": "🧸",
-    "price": 119900,
-    "shortDescription": "Peluche premium el rey que protege su corazón con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "El rey que protege su corazón es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el rey que protege su corazón con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Peluche de felpa premium",
-      "Tarjeta dedicatoria",
-      "Bolsa de regalo",
-      "Cinta decorativa"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 167,
-    "reviews": [
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "felpa",
-      "suave",
-      "regalo",
-      "romántico",
-      "tierno"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero"
-    ],
-    "benefits": [
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/1f217c760587.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/d6a6bc477b9d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/8dfea669eda0.png",
-      "https://sfile.chatglm.cn/images-ppt/d66e7f585068.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b122f69f0f66.jpg"
-    ]
-  },
-  {
-    "id": "su-primer-regalo-de-bienvenida-al-mundo",
-    "name": "Su primer regalo de bienvenida al mundo",
-    "category": "peluches",
-    "categoryLabel": "Peluches",
-    "emoji": "🧸",
-    "price": 69900,
-    "shortDescription": "Peluche premium su primer regalo de bienvenida al mundo con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Su primer regalo de bienvenida al mundo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium su primer regalo de bienvenida al mundo con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Peluche de felpa premium",
-      "Tarjeta dedicatoria",
-      "Bolsa de regalo",
-      "Cinta decorativa"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 204,
-    "reviews": [
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "felpa",
-      "suave",
-      "regalo",
-      "romántico",
-      "tierno"
-    ],
-    "badge": "Nuevo",
-    "customizable": false,
-    "features": [
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos"
-    ],
-    "benefits": [
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/c67068680bce.jpg",
-      "https://sfile.chatglm.cn/images-ppt/58cff287a2f7.jpg",
-      "https://sfile.chatglm.cn/images-ppt/0ad482b4a739.jpg",
-      "https://sfile.chatglm.cn/images-ppt/8f46e699ece3.jpg",
-      "https://sfile.chatglm.cn/images-ppt/d52a5699054d.jpeg"
-    ]
-  },
-  {
-    "id": "un-pedacito-de-australia-para-abrazar",
-    "name": "Un pedacito de Australia para abrazar",
-    "category": "peluches",
-    "categoryLabel": "Peluches",
-    "emoji": "🧸",
-    "price": 89900,
-    "shortDescription": "Peluche premium un pedacito de australia para abrazar con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Un pedacito de Australia para abrazar es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium un pedacito de australia para abrazar con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Peluche de felpa premium",
-      "Tarjeta dedicatoria",
-      "Bolsa de regalo",
-      "Cinta decorativa"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 241,
-    "reviews": [
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "felpa",
-      "suave",
-      "regalo",
-      "romántico",
-      "tierno"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado"
-    ],
-    "benefits": [
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/eaa58ea98a01.png",
-      "https://sfile.chatglm.cn/images-ppt/901a43c3ca79.jpg",
-      "https://sfile.chatglm.cn/images-ppt/2da583d99fa2.jpg",
-      "https://sfile.chatglm.cn/images-ppt/93d88fd7f922.png",
-      "https://sfile.chatglm.cn/images-ppt/e9d70b581b17.jpeg"
-    ]
-  },
-  {
-    "id": "el-astuto-que-robo-su-sonrisa",
-    "name": "El astuto que robó su sonrisa",
-    "category": "peluches",
-    "categoryLabel": "Peluches",
-    "emoji": "🧸",
-    "price": 94900,
-    "shortDescription": "Peluche premium el astuto que robó su sonrisa con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "El astuto que robó su sonrisa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el astuto que robó su sonrisa con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Peluche de felpa premium",
-      "Tarjeta dedicatoria",
-      "Bolsa de regalo",
-      "Cinta decorativa"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 278,
-    "reviews": [
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "felpa",
-      "suave",
-      "regalo",
-      "romántico",
-      "tierno"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo"
-    ],
-    "benefits": [
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/0469a264e078.jpg",
-      "https://sfile.chatglm.cn/images-ppt/0cca50e6c799.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1027da1b44fd.webp",
-      "https://sfile.chatglm.cn/images-ppt/d4fbcba57ab6.jpg",
-      "https://sfile.chatglm.cn/images-ppt/56287476c111.jpg"
-    ]
-  },
-  {
-    "id": "el-travieso-que-la-hace-reir-cada-dia",
-    "name": "El travieso que la hace reír cada día",
-    "category": "peluches",
-    "categoryLabel": "Peluches",
-    "emoji": "🧸",
-    "price": 84900,
-    "shortDescription": "Peluche premium el travieso que la hace reír cada día con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "El travieso que la hace reír cada día es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el travieso que la hace reír cada día con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Peluche de felpa premium",
-      "Tarjeta dedicatoria",
-      "Bolsa de regalo",
-      "Cinta decorativa"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 315,
-    "reviews": [
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "felpa",
-      "suave",
-      "regalo",
-      "romántico",
-      "tierno"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia"
-    ],
-    "benefits": [
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/2424a489e24f.jpg",
-      "https://sfile.chatglm.cn/images-ppt/95cbc192b040.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/d83964c01f19.jpg",
-      "https://sfile.chatglm.cn/images-ppt/83ed5146c5d1.jpg",
-      "https://sfile.chatglm.cn/images-ppt/4e3848eb7118.jpg"
-    ]
-  },
-  {
-    "id": "el-corcel-de-sus-suenos-de-nina",
-    "name": "El corcel de sus sueños de niña",
-    "category": "peluches",
-    "categoryLabel": "Peluches",
-    "emoji": "🧸",
-    "price": 134900,
-    "shortDescription": "Peluche premium el corcel de sus sueños de niña con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "El corcel de sus sueños de niña es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el corcel de sus sueños de niña con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Peluche de felpa premium",
-      "Tarjeta dedicatoria",
-      "Bolsa de regalo",
-      "Cinta decorativa"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 352,
-    "reviews": [
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "felpa",
-      "suave",
-      "regalo",
-      "romántico",
-      "tierno"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional"
-    ],
-    "benefits": [
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/291639327880.jpg",
-      "https://sfile.chatglm.cn/images-ppt/62b4fc399812.jpg",
-      "https://sfile.chatglm.cn/images-ppt/2e16a8a953c7.jpg",
-      "https://sfile.chatglm.cn/images-ppt/5c419d391a1f.jpg",
-      "https://sfile.chatglm.cn/images-ppt/16ed24f93012.jpg"
-    ]
-  },
-  {
-    "id": "el-dinosaurio-mas-tierno-del-jurasico",
-    "name": "El dinosaurio más tierno del jurásico",
-    "category": "peluches",
-    "categoryLabel": "Peluches",
-    "emoji": "🧸",
-    "price": 104900,
-    "shortDescription": "Peluche premium el dinosaurio más tierno del jurásico con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "El dinosaurio más tierno del jurásico es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el dinosaurio más tierno del jurásico con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Peluche de felpa premium",
-      "Tarjeta dedicatoria",
-      "Bolsa de regalo",
-      "Cinta decorativa"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 389,
-    "reviews": [
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "felpa",
-      "suave",
-      "regalo",
-      "romántico",
-      "tierno"
-    ],
-    "badge": "Favorito",
-    "customizable": true,
-    "features": [
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD"
-    ],
-    "benefits": [
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/0d2cc7152dc5.jpg",
-      "https://sfile.chatglm.cn/images-ppt/24747a82fb1d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/6a7775a57f4e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1840d0c42b12.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/3e9fefe1b530.jpg"
-    ]
-  },
-  {
-    "id": "la-felicidad-con-patitas",
-    "name": "La felicidad con patitas",
-    "category": "peluches",
-    "categoryLabel": "Peluches",
-    "emoji": "🧸",
-    "price": 74900,
-    "shortDescription": "Peluche premium la felicidad con patitas con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "La felicidad con patitas es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium la felicidad con patitas con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Peluche de felpa premium",
-      "Tarjeta dedicatoria",
-      "Bolsa de regalo",
-      "Cinta decorativa"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 106,
-    "reviews": [
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "felpa",
-      "suave",
-      "regalo",
-      "romántico",
-      "tierno"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante"
-    ],
-    "benefits": [
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/2d40a0c06b57.jpg",
-      "https://sfile.chatglm.cn/images-ppt/288e653b13aa.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1d130fbb0056.jpg",
-      "https://sfile.chatglm.cn/images-ppt/8cffa34eefde.jpg",
-      "https://sfile.chatglm.cn/images-ppt/dc803f6234a5.jpg"
-    ]
-  },
-  {
-    "id": "el-pinguino-del-polo-que-la-enamoro",
-    "name": "El pingüino del polo que la enamoró",
-    "category": "peluches",
-    "categoryLabel": "Peluches",
-    "emoji": "🧸",
-    "price": 99900,
-    "shortDescription": "Peluche premium el pingüino del polo que la enamoró con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "El pingüino del polo que la enamoró es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el pingüino del polo que la enamoró con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Peluche de felpa premium",
-      "Tarjeta dedicatoria",
-      "Bolsa de regalo",
-      "Cinta decorativa"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 143,
-    "reviews": [
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "felpa",
-      "suave",
-      "regalo",
-      "romántico",
-      "tierno"
-    ],
-    "badge": "Nuevo",
-    "customizable": false,
-    "features": [
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero"
-    ],
-    "benefits": [
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/393f0ac1e1ed.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f824213827ee.jpg",
-      "https://sfile.chatglm.cn/images-ppt/e83c6266f1b8.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c9958cc7fca5.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1d42ad8488cc.jpg"
-    ]
-  },
-  {
-    "id": "el-amor-que-no-cabe-en-palabras",
-    "name": "El amor que no cabe en palabras",
-    "category": "flores",
-    "categoryLabel": "Flores",
-    "emoji": "🌹",
-    "price": 189900,
-    "shortDescription": "Ramo de flores frescas el amor que no cabe en palabras con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "El amor que no cabe en palabras es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el amor que no cabe en palabras con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Arreglo floral fresco",
-      "Papel kraft de lujo",
-      "Cinta de raso",
-      "Tarjeta dedicatoria",
-      "Conservante floral"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 180,
-    "reviews": [
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "fresco",
-      "flores",
-      "romántico",
-      "elegante",
-      "regalo"
-    ],
-    "badge": "Más vendido",
-    "customizable": false,
-    "features": [
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos"
-    ],
-    "benefits": [
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/0422f20293e1.jpg",
-      "https://sfile.chatglm.cn/images-ppt/7b455d6a3f21.jpg",
-      "https://sfile.chatglm.cn/images-ppt/964a50cb51e6.jpg",
-      "https://sfile.chatglm.cn/images-ppt/adac82b38165.jpg",
-      "https://sfile.chatglm.cn/images-ppt/7ac7345de4c7.jpg"
-    ]
-  },
-  {
-    "id": "el-verano-eterno-en-su-mesa",
-    "name": "El verano eterno en su mesa",
-    "category": "flores",
-    "categoryLabel": "Flores",
-    "emoji": "🌹",
-    "price": 119900,
-    "shortDescription": "Ramo de flores frescas el verano eterno en su mesa con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "El verano eterno en su mesa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el verano eterno en su mesa con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Arreglo floral fresco",
-      "Papel kraft de lujo",
-      "Cinta de raso",
-      "Tarjeta dedicatoria",
-      "Conservante floral"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 217,
-    "reviews": [
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "fresco",
-      "flores",
-      "romántico",
-      "elegante",
-      "regalo"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado"
-    ],
-    "benefits": [
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/d9874d0be311.jpg",
-      "https://sfile.chatglm.cn/images-ppt/899b79ac661f.jpg",
-      "https://sfile.chatglm.cn/images-ppt/45caa7c88923.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a9aa637d7fb4.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f4951493a7d7.jpg"
-    ]
-  },
-  {
-    "id": "el-sol-que-la-hace-sonreir-cada-manana",
-    "name": "El sol que la hace sonreír cada mañana",
-    "category": "flores",
-    "categoryLabel": "Flores",
-    "emoji": "🌹",
-    "price": 139900,
-    "shortDescription": "Ramo de flores frescas el sol que la hace sonreír cada mañana con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "El sol que la hace sonreír cada mañana es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el sol que la hace sonreír cada mañana con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Arreglo floral fresco",
-      "Papel kraft de lujo",
-      "Cinta de raso",
-      "Tarjeta dedicatoria",
-      "Conservante floral"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 254,
-    "reviews": [
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "fresco",
-      "flores",
-      "romántico",
-      "elegante",
-      "regalo"
-    ],
-    "badge": "Favorito",
-    "customizable": false,
-    "features": [
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo"
-    ],
-    "benefits": [
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/2a73acdad3fb.jpg",
-      "https://sfile.chatglm.cn/images-ppt/9139c6a6f2be.webp",
-      "https://sfile.chatglm.cn/images-ppt/27cf4456272d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/13f54c896aae.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a387647014fb.webp"
     ]
   },
   {
@@ -1847,1441 +1961,6 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "el-lujo-que-ella-siempre-merecio",
-    "name": "El lujo que ella siempre mereció",
-    "category": "flores",
-    "categoryLabel": "Flores",
-    "emoji": "🌹",
-    "price": 199900,
-    "shortDescription": "Ramo de flores frescas el lujo que ella siempre mereció con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "El lujo que ella siempre mereció es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el lujo que ella siempre mereció con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Arreglo floral fresco",
-      "Papel kraft de lujo",
-      "Cinta de raso",
-      "Tarjeta dedicatoria",
-      "Conservante floral"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 328,
-    "reviews": [
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "fresco",
-      "flores",
-      "romántico",
-      "elegante",
-      "regalo"
-    ],
-    "badge": "Premium",
-    "customizable": true,
-    "features": [
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional"
-    ],
-    "benefits": [
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/1ca1e8c009ce.jpg",
-      "https://sfile.chatglm.cn/images-ppt/9d3ccbe22555.webp",
-      "https://sfile.chatglm.cn/images-ppt/08e19763a383.jpg",
-      "https://sfile.chatglm.cn/images-ppt/205d1283ddc4.jpg",
-      "https://sfile.chatglm.cn/images-ppt/95f9b46c1845.webp"
-    ]
-  },
-  {
-    "id": "la-pureza-hecha-petalos-blancos",
-    "name": "La pureza hecha pétalos blancos",
-    "category": "flores",
-    "categoryLabel": "Flores",
-    "emoji": "🌹",
-    "price": 149900,
-    "shortDescription": "Ramo de flores frescas la pureza hecha pétalos blancos con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "La pureza hecha pétalos blancos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas la pureza hecha pétalos blancos con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Arreglo floral fresco",
-      "Papel kraft de lujo",
-      "Cinta de raso",
-      "Tarjeta dedicatoria",
-      "Conservante floral"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 365,
-    "reviews": [
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "fresco",
-      "flores",
-      "romántico",
-      "elegante",
-      "regalo"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD"
-    ],
-    "benefits": [
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/ef62dc4198f4.jpg",
-      "https://sfile.chatglm.cn/images-ppt/7862c0dc1203.jpg",
-      "https://sfile.chatglm.cn/images-ppt/9cf45e67fa54.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a75dd883fe68.png",
-      "https://sfile.chatglm.cn/images-ppt/cca1d9a1a2aa.jpg"
-    ]
-  },
-  {
-    "id": "la-reina-que-corona-su-nueva-casa",
-    "name": "La reina que corona su nueva casa",
-    "category": "flores",
-    "categoryLabel": "Flores",
-    "emoji": "🌹",
-    "price": 229900,
-    "shortDescription": "Ramo de flores frescas la reina que corona su nueva casa con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "La reina que corona su nueva casa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas la reina que corona su nueva casa con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Arreglo floral fresco",
-      "Papel kraft de lujo",
-      "Cinta de raso",
-      "Tarjeta dedicatoria",
-      "Conservante floral"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 82,
-    "reviews": [
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "fresco",
-      "flores",
-      "romántico",
-      "elegante",
-      "regalo"
-    ],
-    "badge": "Premium",
-    "customizable": false,
-    "features": [
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante"
-    ],
-    "benefits": [
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/165b3f9fe3ac.jpg",
-      "https://sfile.chatglm.cn/images-ppt/44e1bbfa2452.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/e959eba01ca3.jpg",
-      "https://sfile.chatglm.cn/images-ppt/442a684d2461.webp",
-      "https://sfile.chatglm.cn/images-ppt/eeb94d0208ce.jpg"
-    ]
-  },
-  {
-    "id": "amor-con-chocolate-la-combinacion-perfecta",
-    "name": "Amor con chocolate, la combinación perfecta",
-    "category": "flores",
-    "categoryLabel": "Flores",
-    "emoji": "🌹",
-    "price": 209900,
-    "shortDescription": "Ramo de flores frescas amor con chocolate, la combinación perfecta con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Amor con chocolate, la combinación perfecta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas amor con chocolate, la combinación perfecta con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Arreglo floral fresco",
-      "Papel kraft de lujo",
-      "Cinta de raso",
-      "Tarjeta dedicatoria",
-      "Conservante floral"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 119,
-    "reviews": [
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "fresco",
-      "flores",
-      "romántico",
-      "elegante",
-      "regalo"
-    ],
-    "badge": "Más vendido",
-    "customizable": false,
-    "features": [
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero"
-    ],
-    "benefits": [
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/1ab6298131ef.jpg",
-      "https://sfile.chatglm.cn/images-ppt/089cd7b62b81.jpg",
-      "https://sfile.chatglm.cn/images-ppt/699a573b1f4a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b96b975b6b08.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1a63695bc098.jpeg"
-    ]
-  },
-  {
-    "id": "la-sonrisa-que-despierta-con-el-desayuno",
-    "name": "La sonrisa que despierta con el desayuno",
-    "category": "flores",
-    "categoryLabel": "Flores",
-    "emoji": "🌹",
-    "price": 159900,
-    "shortDescription": "Ramo de flores frescas la sonrisa que despierta con el desayuno con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "La sonrisa que despierta con el desayuno es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas la sonrisa que despierta con el desayuno con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Arreglo floral fresco",
-      "Papel kraft de lujo",
-      "Cinta de raso",
-      "Tarjeta dedicatoria",
-      "Conservante floral"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 156,
-    "reviews": [
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "fresco",
-      "flores",
-      "romántico",
-      "elegante",
-      "regalo"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos"
-    ],
-    "benefits": [
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/36063db0f6bb.png",
-      "https://sfile.chatglm.cn/images-ppt/999ff948fdfe.jpg",
-      "https://sfile.chatglm.cn/images-ppt/af73d57d795b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/7359551a64fc.jpg",
-      "https://sfile.chatglm.cn/images-ppt/79079a99f0fa.jpg"
-    ]
-  },
-  {
-    "id": "el-jardin-que-siempre-sono-tener",
-    "name": "El jardín que siempre soñó tener",
-    "category": "flores",
-    "categoryLabel": "Flores",
-    "emoji": "🌹",
-    "price": 129900,
-    "shortDescription": "Ramo de flores frescas el jardín que siempre soñó tener con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "El jardín que siempre soñó tener es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el jardín que siempre soñó tener con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Arreglo floral fresco",
-      "Papel kraft de lujo",
-      "Cinta de raso",
-      "Tarjeta dedicatoria",
-      "Conservante floral"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 193,
-    "reviews": [
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "fresco",
-      "flores",
-      "romántico",
-      "elegante",
-      "regalo"
-    ],
-    "badge": "Favorito",
-    "customizable": false,
-    "features": [
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado"
-    ],
-    "benefits": [
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/149cefed2329.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c21823c21554.jpg",
-      "https://sfile.chatglm.cn/images-ppt/758f3e598d8f.jpg",
-      "https://sfile.chatglm.cn/images-ppt/843d94f9de49.jpg",
-      "https://sfile.chatglm.cn/images-ppt/686e29f4ccf3.jpg"
-    ]
-  },
-  {
-    "id": "la-pasion-que-no-se-puede-callar",
-    "name": "La pasión que no se puede callar",
-    "category": "flores",
-    "categoryLabel": "Flores",
-    "emoji": "🌹",
-    "price": 99900,
-    "shortDescription": "Ramo de flores frescas la pasión que no se puede callar con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "La pasión que no se puede callar es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas la pasión que no se puede callar con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Arreglo floral fresco",
-      "Papel kraft de lujo",
-      "Cinta de raso",
-      "Tarjeta dedicatoria",
-      "Conservante floral"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 230,
-    "reviews": [
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "fresco",
-      "flores",
-      "romántico",
-      "elegante",
-      "regalo"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo"
-    ],
-    "benefits": [
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/0f936c7c1d7a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f5c8506d8cec.jpg",
-      "https://sfile.chatglm.cn/images-ppt/d359816de42b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/51ac3e876a9f.jpg",
-      "https://sfile.chatglm.cn/images-ppt/33f1eb03adeb.jpg"
-    ]
-  },
-  {
-    "id": "el-pastel-de-colores-de-su-corazon",
-    "name": "El pastel de colores de su corazón",
-    "category": "flores",
-    "categoryLabel": "Flores",
-    "emoji": "🌹",
-    "price": 179900,
-    "shortDescription": "Ramo de flores frescas el pastel de colores de su corazón con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "El pastel de colores de su corazón es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el pastel de colores de su corazón con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Arreglo floral fresco",
-      "Papel kraft de lujo",
-      "Cinta de raso",
-      "Tarjeta dedicatoria",
-      "Conservante floral"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 267,
-    "reviews": [
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "fresco",
-      "flores",
-      "romántico",
-      "elegante",
-      "regalo"
-    ],
-    "badge": "Nuevo",
-    "customizable": true,
-    "features": [
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia"
-    ],
-    "benefits": [
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/219b097cf024.png",
-      "https://sfile.chatglm.cn/images-ppt/b797809b8304.jpg",
-      "https://sfile.chatglm.cn/images-ppt/94d81bd8cd74.jpg",
-      "https://sfile.chatglm.cn/images-ppt/9ff2829d7e7a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/51a622f51c53.jpg"
-    ]
-  },
-  {
-    "id": "la-calma-de-provenza-en-su-ventana",
-    "name": "La calma de Provenza en su ventana",
-    "category": "flores",
-    "categoryLabel": "Flores",
-    "emoji": "🌹",
-    "price": 109900,
-    "shortDescription": "Ramo de flores frescas la calma de provenza en su ventana con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "La calma de Provenza en su ventana es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas la calma de provenza en su ventana con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Arreglo floral fresco",
-      "Papel kraft de lujo",
-      "Cinta de raso",
-      "Tarjeta dedicatoria",
-      "Conservante floral"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 304,
-    "reviews": [
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "fresco",
-      "flores",
-      "romántico",
-      "elegante",
-      "regalo"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional"
-    ],
-    "benefits": [
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/7ebedd55fb7c.png",
-      "https://sfile.chatglm.cn/images-ppt/3564ef6bd7e6.jpg",
-      "https://sfile.chatglm.cn/images-ppt/0fb528b3446e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/156910cb7885.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a977604d2f79.jpg"
-    ]
-  },
-  {
-    "id": "el-oro-que-trae-el-otono-a-su-vida",
-    "name": "El oro que trae el otoño a su vida",
-    "category": "flores",
-    "categoryLabel": "Flores",
-    "emoji": "🌹",
-    "price": 114900,
-    "shortDescription": "Ramo de flores frescas el oro que trae el otoño a su vida con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "El oro que trae el otoño a su vida es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el oro que trae el otoño a su vida con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Arreglo floral fresco",
-      "Papel kraft de lujo",
-      "Cinta de raso",
-      "Tarjeta dedicatoria",
-      "Conservante floral"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 341,
-    "reviews": [
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "fresco",
-      "flores",
-      "romántico",
-      "elegante",
-      "regalo"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD"
-    ],
-    "benefits": [
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/e5669352557d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/bfd77de05148.jpg",
-      "https://sfile.chatglm.cn/images-ppt/28b3bf1db857.jpg",
-      "https://sfile.chatglm.cn/images-ppt/2703eddd2d72.png",
-      "https://sfile.chatglm.cn/images-ppt/3df26094ecee.jpg"
-    ]
-  },
-  {
-    "id": "el-te-amo-que-nunca-se-marchita",
-    "name": "El te amo que nunca se marchita",
-    "category": "flores",
-    "categoryLabel": "Flores",
-    "emoji": "🌹",
-    "price": 164900,
-    "shortDescription": "Ramo de flores frescas el te amo que nunca se marchita con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "El te amo que nunca se marchita es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el te amo que nunca se marchita con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Arreglo floral fresco",
-      "Papel kraft de lujo",
-      "Cinta de raso",
-      "Tarjeta dedicatoria",
-      "Conservante floral"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 378,
-    "reviews": [
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "fresco",
-      "flores",
-      "romántico",
-      "elegante",
-      "regalo"
-    ],
-    "badge": "Premium",
-    "customizable": false,
-    "features": [
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante"
-    ],
-    "benefits": [
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/b4ba50c269fe.jpg",
-      "https://sfile.chatglm.cn/images-ppt/ecb864a08c6c.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b435f3d87185.jpg",
-      "https://sfile.chatglm.cn/images-ppt/6295100efa73.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b1eda1e701ac.png"
-    ]
-  },
-  {
-    "id": "los-andes-florecidos-en-su-mesa",
-    "name": "Los Andes florecidos en su mesa",
-    "category": "flores",
-    "categoryLabel": "Flores",
-    "emoji": "🌹",
-    "price": 94900,
-    "shortDescription": "Ramo de flores frescas los andes florecidos en su mesa con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Los Andes florecidos en su mesa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas los andes florecidos en su mesa con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Arreglo floral fresco",
-      "Papel kraft de lujo",
-      "Cinta de raso",
-      "Tarjeta dedicatoria",
-      "Conservante floral"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 95,
-    "reviews": [
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "fresco",
-      "flores",
-      "romántico",
-      "elegante",
-      "regalo"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero"
-    ],
-    "benefits": [
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/9f170840a97d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/ac907b020736.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1457ca41e87f.jpg",
-      "https://sfile.chatglm.cn/images-ppt/843121631f49.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/b5370db40af6.jpg"
-    ]
-  },
-  {
-    "id": "el-corazon-que-late-rojo-intenso",
-    "name": "El corazón que late rojo intenso",
-    "category": "flores",
-    "categoryLabel": "Flores",
-    "emoji": "🌹",
-    "price": 154900,
-    "shortDescription": "Ramo de flores frescas el corazón que late rojo intenso con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "El corazón que late rojo intenso es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el corazón que late rojo intenso con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Arreglo floral fresco",
-      "Papel kraft de lujo",
-      "Cinta de raso",
-      "Tarjeta dedicatoria",
-      "Conservante floral"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 132,
-    "reviews": [
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "fresco",
-      "flores",
-      "romántico",
-      "elegante",
-      "regalo"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos"
-    ],
-    "benefits": [
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/0422f20293e1.jpg",
-      "https://sfile.chatglm.cn/images-ppt/7b455d6a3f21.jpg",
-      "https://sfile.chatglm.cn/images-ppt/964a50cb51e6.jpg",
-      "https://sfile.chatglm.cn/images-ppt/adac82b38165.jpg",
-      "https://sfile.chatglm.cn/images-ppt/7ac7345de4c7.jpg"
-    ]
-  },
-  {
-    "id": "la-alegria-multicolor-de-quererte",
-    "name": "La alegría multicolor de quererte",
-    "category": "flores",
-    "categoryLabel": "Flores",
-    "emoji": "🌹",
-    "price": 104900,
-    "shortDescription": "Ramo de flores frescas la alegría multicolor de quererte con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "La alegría multicolor de quererte es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas la alegría multicolor de quererte con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Arreglo floral fresco",
-      "Papel kraft de lujo",
-      "Cinta de raso",
-      "Tarjeta dedicatoria",
-      "Conservante floral"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 169,
-    "reviews": [
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "fresco",
-      "flores",
-      "romántico",
-      "elegante",
-      "regalo"
-    ],
-    "badge": "Favorito",
-    "customizable": false,
-    "features": [
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado"
-    ],
-    "benefits": [
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/d9874d0be311.jpg",
-      "https://sfile.chatglm.cn/images-ppt/899b79ac661f.jpg",
-      "https://sfile.chatglm.cn/images-ppt/45caa7c88923.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a9aa637d7fb4.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f4951493a7d7.jpg"
-    ]
-  },
-  {
-    "id": "el-arcoiris-de-tu-amor-en-petalos",
-    "name": "El arcoíris de tu amor en pétalos",
-    "category": "flores",
-    "categoryLabel": "Flores",
-    "emoji": "🌹",
-    "price": 174900,
-    "shortDescription": "Ramo de flores frescas el arcoíris de tu amor en pétalos con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "El arcoíris de tu amor en pétalos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el arcoíris de tu amor en pétalos con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Arreglo floral fresco",
-      "Papel kraft de lujo",
-      "Cinta de raso",
-      "Tarjeta dedicatoria",
-      "Conservante floral"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 206,
-    "reviews": [
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "fresco",
-      "flores",
-      "romántico",
-      "elegante",
-      "regalo"
-    ],
-    "badge": "Nuevo",
-    "customizable": true,
-    "features": [
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo"
-    ],
-    "benefits": [
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/2a73acdad3fb.jpg",
-      "https://sfile.chatglm.cn/images-ppt/9139c6a6f2be.webp",
-      "https://sfile.chatglm.cn/images-ppt/27cf4456272d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/13f54c896aae.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a387647014fb.webp"
-    ]
-  },
-  {
-    "id": "el-frescor-que-enamora-al-abrir-la-puerta",
-    "name": "El frescor que enamora al abrir la puerta",
-    "category": "flores",
-    "categoryLabel": "Flores",
-    "emoji": "🌹",
-    "price": 144900,
-    "shortDescription": "Ramo de flores frescas el frescor que enamora al abrir la puerta con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "El frescor que enamora al abrir la puerta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el frescor que enamora al abrir la puerta con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Arreglo floral fresco",
-      "Papel kraft de lujo",
-      "Cinta de raso",
-      "Tarjeta dedicatoria",
-      "Conservante floral"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 243,
-    "reviews": [
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "fresco",
-      "flores",
-      "romántico",
-      "elegante",
-      "regalo"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia"
-    ],
-    "benefits": [
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/ba1068bb3563.jpg",
-      "https://sfile.chatglm.cn/images-ppt/55b64da35c4c.webp",
-      "https://sfile.chatglm.cn/images-ppt/d43c9da82a83.jpg",
-      "https://sfile.chatglm.cn/images-ppt/e61a0f0bd9b5.jpg",
-      "https://sfile.chatglm.cn/images-ppt/6babff1487bd.jpg"
-    ]
-  },
-  {
-    "id": "el-despertar-magico-que-recordara-toda-la-vida",
-    "name": "El despertar mágico que recordará toda la vida",
-    "category": "desayunos",
-    "categoryLabel": "Desayunos",
-    "emoji": "🎂",
-    "price": 149900,
-    "shortDescription": "Desayuno especial el despertar mágico que recordará toda la vida con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "El despertar mágico que recordará toda la vida es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el despertar mágico que recordará toda la vida con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Jugo natural",
-      "Café premium",
-      "Pan artesanal",
-      "Fruta fresca",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 280,
-    "reviews": [
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "domicilio",
-      "mañana",
-      "gourmet",
-      "bogotá",
-      "entrega"
-    ],
-    "badge": "Más vendido",
-    "customizable": true,
-    "features": [
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional"
-    ],
-    "benefits": [
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/dd7865fd67f5.jpg",
-      "https://sfile.chatglm.cn/images-ppt/d305a8df11b4.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/14133150b31f.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1dc357b450c3.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b967a9e38f6b.jpg"
-    ]
-  },
-  {
-    "id": "una-manana-en-paris-sin-salir-de-bogota",
-    "name": "Una mañana en París sin salir de Bogotá",
-    "category": "desayunos",
-    "categoryLabel": "Desayunos",
-    "emoji": "🎂",
-    "price": 129900,
-    "shortDescription": "Desayuno especial una mañana en parís sin salir de bogotá con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Una mañana en París sin salir de Bogotá es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial una mañana en parís sin salir de bogotá con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Jugo natural",
-      "Café premium",
-      "Pan artesanal",
-      "Fruta fresca",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 317,
-    "reviews": [
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "domicilio",
-      "mañana",
-      "gourmet",
-      "bogotá",
-      "entrega"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD"
-    ],
-    "benefits": [
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/3e85aa4d138c.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c713f78b10fa.jpg",
-      "https://sfile.chatglm.cn/images-ppt/9eecd1ed8eb8.jpg",
-      "https://sfile.chatglm.cn/images-ppt/15dc99716b5b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1a885f9e2150.jpg"
-    ]
-  },
-  {
-    "id": "el-amanecer-americano-servido-en-su-cama",
-    "name": "El amanecer americano servido en su cama",
-    "category": "desayunos",
-    "categoryLabel": "Desayunos",
-    "emoji": "🎂",
-    "price": 99900,
-    "shortDescription": "Desayuno especial el amanecer americano servido en su cama con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "El amanecer americano servido en su cama es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el amanecer americano servido en su cama con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Jugo natural",
-      "Café premium",
-      "Pan artesanal",
-      "Fruta fresca",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 354,
-    "reviews": [
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "domicilio",
-      "mañana",
-      "gourmet",
-      "bogotá",
-      "entrega"
-    ],
-    "badge": "Favorito",
-    "customizable": false,
-    "features": [
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante"
-    ],
-    "benefits": [
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/34b08e04436c.jpg",
-      "https://sfile.chatglm.cn/images-ppt/59cff464ff2a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/5417a8c3fea4.jpg",
-      "https://sfile.chatglm.cn/images-ppt/fc801d40021d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/28ca5055e4e1.jpg"
-    ]
-  },
-  {
     "id": "el-domingo-perfecto-empieza-aqui",
     "name": "El domingo perfecto empieza aquí",
     "category": "desayunos",
@@ -3364,1441 +2043,6 @@ export const PRODUCTS: Product[] = [
       "https://sfile.chatglm.cn/images-ppt/656de91b9e72.jpg",
       "https://sfile.chatglm.cn/images-ppt/59dbe9d2c9d5.jpg",
       "https://sfile.chatglm.cn/images-ppt/b3b7faa2b6bc.jpg"
-    ]
-  },
-  {
-    "id": "la-manana-que-conquistara-su-dia",
-    "name": "La mañana que conquistará su día",
-    "category": "desayunos",
-    "categoryLabel": "Desayunos",
-    "emoji": "🎂",
-    "price": 179900,
-    "shortDescription": "Desayuno especial la mañana que conquistará su día con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "La mañana que conquistará su día es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial la mañana que conquistará su día con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Jugo natural",
-      "Café premium",
-      "Pan artesanal",
-      "Fruta fresca",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 108,
-    "reviews": [
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "domicilio",
-      "mañana",
-      "gourmet",
-      "bogotá",
-      "entrega"
-    ],
-    "badge": "Premium",
-    "customizable": true,
-    "features": [
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos"
-    ],
-    "benefits": [
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/e5544de62812.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c9a81459b2cd.png",
-      "https://sfile.chatglm.cn/images-ppt/9131235aa544.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1459d33e719c.jpg",
-      "https://sfile.chatglm.cn/images-ppt/5b27d205095b.jpg"
-    ]
-  },
-  {
-    "id": "la-pausa-dulce-que-se-merece",
-    "name": "La pausa dulce que se merece",
-    "category": "desayunos",
-    "categoryLabel": "Desayunos",
-    "emoji": "🎂",
-    "price": 109900,
-    "shortDescription": "Desayuno especial la pausa dulce que se merece con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "La pausa dulce que se merece es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial la pausa dulce que se merece con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Jugo natural",
-      "Café premium",
-      "Pan artesanal",
-      "Fruta fresca",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 145,
-    "reviews": [
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "domicilio",
-      "mañana",
-      "gourmet",
-      "bogotá",
-      "entrega"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado"
-    ],
-    "benefits": [
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/41f8695ecf40.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b72236c0a844.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a14e141767a1.jpg",
-      "https://sfile.chatglm.cn/images-ppt/13d97de4bc36.jpg",
-      "https://sfile.chatglm.cn/images-ppt/108956f46065.jpg"
-    ]
-  },
-  {
-    "id": "la-energia-para-conquistar-el-mundo",
-    "name": "La energía para conquistar el mundo",
-    "category": "desayunos",
-    "categoryLabel": "Desayunos",
-    "emoji": "🎂",
-    "price": 114900,
-    "shortDescription": "Desayuno especial la energía para conquistar el mundo con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "La energía para conquistar el mundo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial la energía para conquistar el mundo con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Jugo natural",
-      "Café premium",
-      "Pan artesanal",
-      "Fruta fresca",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 182,
-    "reviews": [
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "domicilio",
-      "mañana",
-      "gourmet",
-      "bogotá",
-      "entrega"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo"
-    ],
-    "benefits": [
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/b15985662155.jpg",
-      "https://sfile.chatglm.cn/images-ppt/df1c0f5e1ff5.jpg",
-      "https://sfile.chatglm.cn/images-ppt/00dd101fda38.jpg",
-      "https://sfile.chatglm.cn/images-ppt/695a2983d6ab.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f8da082eee5f.jpg"
-    ]
-  },
-  {
-    "id": "el-lujo-belga-en-pijama",
-    "name": "El lujo belga en pijama",
-    "category": "desayunos",
-    "categoryLabel": "Desayunos",
-    "emoji": "🎂",
-    "price": 134900,
-    "shortDescription": "Desayuno especial el lujo belga en pijama con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "El lujo belga en pijama es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el lujo belga en pijama con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Jugo natural",
-      "Café premium",
-      "Pan artesanal",
-      "Fruta fresca",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 219,
-    "reviews": [
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "domicilio",
-      "mañana",
-      "gourmet",
-      "bogotá",
-      "entrega"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia"
-    ],
-    "benefits": [
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/13c5581dc836.png",
-      "https://sfile.chatglm.cn/images-ppt/9de90ce2d66a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/d627bbb38525.jpg",
-      "https://sfile.chatglm.cn/images-ppt/88117e5edc5b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/4b88728f28d0.jpg"
-    ]
-  },
-  {
-    "id": "el-cumpleanos-que-arranca-con-sorpresa",
-    "name": "El cumpleaños que arranca con sorpresa",
-    "category": "desayunos",
-    "categoryLabel": "Desayunos",
-    "emoji": "🎂",
-    "price": 159900,
-    "shortDescription": "Desayuno especial el cumpleaños que arranca con sorpresa con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "El cumpleaños que arranca con sorpresa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el cumpleaños que arranca con sorpresa con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Jugo natural",
-      "Café premium",
-      "Pan artesanal",
-      "Fruta fresca",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 256,
-    "reviews": [
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "domicilio",
-      "mañana",
-      "gourmet",
-      "bogotá",
-      "entrega"
-    ],
-    "badge": "Favorito",
-    "customizable": true,
-    "features": [
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional"
-    ],
-    "benefits": [
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/243f44c2de16.jpg",
-      "https://sfile.chatglm.cn/images-ppt/84f311283d0b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/d885a848db29.jpg",
-      "https://sfile.chatglm.cn/images-ppt/d9a1950000e7.jpg",
-      "https://sfile.chatglm.cn/images-ppt/9a51a97e5655.jpg"
-    ]
-  },
-  {
-    "id": "el-te-de-las-cinco-en-londres",
-    "name": "El té de las cinco en Londres",
-    "category": "desayunos",
-    "categoryLabel": "Desayunos",
-    "emoji": "🎂",
-    "price": 124900,
-    "shortDescription": "Desayuno especial el té de las cinco en londres con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "El té de las cinco en Londres es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el té de las cinco en londres con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Jugo natural",
-      "Café premium",
-      "Pan artesanal",
-      "Fruta fresca",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 293,
-    "reviews": [
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "domicilio",
-      "mañana",
-      "gourmet",
-      "bogotá",
-      "entrega"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD"
-    ],
-    "benefits": [
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/d9873b02306b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f282bd1f0f88.jpg",
-      "https://sfile.chatglm.cn/images-ppt/94fb6db7e7cf.jpg",
-      "https://sfile.chatglm.cn/images-ppt/e0e835ce343b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/ae32dfa29ce6.jpg"
-    ]
-  },
-  {
-    "id": "la-suite-de-hotel-en-su-propia-casa",
-    "name": "La suite de hotel en su propia casa",
-    "category": "desayunos",
-    "categoryLabel": "Desayunos",
-    "emoji": "🎂",
-    "price": 194900,
-    "shortDescription": "Desayuno especial la suite de hotel en su propia casa con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "La suite de hotel en su propia casa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial la suite de hotel en su propia casa con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Jugo natural",
-      "Café premium",
-      "Pan artesanal",
-      "Fruta fresca",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 330,
-    "reviews": [
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "domicilio",
-      "mañana",
-      "gourmet",
-      "bogotá",
-      "entrega"
-    ],
-    "badge": "Premium",
-    "customizable": false,
-    "features": [
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante"
-    ],
-    "benefits": [
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/5a99c2f9fb9a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f4e04d09647d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1bbf8035b216.webp",
-      "https://sfile.chatglm.cn/images-ppt/7b776bd48dd8.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1b0bf475ca5a.jpg"
-    ]
-  },
-  {
-    "id": "el-comienzo-saludable-que-se-prometio",
-    "name": "El comienzo saludable que se prometió",
-    "category": "desayunos",
-    "categoryLabel": "Desayunos",
-    "emoji": "🎂",
-    "price": 89900,
-    "shortDescription": "Desayuno especial el comienzo saludable que se prometió con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "El comienzo saludable que se prometió es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el comienzo saludable que se prometió con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Jugo natural",
-      "Café premium",
-      "Pan artesanal",
-      "Fruta fresca",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 367,
-    "reviews": [
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "domicilio",
-      "mañana",
-      "gourmet",
-      "bogotá",
-      "entrega"
-    ],
-    "badge": "Nuevo",
-    "customizable": false,
-    "features": [
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero"
-    ],
-    "benefits": [
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/c7766185a81b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a0cc4c44bfdb.jpg",
-      "https://sfile.chatglm.cn/images-ppt/5a3ffdf9a1ab.jpg",
-      "https://sfile.chatglm.cn/images-ppt/8d6f52e31d40.png",
-      "https://sfile.chatglm.cn/images-ppt/4a129bd0bdfd.jpg"
-    ]
-  },
-  {
-    "id": "los-huevos-del-chef-servidos-en-su-cama",
-    "name": "Los huevos del chef servidos en su cama",
-    "category": "desayunos",
-    "categoryLabel": "Desayunos",
-    "emoji": "🎂",
-    "price": 139900,
-    "shortDescription": "Desayuno especial los huevos del chef servidos en su cama con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Los huevos del chef servidos en su cama es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial los huevos del chef servidos en su cama con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Jugo natural",
-      "Café premium",
-      "Pan artesanal",
-      "Fruta fresca",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 84,
-    "reviews": [
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "domicilio",
-      "mañana",
-      "gourmet",
-      "bogotá",
-      "entrega"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos"
-    ],
-    "benefits": [
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/3817b1fbf962.jpg",
-      "https://sfile.chatglm.cn/images-ppt/695a2983d6ab.jpg",
-      "https://sfile.chatglm.cn/images-ppt/dd7865fd67f5.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b78f0a8e646d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/5d505b2f5f87.jpg"
-    ]
-  },
-  {
-    "id": "el-tropico-colombiano-en-su-mesa",
-    "name": "El trópico colombiano en su mesa",
-    "category": "desayunos",
-    "categoryLabel": "Desayunos",
-    "emoji": "🎂",
-    "price": 104900,
-    "shortDescription": "Desayuno especial el trópico colombiano en su mesa con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "El trópico colombiano en su mesa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el trópico colombiano en su mesa con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Jugo natural",
-      "Café premium",
-      "Pan artesanal",
-      "Fruta fresca",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 121,
-    "reviews": [
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "domicilio",
-      "mañana",
-      "gourmet",
-      "bogotá",
-      "entrega"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado"
-    ],
-    "benefits": [
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/e99fbd315064.jpg",
-      "https://sfile.chatglm.cn/images-ppt/e83201c56c5a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/99bf9aa48345.jpg",
-      "https://sfile.chatglm.cn/images-ppt/628c7e9d0acc.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/40ef8de0531c.jpg"
-    ]
-  },
-  {
-    "id": "el-domingo-neoyorquino-en-bogota",
-    "name": "El domingo neoyorquino en Bogotá",
-    "category": "desayunos",
-    "categoryLabel": "Desayunos",
-    "emoji": "🎂",
-    "price": 144900,
-    "shortDescription": "Desayuno especial el domingo neoyorquino en bogotá con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "El domingo neoyorquino en Bogotá es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el domingo neoyorquino en bogotá con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Jugo natural",
-      "Café premium",
-      "Pan artesanal",
-      "Fruta fresca",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 158,
-    "reviews": [
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "domicilio",
-      "mañana",
-      "gourmet",
-      "bogotá",
-      "entrega"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo"
-    ],
-    "benefits": [
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/3c4d5377d981.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/108956f46065.jpg",
-      "https://sfile.chatglm.cn/images-ppt/53072a56e6a7.jpg",
-      "https://sfile.chatglm.cn/images-ppt/67fda078620e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f8da082eee5f.jpg"
-    ]
-  },
-  {
-    "id": "el-poder-que-da-la-avena-de-la-abuela",
-    "name": "El poder que da la avena de la abuela",
-    "category": "desayunos",
-    "categoryLabel": "Desayunos",
-    "emoji": "🎂",
-    "price": 84900,
-    "shortDescription": "Desayuno especial el poder que da la avena de la abuela con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "El poder que da la avena de la abuela es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el poder que da la avena de la abuela con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Jugo natural",
-      "Café premium",
-      "Pan artesanal",
-      "Fruta fresca",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 195,
-    "reviews": [
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "domicilio",
-      "mañana",
-      "gourmet",
-      "bogotá",
-      "entrega"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia"
-    ],
-    "benefits": [
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/0e2acedf4fd1.jpg",
-      "https://sfile.chatglm.cn/images-ppt/18c4a517015d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/25a2e7fba690.jpg",
-      "https://sfile.chatglm.cn/images-ppt/048315e397df.jpg",
-      "https://sfile.chatglm.cn/images-ppt/08739b69923e.jpg"
-    ]
-  },
-  {
-    "id": "el-desayuno-para-enamorarla-de-nuevo",
-    "name": "El desayuno para enamorarla de nuevo",
-    "category": "desayunos",
-    "categoryLabel": "Desayunos",
-    "emoji": "🎂",
-    "price": 169900,
-    "shortDescription": "Desayuno especial el desayuno para enamorarla de nuevo con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "El desayuno para enamorarla de nuevo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el desayuno para enamorarla de nuevo con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Jugo natural",
-      "Café premium",
-      "Pan artesanal",
-      "Fruta fresca",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 232,
-    "reviews": [
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "domicilio",
-      "mañana",
-      "gourmet",
-      "bogotá",
-      "entrega"
-    ],
-    "badge": "Más vendido",
-    "customizable": true,
-    "features": [
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional"
-    ],
-    "benefits": [
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/dd7865fd67f5.jpg",
-      "https://sfile.chatglm.cn/images-ppt/d305a8df11b4.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/14133150b31f.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1dc357b450c3.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b967a9e38f6b.jpg"
-    ]
-  },
-  {
-    "id": "el-brunch-del-fin-de-semana-sin-salir",
-    "name": "El brunch del fin de semana sin salir",
-    "category": "desayunos",
-    "categoryLabel": "Desayunos",
-    "emoji": "🎂",
-    "price": 154900,
-    "shortDescription": "Desayuno especial el brunch del fin de semana sin salir con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "El brunch del fin de semana sin salir es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el brunch del fin de semana sin salir con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Jugo natural",
-      "Café premium",
-      "Pan artesanal",
-      "Fruta fresca",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 269,
-    "reviews": [
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "domicilio",
-      "mañana",
-      "gourmet",
-      "bogotá",
-      "entrega"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD"
-    ],
-    "benefits": [
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/3e85aa4d138c.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c713f78b10fa.jpg",
-      "https://sfile.chatglm.cn/images-ppt/9eecd1ed8eb8.jpg",
-      "https://sfile.chatglm.cn/images-ppt/15dc99716b5b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1a885f9e2150.jpg"
-    ]
-  },
-  {
-    "id": "la-aventura-matutina-de-los-pequenos",
-    "name": "La aventura matutina de los pequeños",
-    "category": "desayunos",
-    "categoryLabel": "Desayunos",
-    "emoji": "🎂",
-    "price": 94900,
-    "shortDescription": "Desayuno especial la aventura matutina de los pequeños con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "La aventura matutina de los pequeños es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial la aventura matutina de los pequeños con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Jugo natural",
-      "Café premium",
-      "Pan artesanal",
-      "Fruta fresca",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 306,
-    "reviews": [
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "domicilio",
-      "mañana",
-      "gourmet",
-      "bogotá",
-      "entrega"
-    ],
-    "badge": "Favorito",
-    "customizable": false,
-    "features": [
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante"
-    ],
-    "benefits": [
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/34b08e04436c.jpg",
-      "https://sfile.chatglm.cn/images-ppt/59cff464ff2a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/5417a8c3fea4.jpg",
-      "https://sfile.chatglm.cn/images-ppt/fc801d40021d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/28ca5055e4e1.jpg"
-    ]
-  },
-  {
-    "id": "las-tostadas-de-la-abuela-en-casa",
-    "name": "Las tostadas de la abuela en casa",
-    "category": "desayunos",
-    "categoryLabel": "Desayunos",
-    "emoji": "🎂",
-    "price": 124900,
-    "shortDescription": "Desayuno especial las tostadas de la abuela en casa con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Las tostadas de la abuela en casa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial las tostadas de la abuela en casa con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Jugo natural",
-      "Café premium",
-      "Pan artesanal",
-      "Fruta fresca",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 343,
-    "reviews": [
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "domicilio",
-      "mañana",
-      "gourmet",
-      "bogotá",
-      "entrega"
-    ],
-    "badge": "Nuevo",
-    "customizable": false,
-    "features": [
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero"
-    ],
-    "benefits": [
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/14deb4cac2ec.jpg",
-      "https://sfile.chatglm.cn/images-ppt/06ab39d3bf31.jpg",
-      "https://sfile.chatglm.cn/images-ppt/656de91b9e72.jpg",
-      "https://sfile.chatglm.cn/images-ppt/59dbe9d2c9d5.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b3b7faa2b6bc.jpg"
-    ]
-  },
-  {
-    "id": "la-fiesta-empieza-antes-de-abrir-la-puerta",
-    "name": "La fiesta empieza antes de abrir la puerta",
-    "category": "globos",
-    "categoryLabel": "Globos",
-    "emoji": "🎈",
-    "price": 159900,
-    "shortDescription": "Decoración con globos la fiesta empieza antes de abrir la puerta de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "La fiesta empieza antes de abrir la puerta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la fiesta empieza antes de abrir la puerta de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Globos látex premium",
-      "Globos foil",
-      "Helio incluido",
-      "Cinta y lazo",
-      "Soporte decorativo"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 380,
-    "reviews": [
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "helio",
-      "decoración",
-      "fiesta",
-      "cumpleaños",
-      "celebración"
-    ],
-    "badge": "Más vendido",
-    "customizable": false,
-    "features": [
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos"
-    ],
-    "benefits": [
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/f16a76e2b223.jpg",
-      "https://sfile.chatglm.cn/images-ppt/196965b72070.jpg",
-      "https://sfile.chatglm.cn/images-ppt/fa3d79730493.jpg",
-      "https://sfile.chatglm.cn/images-ppt/0218fc9529ee.jpg",
-      "https://sfile.chatglm.cn/images-ppt/6ab0e72c0dc4.jpg"
-    ]
-  },
-  {
-    "id": "la-sorpresa-que-flota-sobre-su-mesa",
-    "name": "La sorpresa que flota sobre su mesa",
-    "category": "globos",
-    "categoryLabel": "Globos",
-    "emoji": "🎈",
-    "price": 89900,
-    "shortDescription": "Decoración con globos la sorpresa que flota sobre su mesa de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "La sorpresa que flota sobre su mesa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la sorpresa que flota sobre su mesa de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Globos látex premium",
-      "Globos foil",
-      "Helio incluido",
-      "Cinta y lazo",
-      "Soporte decorativo"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 97,
-    "reviews": [
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "helio",
-      "decoración",
-      "fiesta",
-      "cumpleaños",
-      "celebración"
-    ],
-    "badge": "Favorito",
-    "customizable": false,
-    "features": [
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado"
-    ],
-    "benefits": [
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/d8325845ed1c.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a9d907a0b30b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a30f760e2796.jpg",
-      "https://sfile.chatglm.cn/images-ppt/e9715df9876b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/449925b0d69c.jpg"
-    ]
-  },
-  {
-    "id": "el-numero-que-hace-oficial-la-celebracion",
-    "name": "El número que hace oficial la celebración",
-    "category": "globos",
-    "categoryLabel": "Globos",
-    "emoji": "🎈",
-    "price": 49900,
-    "shortDescription": "Decoración con globos el número que hace oficial la celebración de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "El número que hace oficial la celebración es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el número que hace oficial la celebración de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Globos látex premium",
-      "Globos foil",
-      "Helio incluido",
-      "Cinta y lazo",
-      "Soporte decorativo"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 134,
-    "reviews": [
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "helio",
-      "decoración",
-      "fiesta",
-      "cumpleaños",
-      "celebración"
-    ],
-    "badge": "",
-    "customizable": true,
-    "features": [
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo"
-    ],
-    "benefits": [
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/5347e63ba593.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/c010d805d86f.jpg",
-      "https://sfile.chatglm.cn/images-ppt/46a767a1efad.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a975b1ffe7f7.jpg",
-      "https://sfile.chatglm.cn/images-ppt/685141bbacdc.jpg"
     ]
   },
   {
@@ -4887,1441 +2131,6 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "la-dulce-sorpresa-que-flota-y-enamora",
-    "name": "La dulce sorpresa que flota y enamora",
-    "category": "globos",
-    "categoryLabel": "Globos",
-    "emoji": "🎈",
-    "price": 119900,
-    "shortDescription": "Decoración con globos la dulce sorpresa que flota y enamora de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "La dulce sorpresa que flota y enamora es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la dulce sorpresa que flota y enamora de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Globos látex premium",
-      "Globos foil",
-      "Helio incluido",
-      "Cinta y lazo",
-      "Soporte decorativo"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 208,
-    "reviews": [
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "helio",
-      "decoración",
-      "fiesta",
-      "cumpleaños",
-      "celebración"
-    ],
-    "badge": "Más vendido",
-    "customizable": false,
-    "features": [
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional"
-    ],
-    "benefits": [
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/af230bd27779.jpg",
-      "https://sfile.chatglm.cn/images-ppt/97a0259bb5d5.jpg",
-      "https://sfile.chatglm.cn/images-ppt/9b515d15115a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/0fe320f50928.png",
-      "https://sfile.chatglm.cn/images-ppt/e235e6f573d9.jpg"
-    ]
-  },
-  {
-    "id": "el-corazon-que-vuela-hasta-su-techo",
-    "name": "El corazón que vuela hasta su techo",
-    "category": "globos",
-    "categoryLabel": "Globos",
-    "emoji": "🎈",
-    "price": 79900,
-    "shortDescription": "Decoración con globos el corazón que vuela hasta su techo de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "El corazón que vuela hasta su techo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el corazón que vuela hasta su techo de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Globos látex premium",
-      "Globos foil",
-      "Helio incluido",
-      "Cinta y lazo",
-      "Soporte decorativo"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 245,
-    "reviews": [
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "helio",
-      "decoración",
-      "fiesta",
-      "cumpleaños",
-      "celebración"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD"
-    ],
-    "benefits": [
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/6ec521d8248a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/636895ef5a9e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1032a12baea2.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f1a2f7b5dafc.jpg",
-      "https://sfile.chatglm.cn/images-ppt/7cdef00532a4.jpg"
-    ]
-  },
-  {
-    "id": "el-arcoiris-que-pinta-su-fiesta",
-    "name": "El arcoíris que pinta su fiesta",
-    "category": "globos",
-    "categoryLabel": "Globos",
-    "emoji": "🎈",
-    "price": 134900,
-    "shortDescription": "Decoración con globos el arcoíris que pinta su fiesta de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "El arcoíris que pinta su fiesta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el arcoíris que pinta su fiesta de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Globos látex premium",
-      "Globos foil",
-      "Helio incluido",
-      "Cinta y lazo",
-      "Soporte decorativo"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 282,
-    "reviews": [
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "helio",
-      "decoración",
-      "fiesta",
-      "cumpleaños",
-      "celebración"
-    ],
-    "badge": "Nuevo",
-    "customizable": false,
-    "features": [
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante"
-    ],
-    "benefits": [
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/7de4b527685a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c9341965d1bc.jpg",
-      "https://sfile.chatglm.cn/images-ppt/729f6aa96eb7.jpg",
-      "https://sfile.chatglm.cn/images-ppt/0c2d967119a1.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a916712b64cb.jpg"
-    ]
-  },
-  {
-    "id": "la-sorpresa-bobo-que-arranca-la-risa",
-    "name": "La sorpresa bobo que arranca la risa",
-    "category": "globos",
-    "categoryLabel": "Globos",
-    "emoji": "🎈",
-    "price": 69900,
-    "shortDescription": "Decoración con globos la sorpresa bobo que arranca la risa de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "La sorpresa bobo que arranca la risa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la sorpresa bobo que arranca la risa de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Globos látex premium",
-      "Globos foil",
-      "Helio incluido",
-      "Cinta y lazo",
-      "Soporte decorativo"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 319,
-    "reviews": [
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "helio",
-      "decoración",
-      "fiesta",
-      "cumpleaños",
-      "celebración"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero"
-    ],
-    "benefits": [
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/2c86a3c64555.jpg",
-      "https://sfile.chatglm.cn/images-ppt/bfe62d1d5959.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c1ac852c3c99.jpg",
-      "https://sfile.chatglm.cn/images-ppt/224cbcf38aaf.jpg",
-      "https://sfile.chatglm.cn/images-ppt/5c43c05d326a.jpg"
-    ]
-  },
-  {
-    "id": "la-estrella-que-guia-su-celebracion",
-    "name": "La estrella que guía su celebración",
-    "category": "globos",
-    "categoryLabel": "Globos",
-    "emoji": "🎈",
-    "price": 94900,
-    "shortDescription": "Decoración con globos la estrella que guía su celebración de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "La estrella que guía su celebración es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la estrella que guía su celebración de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Globos látex premium",
-      "Globos foil",
-      "Helio incluido",
-      "Cinta y lazo",
-      "Soporte decorativo"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 356,
-    "reviews": [
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "helio",
-      "decoración",
-      "fiesta",
-      "cumpleaños",
-      "celebración"
-    ],
-    "badge": "Favorito",
-    "customizable": false,
-    "features": [
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos"
-    ],
-    "benefits": [
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/03617c21a845.jpg",
-      "https://sfile.chatglm.cn/images-ppt/ccffbd64ca79.jpg",
-      "https://sfile.chatglm.cn/images-ppt/54a8fc5fbcda.jpg",
-      "https://sfile.chatglm.cn/images-ppt/9d09ac813615.jpg",
-      "https://sfile.chatglm.cn/images-ppt/73fb3ef66fb0.jpg"
-    ]
-  },
-  {
-    "id": "su-nombre-flotando-en-el-cielo",
-    "name": "Su nombre flotando en el cielo",
-    "category": "globos",
-    "categoryLabel": "Globos",
-    "emoji": "🎈",
-    "price": 89900,
-    "shortDescription": "Decoración con globos su nombre flotando en el cielo de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Su nombre flotando en el cielo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos su nombre flotando en el cielo de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Globos látex premium",
-      "Globos foil",
-      "Helio incluido",
-      "Cinta y lazo",
-      "Soporte decorativo"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 393,
-    "reviews": [
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "helio",
-      "decoración",
-      "fiesta",
-      "cumpleaños",
-      "celebración"
-    ],
-    "badge": "Nuevo",
-    "customizable": true,
-    "features": [
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado"
-    ],
-    "benefits": [
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/fa8a646f1ed8.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1a3cd7eaee3b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/d439eee9d803.jpg",
-      "https://sfile.chatglm.cn/images-ppt/79fd0253aa8e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/0ae38a8bee1c.jpg"
-    ]
-  },
-  {
-    "id": "el-fondo-de-bodas-que-siempre-sono",
-    "name": "El fondo de bodas que siempre soñó",
-    "category": "globos",
-    "categoryLabel": "Globos",
-    "emoji": "🎈",
-    "price": 249900,
-    "shortDescription": "Decoración con globos el fondo de bodas que siempre soñó de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "El fondo de bodas que siempre soñó es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el fondo de bodas que siempre soñó de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Globos látex premium",
-      "Globos foil",
-      "Helio incluido",
-      "Cinta y lazo",
-      "Soporte decorativo"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 110,
-    "reviews": [
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "helio",
-      "decoración",
-      "fiesta",
-      "cumpleaños",
-      "celebración"
-    ],
-    "badge": "Premium",
-    "customizable": false,
-    "features": [
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo"
-    ],
-    "benefits": [
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/375956697f7e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/0abb41d79fd0.jpg",
-      "https://sfile.chatglm.cn/images-ppt/be8973c0e599.jpg",
-      "https://sfile.chatglm.cn/images-ppt/496b189ca2f1.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/7a992aa585de.jpg"
-    ]
-  },
-  {
-    "id": "el-unicornio-magico-de-su-fiesta",
-    "name": "El unicornio mágico de su fiesta",
-    "category": "globos",
-    "categoryLabel": "Globos",
-    "emoji": "🎈",
-    "price": 84900,
-    "shortDescription": "Decoración con globos el unicornio mágico de su fiesta de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "El unicornio mágico de su fiesta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el unicornio mágico de su fiesta de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Globos látex premium",
-      "Globos foil",
-      "Helio incluido",
-      "Cinta y lazo",
-      "Soporte decorativo"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 147,
-    "reviews": [
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "helio",
-      "decoración",
-      "fiesta",
-      "cumpleaños",
-      "celebración"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia"
-    ],
-    "benefits": [
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/80fb9dcce51e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/8f4b7e4949f7.jpg",
-      "https://sfile.chatglm.cn/images-ppt/d8e05fbb87c9.jpg",
-      "https://sfile.chatglm.cn/images-ppt/3678ad2ff2ed.jpg",
-      "https://sfile.chatglm.cn/images-ppt/6f2d6fcf2b0f.jpg"
-    ]
-  },
-  {
-    "id": "el-rose-gold-que-eleva-la-elegancia",
-    "name": "El rosé gold que eleva la elegancia",
-    "category": "globos",
-    "categoryLabel": "Globos",
-    "emoji": "🎈",
-    "price": 109900,
-    "shortDescription": "Decoración con globos el rosé gold que eleva la elegancia de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "El rosé gold que eleva la elegancia es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el rosé gold que eleva la elegancia de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Globos látex premium",
-      "Globos foil",
-      "Helio incluido",
-      "Cinta y lazo",
-      "Soporte decorativo"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 184,
-    "reviews": [
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "helio",
-      "decoración",
-      "fiesta",
-      "cumpleaños",
-      "celebración"
-    ],
-    "badge": "Favorito",
-    "customizable": false,
-    "features": [
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional"
-    ],
-    "benefits": [
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/952be067f9ca.jpg",
-      "https://sfile.chatglm.cn/images-ppt/86424a29b51e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/976cf7b56542.jpg",
-      "https://sfile.chatglm.cn/images-ppt/829c3e51f03d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/83ff4dc69c2f.jpg"
-    ]
-  },
-  {
-    "id": "las-letras-que-iluminan-la-fiesta",
-    "name": "Las letras que iluminan la fiesta",
-    "category": "globos",
-    "categoryLabel": "Globos",
-    "emoji": "🎈",
-    "price": 124900,
-    "shortDescription": "Decoración con globos las letras que iluminan la fiesta de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Las letras que iluminan la fiesta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos las letras que iluminan la fiesta de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Globos látex premium",
-      "Globos foil",
-      "Helio incluido",
-      "Cinta y lazo",
-      "Soporte decorativo"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 221,
-    "reviews": [
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "helio",
-      "decoración",
-      "fiesta",
-      "cumpleaños",
-      "celebración"
-    ],
-    "badge": "",
-    "customizable": true,
-    "features": [
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD"
-    ],
-    "benefits": [
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/ff4368bd8821.jpg",
-      "https://sfile.chatglm.cn/images-ppt/430acffabd9b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/07fa50da7946.jpg",
-      "https://sfile.chatglm.cn/images-ppt/022877b622d5.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1b2f8a2f72bf.jpg"
-    ]
-  },
-  {
-    "id": "la-sorpresa-total-que-cubre-el-techo",
-    "name": "La sorpresa total que cubre el techo",
-    "category": "globos",
-    "categoryLabel": "Globos",
-    "emoji": "🎈",
-    "price": 144900,
-    "shortDescription": "Decoración con globos la sorpresa total que cubre el techo de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "La sorpresa total que cubre el techo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la sorpresa total que cubre el techo de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Globos látex premium",
-      "Globos foil",
-      "Helio incluido",
-      "Cinta y lazo",
-      "Soporte decorativo"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 258,
-    "reviews": [
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "helio",
-      "decoración",
-      "fiesta",
-      "cumpleaños",
-      "celebración"
-    ],
-    "badge": "Más vendido",
-    "customizable": false,
-    "features": [
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante"
-    ],
-    "benefits": [
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/821bd8631fab.jpg",
-      "https://sfile.chatglm.cn/images-ppt/18667f01f772.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1059deac84e6.jpg",
-      "https://sfile.chatglm.cn/images-ppt/d947e5102246.jpg",
-      "https://sfile.chatglm.cn/images-ppt/553cd80e071b.jpeg"
-    ]
-  },
-  {
-    "id": "el-brillo-metalico-que-deslumbra",
-    "name": "El brillo metálico que deslumbra",
-    "category": "globos",
-    "categoryLabel": "Globos",
-    "emoji": "🎈",
-    "price": 74900,
-    "shortDescription": "Decoración con globos el brillo metálico que deslumbra de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "El brillo metálico que deslumbra es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el brillo metálico que deslumbra de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Globos látex premium",
-      "Globos foil",
-      "Helio incluido",
-      "Cinta y lazo",
-      "Soporte decorativo"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 295,
-    "reviews": [
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "helio",
-      "decoración",
-      "fiesta",
-      "cumpleaños",
-      "celebración"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero"
-    ],
-    "benefits": [
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/2030fa4c3e58.jpg",
-      "https://sfile.chatglm.cn/images-ppt/d67b95c6c796.jpg",
-      "https://sfile.chatglm.cn/images-ppt/825c0e5a8f6d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/4fa4a7698af7.jpg",
-      "https://sfile.chatglm.cn/images-ppt/3a98e52c5230.jpeg"
-    ]
-  },
-  {
-    "id": "el-gigante-del-cielo-que-impacta",
-    "name": "El gigante del cielo que impacta",
-    "category": "globos",
-    "categoryLabel": "Globos",
-    "emoji": "🎈",
-    "price": 164900,
-    "shortDescription": "Decoración con globos el gigante del cielo que impacta de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "El gigante del cielo que impacta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el gigante del cielo que impacta de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Globos látex premium",
-      "Globos foil",
-      "Helio incluido",
-      "Cinta y lazo",
-      "Soporte decorativo"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 332,
-    "reviews": [
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "helio",
-      "decoración",
-      "fiesta",
-      "cumpleaños",
-      "celebración"
-    ],
-    "badge": "Premium",
-    "customizable": false,
-    "features": [
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos"
-    ],
-    "benefits": [
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/f16a76e2b223.jpg",
-      "https://sfile.chatglm.cn/images-ppt/196965b72070.jpg",
-      "https://sfile.chatglm.cn/images-ppt/fa3d79730493.jpg",
-      "https://sfile.chatglm.cn/images-ppt/0218fc9529ee.jpg",
-      "https://sfile.chatglm.cn/images-ppt/6ab0e72c0dc4.jpg"
-    ]
-  },
-  {
-    "id": "la-burbuja-magica-que-atrapa-la-mirada",
-    "name": "La burbuja mágica que atrapa la mirada",
-    "category": "globos",
-    "categoryLabel": "Globos",
-    "emoji": "🎈",
-    "price": 94900,
-    "shortDescription": "Decoración con globos la burbuja mágica que atrapa la mirada de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "La burbuja mágica que atrapa la mirada es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la burbuja mágica que atrapa la mirada de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Globos látex premium",
-      "Globos foil",
-      "Helio incluido",
-      "Cinta y lazo",
-      "Soporte decorativo"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 369,
-    "reviews": [
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "helio",
-      "decoración",
-      "fiesta",
-      "cumpleaños",
-      "celebración"
-    ],
-    "badge": "Nuevo",
-    "customizable": false,
-    "features": [
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado"
-    ],
-    "benefits": [
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/d8325845ed1c.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a9d907a0b30b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a30f760e2796.jpg",
-      "https://sfile.chatglm.cn/images-ppt/e9715df9876b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/449925b0d69c.jpg"
-    ]
-  },
-  {
-    "id": "la-graduacion-que-flota-en-colores",
-    "name": "La graduación que flota en colores",
-    "category": "globos",
-    "categoryLabel": "Globos",
-    "emoji": "🎈",
-    "price": 189900,
-    "shortDescription": "Decoración con globos la graduación que flota en colores de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "La graduación que flota en colores es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la graduación que flota en colores de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Globos látex premium",
-      "Globos foil",
-      "Helio incluido",
-      "Cinta y lazo",
-      "Soporte decorativo"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 86,
-    "reviews": [
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "helio",
-      "decoración",
-      "fiesta",
-      "cumpleaños",
-      "celebración"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo"
-    ],
-    "benefits": [
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/5347e63ba593.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/c010d805d86f.jpg",
-      "https://sfile.chatglm.cn/images-ppt/46a767a1efad.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a975b1ffe7f7.jpg",
-      "https://sfile.chatglm.cn/images-ppt/685141bbacdc.jpg"
-    ]
-  },
-  {
-    "id": "el-neon-que-enciende-el-festejo",
-    "name": "El neón que enciende el festejo",
-    "category": "globos",
-    "categoryLabel": "Globos",
-    "emoji": "🎈",
-    "price": 59900,
-    "shortDescription": "Decoración con globos el neón que enciende el festejo de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "El neón que enciende el festejo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el neón que enciende el festejo de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Globos látex premium",
-      "Globos foil",
-      "Helio incluido",
-      "Cinta y lazo",
-      "Soporte decorativo"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 123,
-    "reviews": [
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "helio",
-      "decoración",
-      "fiesta",
-      "cumpleaños",
-      "celebración"
-    ],
-    "badge": "",
-    "customizable": true,
-    "features": [
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia"
-    ],
-    "benefits": [
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/a39817f85bc5.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b4f97e4571bd.jpg",
-      "https://sfile.chatglm.cn/images-ppt/06a47f097b53.jpg",
-      "https://sfile.chatglm.cn/images-ppt/eb06df5a7d8b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c47be6e91f0a.jpg"
-    ]
-  },
-  {
-    "id": "el-cumpleanos-legendario-que-recordara-siempre",
-    "name": "El cumpleaños legendario que recordará siempre",
-    "category": "cumpleanos",
-    "categoryLabel": "Cumpleaños",
-    "emoji": "🎁",
-    "price": 129900,
-    "shortDescription": "Celebra con el cumpleaños legendario que recordará siempre, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "El cumpleaños legendario que recordará siempre es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el cumpleaños legendario que recordará siempre, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto principal",
-      "Velas de cumpleaños",
-      "Tarjeta dedicatoria",
-      "Decoración",
-      "Bolsa de regalo"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 160,
-    "reviews": [
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "cumpleaños",
-      "fiesta",
-      "celebración",
-      "torta",
-      "regalo"
-    ],
-    "badge": "Más vendido",
-    "customizable": true,
-    "features": [
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional"
-    ],
-    "benefits": [
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/a111fbcdf0b1.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c03b84109179.jpg",
-      "https://sfile.chatglm.cn/images-ppt/72a5189d07bd.jpg",
-      "https://sfile.chatglm.cn/images-ppt/8591b7823154.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b7332b82be61.jpeg"
-    ]
-  },
-  {
-    "id": "el-cumpleanos-que-lo-tiene-absolutamente-todo",
-    "name": "El cumpleaños que lo tiene absolutamente todo",
-    "category": "cumpleanos",
-    "categoryLabel": "Cumpleaños",
-    "emoji": "🎁",
-    "price": 189900,
-    "shortDescription": "Celebra con el cumpleaños que lo tiene absolutamente todo, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "El cumpleaños que lo tiene absolutamente todo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el cumpleaños que lo tiene absolutamente todo, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto principal",
-      "Velas de cumpleaños",
-      "Tarjeta dedicatoria",
-      "Decoración",
-      "Bolsa de regalo"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 197,
-    "reviews": [
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "cumpleaños",
-      "fiesta",
-      "celebración",
-      "torta",
-      "regalo"
-    ],
-    "badge": "Premium",
-    "customizable": true,
-    "features": [
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD"
-    ],
-    "benefits": [
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/6c7debd10a0a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/78bf09d06ce7.jpg",
-      "https://sfile.chatglm.cn/images-ppt/0537aa4c60c4.jpg",
-      "https://sfile.chatglm.cn/images-ppt/0ba7ccd86258.jpg",
-      "https://sfile.chatglm.cn/images-ppt/4e857e812910.jpg"
-    ]
-  },
-  {
-    "id": "la-fiesta-completa-antes-de-tocar-el-timbre",
-    "name": "La fiesta completa antes de tocar el timbre",
-    "category": "cumpleanos",
-    "categoryLabel": "Cumpleaños",
-    "emoji": "🎁",
-    "price": 159900,
-    "shortDescription": "Celebra con la fiesta completa antes de tocar el timbre, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "La fiesta completa antes de tocar el timbre es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con la fiesta completa antes de tocar el timbre, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto principal",
-      "Velas de cumpleaños",
-      "Tarjeta dedicatoria",
-      "Decoración",
-      "Bolsa de regalo"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 234,
-    "reviews": [
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "cumpleaños",
-      "fiesta",
-      "celebración",
-      "torta",
-      "regalo"
-    ],
-    "badge": "Favorito",
-    "customizable": false,
-    "features": [
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante"
-    ],
-    "benefits": [
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/b10fa4b407cd.jpg",
-      "https://sfile.chatglm.cn/images-ppt/50204a25d43d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/40c69292383e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/63e58da4e916.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c3e1ca163e0b.png"
-    ]
-  },
-  {
     "id": "la-torre-de-color-que-deslumbra-la-mesa",
     "name": "La torre de color que deslumbra la mesa",
     "category": "cumpleanos",
@@ -6404,1441 +2213,6 @@ export const PRODUCTS: Product[] = [
       "https://sfile.chatglm.cn/images-ppt/cd6c26174c7d.jpg",
       "https://sfile.chatglm.cn/images-ppt/270edfc1f433.jpg",
       "https://sfile.chatglm.cn/images-ppt/5823b897c332.jpg"
-    ]
-  },
-  {
-    "id": "el-tres-leches-que-enamora-en-cada-bocado",
-    "name": "El tres leches que enamora en cada bocado",
-    "category": "cumpleanos",
-    "categoryLabel": "Cumpleaños",
-    "emoji": "🎁",
-    "price": 119900,
-    "shortDescription": "Celebra con el tres leches que enamora en cada bocado, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "El tres leches que enamora en cada bocado es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el tres leches que enamora en cada bocado, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto principal",
-      "Velas de cumpleaños",
-      "Tarjeta dedicatoria",
-      "Decoración",
-      "Bolsa de regalo"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 308,
-    "reviews": [
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "cumpleaños",
-      "fiesta",
-      "celebración",
-      "torta",
-      "regalo"
-    ],
-    "badge": "",
-    "customizable": true,
-    "features": [
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos"
-    ],
-    "benefits": [
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/9a6bf8b591f6.jpg",
-      "https://sfile.chatglm.cn/images-ppt/157f69e4e38d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/07e99c68df4e.png",
-      "https://sfile.chatglm.cn/images-ppt/b9fb7d899c1a.png",
-      "https://sfile.chatglm.cn/images-ppt/54209b81adbf.jpg"
-    ]
-  },
-  {
-    "id": "el-regalo-que-toda-mujer-quiere-abrir",
-    "name": "El regalo que toda mujer quiere abrir",
-    "category": "cumpleanos",
-    "categoryLabel": "Cumpleaños",
-    "emoji": "🎁",
-    "price": 149900,
-    "shortDescription": "Celebra con el regalo que toda mujer quiere abrir, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "El regalo que toda mujer quiere abrir es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el regalo que toda mujer quiere abrir, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto principal",
-      "Velas de cumpleaños",
-      "Tarjeta dedicatoria",
-      "Decoración",
-      "Bolsa de regalo"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 345,
-    "reviews": [
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "cumpleaños",
-      "fiesta",
-      "celebración",
-      "torta",
-      "regalo"
-    ],
-    "badge": "Más vendido",
-    "customizable": false,
-    "features": [
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado"
-    ],
-    "benefits": [
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/f416f552fce6.jpg",
-      "https://sfile.chatglm.cn/images-ppt/8e921b2eb570.jpg",
-      "https://sfile.chatglm.cn/images-ppt/d56e01b9d644.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b1f3e3a32be7.jpg",
-      "https://sfile.chatglm.cn/images-ppt/d222e43cc3e3.jpg"
-    ]
-  },
-  {
-    "id": "el-regalo-que-ningun-hombre-espera",
-    "name": "El regalo que ningún hombre espera",
-    "category": "cumpleanos",
-    "categoryLabel": "Cumpleaños",
-    "emoji": "🎁",
-    "price": 149900,
-    "shortDescription": "Celebra con el regalo que ningún hombre espera, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "El regalo que ningún hombre espera es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el regalo que ningún hombre espera, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto principal",
-      "Velas de cumpleaños",
-      "Tarjeta dedicatoria",
-      "Decoración",
-      "Bolsa de regalo"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 382,
-    "reviews": [
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "cumpleaños",
-      "fiesta",
-      "celebración",
-      "torta",
-      "regalo"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo"
-    ],
-    "benefits": [
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/1b08d7a1d169.jpg",
-      "https://sfile.chatglm.cn/images-ppt/6933d2811e42.jpg",
-      "https://sfile.chatglm.cn/images-ppt/9a895ccff41b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/2331db2dcddb.jpg",
-      "https://sfile.chatglm.cn/images-ppt/96b2eb4a2613.jpg"
-    ]
-  },
-  {
-    "id": "la-pinada-que-revive-la-infancia",
-    "name": "La piñada que revive la infancia",
-    "category": "cumpleanos",
-    "categoryLabel": "Cumpleaños",
-    "emoji": "🎁",
-    "price": 89900,
-    "shortDescription": "Celebra con la piñada que revive la infancia, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "La piñada que revive la infancia es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con la piñada que revive la infancia, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto principal",
-      "Velas de cumpleaños",
-      "Tarjeta dedicatoria",
-      "Decoración",
-      "Bolsa de regalo"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 99,
-    "reviews": [
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "cumpleaños",
-      "fiesta",
-      "celebración",
-      "torta",
-      "regalo"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia"
-    ],
-    "benefits": [
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/57d70195fcce.jpg",
-      "https://sfile.chatglm.cn/images-ppt/eca9e62b7fad.jpg",
-      "https://sfile.chatglm.cn/images-ppt/827b04abfbea.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/23f4fa0fec4a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a87c22b8122c.jpg"
-    ]
-  },
-  {
-    "id": "el-red-velvet-que-enamora-en-rojo",
-    "name": "El red velvet que enamora en rojo",
-    "category": "cumpleanos",
-    "categoryLabel": "Cumpleaños",
-    "emoji": "🎁",
-    "price": 134900,
-    "shortDescription": "Celebra con el red velvet que enamora en rojo, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "El red velvet que enamora en rojo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el red velvet que enamora en rojo, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto principal",
-      "Velas de cumpleaños",
-      "Tarjeta dedicatoria",
-      "Decoración",
-      "Bolsa de regalo"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 136,
-    "reviews": [
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "cumpleaños",
-      "fiesta",
-      "celebración",
-      "torta",
-      "regalo"
-    ],
-    "badge": "Nuevo",
-    "customizable": true,
-    "features": [
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional"
-    ],
-    "benefits": [
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/bd18a5a72bde.png",
-      "https://sfile.chatglm.cn/images-ppt/58f9c443d1f6.jpg",
-      "https://sfile.chatglm.cn/images-ppt/674aaf2d5738.png",
-      "https://sfile.chatglm.cn/images-ppt/c11c0cdd38de.jpg",
-      "https://sfile.chatglm.cn/images-ppt/031302a1dd94.jpg"
-    ]
-  },
-  {
-    "id": "los-cupcakes-que-pintan-la-fiesta",
-    "name": "Los cupcakes que pintan la fiesta",
-    "category": "cumpleanos",
-    "categoryLabel": "Cumpleaños",
-    "emoji": "🎁",
-    "price": 99900,
-    "shortDescription": "Celebra con los cupcakes que pintan la fiesta, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Los cupcakes que pintan la fiesta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con los cupcakes que pintan la fiesta, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto principal",
-      "Velas de cumpleaños",
-      "Tarjeta dedicatoria",
-      "Decoración",
-      "Bolsa de regalo"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 173,
-    "reviews": [
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "cumpleaños",
-      "fiesta",
-      "celebración",
-      "torta",
-      "regalo"
-    ],
-    "badge": "Favorito",
-    "customizable": false,
-    "features": [
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD"
-    ],
-    "benefits": [
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/1a5afcc98f30.jpg",
-      "https://sfile.chatglm.cn/images-ppt/79674bced8ab.jpg",
-      "https://sfile.chatglm.cn/images-ppt/00c7b050809c.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/ba149a2ff82d.png",
-      "https://sfile.chatglm.cn/images-ppt/20c0b2f185ce.jpeg"
-    ]
-  },
-  {
-    "id": "la-decoracion-tematica-que-sorprende",
-    "name": "La decoración temática que sorprende",
-    "category": "cumpleanos",
-    "categoryLabel": "Cumpleaños",
-    "emoji": "🎁",
-    "price": 174900,
-    "shortDescription": "Celebra con la decoración temática que sorprende, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "La decoración temática que sorprende es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con la decoración temática que sorprende, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto principal",
-      "Velas de cumpleaños",
-      "Tarjeta dedicatoria",
-      "Decoración",
-      "Bolsa de regalo"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 210,
-    "reviews": [
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "cumpleaños",
-      "fiesta",
-      "celebración",
-      "torta",
-      "regalo"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante"
-    ],
-    "benefits": [
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/0c04dd98a849.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/e31643ecb5df.jpg",
-      "https://sfile.chatglm.cn/images-ppt/8bbf2686e165.jpg",
-      "https://sfile.chatglm.cn/images-ppt/9e5e933c811a.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/563adfe2873d.jpg"
-    ]
-  },
-  {
-    "id": "las-frutas-frescas-que-endulzan-el-ano-nuevo",
-    "name": "Las frutas frescas que endulzan el año nuevo",
-    "category": "cumpleanos",
-    "categoryLabel": "Cumpleaños",
-    "emoji": "🎁",
-    "price": 144900,
-    "shortDescription": "Celebra con las frutas frescas que endulzan el año nuevo, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Las frutas frescas que endulzan el año nuevo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con las frutas frescas que endulzan el año nuevo, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto principal",
-      "Velas de cumpleaños",
-      "Tarjeta dedicatoria",
-      "Decoración",
-      "Bolsa de regalo"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 247,
-    "reviews": [
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "cumpleaños",
-      "fiesta",
-      "celebración",
-      "torta",
-      "regalo"
-    ],
-    "badge": "",
-    "customizable": true,
-    "features": [
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero"
-    ],
-    "benefits": [
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/c00ae6ab9a4a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/585b4d9b3845.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c9443f5bead9.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/b95ed9d596f7.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f76d473f4dfc.png"
-    ]
-  },
-  {
-    "id": "el-chocolate-que-conquista-el-cumpleanos",
-    "name": "El chocolate que conquista el cumpleaños",
-    "category": "cumpleanos",
-    "categoryLabel": "Cumpleaños",
-    "emoji": "🎁",
-    "price": 114900,
-    "shortDescription": "Celebra con el chocolate que conquista el cumpleaños, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "El chocolate que conquista el cumpleaños es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el chocolate que conquista el cumpleaños, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto principal",
-      "Velas de cumpleaños",
-      "Tarjeta dedicatoria",
-      "Decoración",
-      "Bolsa de regalo"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 284,
-    "reviews": [
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "cumpleaños",
-      "fiesta",
-      "celebración",
-      "torta",
-      "regalo"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos"
-    ],
-    "benefits": [
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/df5bdd29f0d4.jpg",
-      "https://sfile.chatglm.cn/images-ppt/29364b3a2676.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/6b32f71396c6.jpg",
-      "https://sfile.chatglm.cn/images-ppt/58efc4999f0e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/ed4e52e676b4.jpg"
-    ]
-  },
-  {
-    "id": "el-combo-globos-y-torta-que-lo-tiene-todo",
-    "name": "El combo globos y torta que lo tiene todo",
-    "category": "cumpleanos",
-    "categoryLabel": "Cumpleaños",
-    "emoji": "🎁",
-    "price": 199900,
-    "shortDescription": "Celebra con el combo globos y torta que lo tiene todo, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "El combo globos y torta que lo tiene todo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el combo globos y torta que lo tiene todo, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto principal",
-      "Velas de cumpleaños",
-      "Tarjeta dedicatoria",
-      "Decoración",
-      "Bolsa de regalo"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 321,
-    "reviews": [
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "cumpleaños",
-      "fiesta",
-      "celebración",
-      "torta",
-      "regalo"
-    ],
-    "badge": "Premium",
-    "customizable": false,
-    "features": [
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado"
-    ],
-    "benefits": [
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/6db1590bb470.jpg",
-      "https://sfile.chatglm.cn/images-ppt/7b5aea944a1a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/e83c176b4bc3.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a6d15e42df3d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/70e139633537.jpeg"
-    ]
-  },
-  {
-    "id": "la-vainilla-clasica-de-los-cumpleanos-felices",
-    "name": "La vainilla clásica de los cumpleaños felices",
-    "category": "cumpleanos",
-    "categoryLabel": "Cumpleaños",
-    "emoji": "🎁",
-    "price": 109900,
-    "shortDescription": "Celebra con la vainilla clásica de los cumpleaños felices, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "La vainilla clásica de los cumpleaños felices es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con la vainilla clásica de los cumpleaños felices, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto principal",
-      "Velas de cumpleaños",
-      "Tarjeta dedicatoria",
-      "Decoración",
-      "Bolsa de regalo"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 358,
-    "reviews": [
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "cumpleaños",
-      "fiesta",
-      "celebración",
-      "torta",
-      "regalo"
-    ],
-    "badge": "",
-    "customizable": true,
-    "features": [
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo"
-    ],
-    "benefits": [
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/0267a6657996.jpg",
-      "https://sfile.chatglm.cn/images-ppt/64fc3b5a0d4d.png",
-      "https://sfile.chatglm.cn/images-ppt/83e3e45a464e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c5285656d518.jpg",
-      "https://sfile.chatglm.cn/images-ppt/072a8a069e37.jpg"
-    ]
-  },
-  {
-    "id": "peluche-y-torta-el-duo-que-enamora",
-    "name": "Peluche y torta: el dúo que enamora",
-    "category": "cumpleanos",
-    "categoryLabel": "Cumpleaños",
-    "emoji": "🎁",
-    "price": 169900,
-    "shortDescription": "Celebra con peluche y torta: el dúo que enamora, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Peluche y torta: el dúo que enamora es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con peluche y torta: el dúo que enamora, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto principal",
-      "Velas de cumpleaños",
-      "Tarjeta dedicatoria",
-      "Decoración",
-      "Bolsa de regalo"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 395,
-    "reviews": [
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "cumpleaños",
-      "fiesta",
-      "celebración",
-      "torta",
-      "regalo"
-    ],
-    "badge": "Más vendido",
-    "customizable": false,
-    "features": [
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia"
-    ],
-    "benefits": [
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/80e43d09458e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c393fad50de8.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1ac74d2205f0.jpg",
-      "https://sfile.chatglm.cn/images-ppt/aee2ef7747f1.webp",
-      "https://sfile.chatglm.cn/images-ppt/79bb9bf85e2f.jpg"
-    ]
-  },
-  {
-    "id": "las-velas-que-cumplen-los-deseos",
-    "name": "Las velas que cumplen los deseos",
-    "category": "cumpleanos",
-    "categoryLabel": "Cumpleaños",
-    "emoji": "🎁",
-    "price": 59900,
-    "shortDescription": "Celebra con las velas que cumplen los deseos, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Las velas que cumplen los deseos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con las velas que cumplen los deseos, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto principal",
-      "Velas de cumpleaños",
-      "Tarjeta dedicatoria",
-      "Decoración",
-      "Bolsa de regalo"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 112,
-    "reviews": [
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "cumpleaños",
-      "fiesta",
-      "celebración",
-      "torta",
-      "regalo"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional"
-    ],
-    "benefits": [
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/a111fbcdf0b1.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c03b84109179.jpg",
-      "https://sfile.chatglm.cn/images-ppt/72a5189d07bd.jpg",
-      "https://sfile.chatglm.cn/images-ppt/8591b7823154.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b7332b82be61.jpeg"
-    ]
-  },
-  {
-    "id": "la-zanahoria-artesanal-del-cumpleanos-especial",
-    "name": "La zanahoria artesanal del cumpleaños especial",
-    "category": "cumpleanos",
-    "categoryLabel": "Cumpleaños",
-    "emoji": "🎁",
-    "price": 124900,
-    "shortDescription": "Celebra con la zanahoria artesanal del cumpleaños especial, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "La zanahoria artesanal del cumpleaños especial es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con la zanahoria artesanal del cumpleaños especial, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto principal",
-      "Velas de cumpleaños",
-      "Tarjeta dedicatoria",
-      "Decoración",
-      "Bolsa de regalo"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 149,
-    "reviews": [
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "cumpleaños",
-      "fiesta",
-      "celebración",
-      "torta",
-      "regalo"
-    ],
-    "badge": "Nuevo",
-    "customizable": true,
-    "features": [
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD"
-    ],
-    "benefits": [
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/6c7debd10a0a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/78bf09d06ce7.jpg",
-      "https://sfile.chatglm.cn/images-ppt/0537aa4c60c4.jpg",
-      "https://sfile.chatglm.cn/images-ppt/0ba7ccd86258.jpg",
-      "https://sfile.chatglm.cn/images-ppt/4e857e812910.jpg"
-    ]
-  },
-  {
-    "id": "flores-y-torta-el-regalo-completo",
-    "name": "Flores y torta: el regalo completo",
-    "category": "cumpleanos",
-    "categoryLabel": "Cumpleaños",
-    "emoji": "🎁",
-    "price": 184900,
-    "shortDescription": "Celebra con flores y torta: el regalo completo, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Flores y torta: el regalo completo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con flores y torta: el regalo completo, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto principal",
-      "Velas de cumpleaños",
-      "Tarjeta dedicatoria",
-      "Decoración",
-      "Bolsa de regalo"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 186,
-    "reviews": [
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "cumpleaños",
-      "fiesta",
-      "celebración",
-      "torta",
-      "regalo"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante"
-    ],
-    "benefits": [
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/b10fa4b407cd.jpg",
-      "https://sfile.chatglm.cn/images-ppt/50204a25d43d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/40c69292383e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/63e58da4e916.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c3e1ca163e0b.png"
-    ]
-  },
-  {
-    "id": "la-fiesta-infantil-que-recordara-toda-la-vida",
-    "name": "La fiesta infantil que recordará toda la vida",
-    "category": "cumpleanos",
-    "categoryLabel": "Cumpleaños",
-    "emoji": "🎁",
-    "price": 139900,
-    "shortDescription": "Celebra con la fiesta infantil que recordará toda la vida, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "La fiesta infantil que recordará toda la vida es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con la fiesta infantil que recordará toda la vida, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto principal",
-      "Velas de cumpleaños",
-      "Tarjeta dedicatoria",
-      "Decoración",
-      "Bolsa de regalo"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 223,
-    "reviews": [
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "cumpleaños",
-      "fiesta",
-      "celebración",
-      "torta",
-      "regalo"
-    ],
-    "badge": "Favorito",
-    "customizable": false,
-    "features": [
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero"
-    ],
-    "benefits": [
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/43c37fbbe591.jpg",
-      "https://sfile.chatglm.cn/images-ppt/091b478206d8.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/cd6c26174c7d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/270edfc1f433.jpg",
-      "https://sfile.chatglm.cn/images-ppt/5823b897c332.jpg"
-    ]
-  },
-  {
-    "id": "la-noche-que-nunca-olvidara",
-    "name": "La noche que nunca olvidará",
-    "category": "aniversarios",
-    "categoryLabel": "Aniversarios",
-    "emoji": "💝",
-    "price": 249900,
-    "shortDescription": "Celebra su aniversario con la noche que nunca olvidará, una experiencia pensada para parejas.",
-    "fullDescription": "La noche que nunca olvidará es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con la noche que nunca olvidará, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Experiencia principal",
-      "Detalle romántico",
-      "Tarjeta dedicatoria",
-      "Empaque de lujo",
-      "Velas decorativas"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 260,
-    "reviews": [
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "aniversario",
-      "pareja",
-      "romántico",
-      "amor",
-      "experiencia"
-    ],
-    "badge": "Premium",
-    "customizable": true,
-    "features": [
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos"
-    ],
-    "benefits": [
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/1f4bf09d769c.jpg",
-      "https://sfile.chatglm.cn/images-ppt/71ca00b38576.jpg",
-      "https://sfile.chatglm.cn/images-ppt/0d4fa1db74c2.jpg",
-      "https://sfile.chatglm.cn/images-ppt/2b1937ef2e4f.png",
-      "https://sfile.chatglm.cn/images-ppt/6c056bb92d90.png"
-    ]
-  },
-  {
-    "id": "el-amor-eterno-celebrado-en-una-caja",
-    "name": "El amor eterno celebrado en una caja",
-    "category": "aniversarios",
-    "categoryLabel": "Aniversarios",
-    "emoji": "💝",
-    "price": 189900,
-    "shortDescription": "Celebra su aniversario con el amor eterno celebrado en una caja, una experiencia pensada para parejas.",
-    "fullDescription": "El amor eterno celebrado en una caja es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el amor eterno celebrado en una caja, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Experiencia principal",
-      "Detalle romántico",
-      "Tarjeta dedicatoria",
-      "Empaque de lujo",
-      "Velas decorativas"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 297,
-    "reviews": [
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "aniversario",
-      "pareja",
-      "romántico",
-      "amor",
-      "experiencia"
-    ],
-    "badge": "Más vendido",
-    "customizable": false,
-    "features": [
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado"
-    ],
-    "benefits": [
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/faeca602d653.png",
-      "https://sfile.chatglm.cn/images-ppt/7754fe81acb9.png",
-      "https://sfile.chatglm.cn/images-ppt/4eee24e44e3a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f59cf35a5d15.jpg",
-      "https://sfile.chatglm.cn/images-ppt/4c550ee8ecaf.jpeg"
-    ]
-  },
-  {
-    "id": "el-brindis-que-sella-otro-ano-juntos",
-    "name": "El brindis que sella otro año juntos",
-    "category": "aniversarios",
-    "categoryLabel": "Aniversarios",
-    "emoji": "💝",
-    "price": 174900,
-    "shortDescription": "Celebra su aniversario con el brindis que sella otro año juntos, una experiencia pensada para parejas.",
-    "fullDescription": "El brindis que sella otro año juntos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el brindis que sella otro año juntos, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Experiencia principal",
-      "Detalle romántico",
-      "Tarjeta dedicatoria",
-      "Empaque de lujo",
-      "Velas decorativas"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 334,
-    "reviews": [
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "aniversario",
-      "pareja",
-      "romántico",
-      "amor",
-      "experiencia"
-    ],
-    "badge": "Favorito",
-    "customizable": false,
-    "features": [
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo"
-    ],
-    "benefits": [
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/52935132985d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f10561ddf6a6.jpg",
-      "https://sfile.chatglm.cn/images-ppt/50a733307f82.jpg",
-      "https://sfile.chatglm.cn/images-ppt/8d06445e3a73.jpg",
-      "https://sfile.chatglm.cn/images-ppt/5920c8e61222.jpeg"
     ]
   },
   {
@@ -7927,1441 +2301,6 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "la-cena-con-champagne-que-enciende-la-noche",
-    "name": "La cena con champagne que enciende la noche",
-    "category": "aniversarios",
-    "categoryLabel": "Aniversarios",
-    "emoji": "💝",
-    "price": 219900,
-    "shortDescription": "Celebra su aniversario con la cena con champagne que enciende la noche, una experiencia pensada para parejas.",
-    "fullDescription": "La cena con champagne que enciende la noche es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con la cena con champagne que enciende la noche, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Experiencia principal",
-      "Detalle romántico",
-      "Tarjeta dedicatoria",
-      "Empaque de lujo",
-      "Velas decorativas"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 88,
-    "reviews": [
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "aniversario",
-      "pareja",
-      "romántico",
-      "amor",
-      "experiencia"
-    ],
-    "badge": "Más vendido",
-    "customizable": false,
-    "features": [
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional"
-    ],
-    "benefits": [
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/db54f9a4fe7e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/4c43f64bff11.jpeg",
-      "https://sfile.chatglm.cn/images-ppt/46089f0bba9f.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b90489c349b4.webp",
-      "https://sfile.chatglm.cn/images-ppt/700a8557b0fd.jpg"
-    ]
-  },
-  {
-    "id": "recien-casados-la-primera-celebracion",
-    "name": "Recién casados: la primera celebración",
-    "category": "aniversarios",
-    "categoryLabel": "Aniversarios",
-    "emoji": "💝",
-    "price": 164900,
-    "shortDescription": "Celebra su aniversario con recién casados: la primera celebración, una experiencia pensada para parejas.",
-    "fullDescription": "Recién casados: la primera celebración es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con recién casados: la primera celebración, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Experiencia principal",
-      "Detalle romántico",
-      "Tarjeta dedicatoria",
-      "Empaque de lujo",
-      "Velas decorativas"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 125,
-    "reviews": [
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "aniversario",
-      "pareja",
-      "romántico",
-      "amor",
-      "experiencia"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD"
-    ],
-    "benefits": [
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/a3e09b932590.jpg",
-      "https://sfile.chatglm.cn/images-ppt/72c967bb7636.jpg",
-      "https://sfile.chatglm.cn/images-ppt/2e5c1eb290a1.jpg",
-      "https://sfile.chatglm.cn/images-ppt/7daa85eafdb2.webp",
-      "https://sfile.chatglm.cn/images-ppt/a482041040b5.jpeg"
-    ]
-  },
-  {
-    "id": "flores-y-vino-el-clasico-que-enamora",
-    "name": "Flores y vino: el clásico que enamora",
-    "category": "aniversarios",
-    "categoryLabel": "Aniversarios",
-    "emoji": "💝",
-    "price": 159900,
-    "shortDescription": "Celebra su aniversario con flores y vino: el clásico que enamora, una experiencia pensada para parejas.",
-    "fullDescription": "Flores y vino: el clásico que enamora es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con flores y vino: el clásico que enamora, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Experiencia principal",
-      "Detalle romántico",
-      "Tarjeta dedicatoria",
-      "Empaque de lujo",
-      "Velas decorativas"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 162,
-    "reviews": [
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "aniversario",
-      "pareja",
-      "romántico",
-      "amor",
-      "experiencia"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante"
-    ],
-    "benefits": [
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/3389e4a92b84.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b5fe6a6e467d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/bd6ea650d92a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/3888d61a3a7b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a8a4ecda94d7.jpg"
-    ]
-  },
-  {
-    "id": "el-romance-que-sabe-a-chocolate-y-vino",
-    "name": "El romance que sabe a chocolate y vino",
-    "category": "aniversarios",
-    "categoryLabel": "Aniversarios",
-    "emoji": "💝",
-    "price": 144900,
-    "shortDescription": "Celebra su aniversario con el romance que sabe a chocolate y vino, una experiencia pensada para parejas.",
-    "fullDescription": "El romance que sabe a chocolate y vino es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el romance que sabe a chocolate y vino, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Experiencia principal",
-      "Detalle romántico",
-      "Tarjeta dedicatoria",
-      "Empaque de lujo",
-      "Velas decorativas"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 199,
-    "reviews": [
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "aniversario",
-      "pareja",
-      "romántico",
-      "amor",
-      "experiencia"
-    ],
-    "badge": "Favorito",
-    "customizable": false,
-    "features": [
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero"
-    ],
-    "benefits": [
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/157ce3cd8afd.jpg",
-      "https://sfile.chatglm.cn/images-ppt/464666736a31.jpg",
-      "https://sfile.chatglm.cn/images-ppt/409088627128.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c5018ec44131.jpg",
-      "https://sfile.chatglm.cn/images-ppt/5af2100c19b9.jpg"
-    ]
-  },
-  {
-    "id": "la-noche-de-cine-abrazados-en-casa",
-    "name": "La noche de cine abrazados en casa",
-    "category": "aniversarios",
-    "categoryLabel": "Aniversarios",
-    "emoji": "💝",
-    "price": 134900,
-    "shortDescription": "Celebra su aniversario con la noche de cine abrazados en casa, una experiencia pensada para parejas.",
-    "fullDescription": "La noche de cine abrazados en casa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con la noche de cine abrazados en casa, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Experiencia principal",
-      "Detalle romántico",
-      "Tarjeta dedicatoria",
-      "Empaque de lujo",
-      "Velas decorativas"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 236,
-    "reviews": [
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "aniversario",
-      "pareja",
-      "romántico",
-      "amor",
-      "experiencia"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos"
-    ],
-    "benefits": [
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/a138643abee6.jpg",
-      "https://sfile.chatglm.cn/images-ppt/786dde6e707c.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b935c1fc2357.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1bbfb731db3b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c780c0d5e842.jpg"
-    ]
-  },
-  {
-    "id": "el-chef-privado-cocina-solo-para-ustedes",
-    "name": "El chef privado cocina solo para ustedes",
-    "category": "aniversarios",
-    "categoryLabel": "Aniversarios",
-    "emoji": "💝",
-    "price": 299900,
-    "shortDescription": "Celebra su aniversario con el chef privado cocina solo para ustedes, una experiencia pensada para parejas.",
-    "fullDescription": "El chef privado cocina solo para ustedes es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el chef privado cocina solo para ustedes, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Experiencia principal",
-      "Detalle romántico",
-      "Tarjeta dedicatoria",
-      "Empaque de lujo",
-      "Velas decorativas"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 273,
-    "reviews": [
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "aniversario",
-      "pareja",
-      "romántico",
-      "amor",
-      "experiencia"
-    ],
-    "badge": "Premium",
-    "customizable": true,
-    "features": [
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado"
-    ],
-    "benefits": [
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/ebaf3ca25e32.webp",
-      "https://sfile.chatglm.cn/images-ppt/2b47d9ea4c01.jpg",
-      "https://sfile.chatglm.cn/images-ppt/fbf6e71d909d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/aa5b12391720.jpg",
-      "https://sfile.chatglm.cn/images-ppt/41e75a20a6f5.jpg"
-    ]
-  },
-  {
-    "id": "bodas-de-plata-la-celebracion-de-la-vida",
-    "name": "Bodas de plata: la celebración de la vida",
-    "category": "aniversarios",
-    "categoryLabel": "Aniversarios",
-    "emoji": "💝",
-    "price": 229900,
-    "shortDescription": "Celebra su aniversario con bodas de plata: la celebración de la vida, una experiencia pensada para parejas.",
-    "fullDescription": "Bodas de plata: la celebración de la vida es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con bodas de plata: la celebración de la vida, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Experiencia principal",
-      "Detalle romántico",
-      "Tarjeta dedicatoria",
-      "Empaque de lujo",
-      "Velas decorativas"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 310,
-    "reviews": [
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "aniversario",
-      "pareja",
-      "romántico",
-      "amor",
-      "experiencia"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo"
-    ],
-    "benefits": [
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/02e765f62348.jpg",
-      "https://sfile.chatglm.cn/images-ppt/e450889a587a.png",
-      "https://sfile.chatglm.cn/images-ppt/2916c66cb4f0.jpg",
-      "https://sfile.chatglm.cn/images-ppt/e7fb9af23aaf.jpg",
-      "https://sfile.chatglm.cn/images-ppt/6b0d8f2d27ed.jpg"
-    ]
-  },
-  {
-    "id": "rosas-y-peluche-el-duo-del-amor",
-    "name": "Rosas y peluche: el dúo del amor",
-    "category": "aniversarios",
-    "categoryLabel": "Aniversarios",
-    "emoji": "💝",
-    "price": 169900,
-    "shortDescription": "Celebra su aniversario con rosas y peluche: el dúo del amor, una experiencia pensada para parejas.",
-    "fullDescription": "Rosas y peluche: el dúo del amor es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con rosas y peluche: el dúo del amor, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Experiencia principal",
-      "Detalle romántico",
-      "Tarjeta dedicatoria",
-      "Empaque de lujo",
-      "Velas decorativas"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 347,
-    "reviews": [
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "aniversario",
-      "pareja",
-      "romántico",
-      "amor",
-      "experiencia"
-    ],
-    "badge": "Más vendido",
-    "customizable": false,
-    "features": [
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia"
-    ],
-    "benefits": [
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/47fcec10b198.png",
-      "https://sfile.chatglm.cn/images-ppt/d073b15f791e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/6f6dd223d94e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/94e9092068bc.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c551f827f309.jpg"
-    ]
-  },
-  {
-    "id": "el-cafe-mananero-de-los-enamorados",
-    "name": "El café mañanero de los enamorados",
-    "category": "aniversarios",
-    "categoryLabel": "Aniversarios",
-    "emoji": "💝",
-    "price": 119900,
-    "shortDescription": "Celebra su aniversario con el café mañanero de los enamorados, una experiencia pensada para parejas.",
-    "fullDescription": "El café mañanero de los enamorados es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el café mañanero de los enamorados, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Experiencia principal",
-      "Detalle romántico",
-      "Tarjeta dedicatoria",
-      "Empaque de lujo",
-      "Velas decorativas"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 384,
-    "reviews": [
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "aniversario",
-      "pareja",
-      "romántico",
-      "amor",
-      "experiencia"
-    ],
-    "badge": "Nuevo",
-    "customizable": false,
-    "features": [
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional"
-    ],
-    "benefits": [
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/7eaabf49e202.jpg",
-      "https://sfile.chatglm.cn/images-ppt/64a8f1f83e29.jpg",
-      "https://sfile.chatglm.cn/images-ppt/4a5786bec221.jpg",
-      "https://sfile.chatglm.cn/images-ppt/dd9fecffc500.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f323ad2fa53f.jpg"
-    ]
-  },
-  {
-    "id": "el-si-mas-esperado-con-anillo-y-flores",
-    "name": "El sí más esperado con anillo y flores",
-    "category": "aniversarios",
-    "categoryLabel": "Aniversarios",
-    "emoji": "💝",
-    "price": 259900,
-    "shortDescription": "Celebra su aniversario con el sí más esperado con anillo y flores, una experiencia pensada para parejas.",
-    "fullDescription": "El sí más esperado con anillo y flores es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el sí más esperado con anillo y flores, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Experiencia principal",
-      "Detalle romántico",
-      "Tarjeta dedicatoria",
-      "Empaque de lujo",
-      "Velas decorativas"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 101,
-    "reviews": [
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "aniversario",
-      "pareja",
-      "romántico",
-      "amor",
-      "experiencia"
-    ],
-    "badge": "Premium",
-    "customizable": true,
-    "features": [
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD"
-    ],
-    "benefits": [
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/e16f6151010d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/553ba58f4f91.png",
-      "https://sfile.chatglm.cn/images-ppt/450c3d57c2e4.jpg",
-      "https://sfile.chatglm.cn/images-ppt/3107aaf6dd84.jpg",
-      "https://sfile.chatglm.cn/images-ppt/09da2239f6c6.jpg"
-    ]
-  },
-  {
-    "id": "el-picnic-romantico-en-el-parque",
-    "name": "El picnic romántico en el parque",
-    "category": "aniversarios",
-    "categoryLabel": "Aniversarios",
-    "emoji": "💝",
-    "price": 154900,
-    "shortDescription": "Celebra su aniversario con el picnic romántico en el parque, una experiencia pensada para parejas.",
-    "fullDescription": "El picnic romántico en el parque es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el picnic romántico en el parque, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Experiencia principal",
-      "Detalle romántico",
-      "Tarjeta dedicatoria",
-      "Empaque de lujo",
-      "Velas decorativas"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 138,
-    "reviews": [
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "aniversario",
-      "pareja",
-      "romántico",
-      "amor",
-      "experiencia"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante"
-    ],
-    "benefits": [
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/982dbc78ad6e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/ab75aa3eb132.jpg",
-      "https://sfile.chatglm.cn/images-ppt/cc885142c016.jpg",
-      "https://sfile.chatglm.cn/images-ppt/86a33dd60849.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f8bd8d87c1d5.jpg"
-    ]
-  },
-  {
-    "id": "la-cena-mediterranea-para-dos",
-    "name": "La cena mediterránea para dos",
-    "category": "aniversarios",
-    "categoryLabel": "Aniversarios",
-    "emoji": "💝",
-    "price": 234900,
-    "shortDescription": "Celebra su aniversario con la cena mediterránea para dos, una experiencia pensada para parejas.",
-    "fullDescription": "La cena mediterránea para dos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con la cena mediterránea para dos, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Experiencia principal",
-      "Detalle romántico",
-      "Tarjeta dedicatoria",
-      "Empaque de lujo",
-      "Velas decorativas"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 175,
-    "reviews": [
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "aniversario",
-      "pareja",
-      "romántico",
-      "amor",
-      "experiencia"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero"
-    ],
-    "benefits": [
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/4fc8cf264953.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f180b958940c.jpg",
-      "https://sfile.chatglm.cn/images-ppt/55c037d3ab31.jpg",
-      "https://sfile.chatglm.cn/images-ppt/5b87d47fa62d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c109c355a3c1.jpg"
-    ]
-  },
-  {
-    "id": "el-aniversario-a-distancia-que-los-acerca",
-    "name": "El aniversario a distancia que los acerca",
-    "category": "aniversarios",
-    "categoryLabel": "Aniversarios",
-    "emoji": "💝",
-    "price": 139900,
-    "shortDescription": "Celebra su aniversario con el aniversario a distancia que los acerca, una experiencia pensada para parejas.",
-    "fullDescription": "El aniversario a distancia que los acerca es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el aniversario a distancia que los acerca, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Experiencia principal",
-      "Detalle romántico",
-      "Tarjeta dedicatoria",
-      "Empaque de lujo",
-      "Velas decorativas"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 212,
-    "reviews": [
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "aniversario",
-      "pareja",
-      "romántico",
-      "amor",
-      "experiencia"
-    ],
-    "badge": "Nuevo",
-    "customizable": false,
-    "features": [
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos"
-    ],
-    "benefits": [
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/1f4bf09d769c.jpg",
-      "https://sfile.chatglm.cn/images-ppt/71ca00b38576.jpg",
-      "https://sfile.chatglm.cn/images-ppt/0d4fa1db74c2.jpg",
-      "https://sfile.chatglm.cn/images-ppt/2b1937ef2e4f.png",
-      "https://sfile.chatglm.cn/images-ppt/6c056bb92d90.png"
-    ]
-  },
-  {
-    "id": "velas-aromaticas-y-vino-la-noche-perfecta",
-    "name": "Velas aromáticas y vino: la noche perfecta",
-    "category": "aniversarios",
-    "categoryLabel": "Aniversarios",
-    "emoji": "💝",
-    "price": 124900,
-    "shortDescription": "Celebra su aniversario con velas aromáticas y vino: la noche perfecta, una experiencia pensada para parejas.",
-    "fullDescription": "Velas aromáticas y vino: la noche perfecta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con velas aromáticas y vino: la noche perfecta, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Experiencia principal",
-      "Detalle romántico",
-      "Tarjeta dedicatoria",
-      "Empaque de lujo",
-      "Velas decorativas"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 249,
-    "reviews": [
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "aniversario",
-      "pareja",
-      "romántico",
-      "amor",
-      "experiencia"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado"
-    ],
-    "benefits": [
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/faeca602d653.png",
-      "https://sfile.chatglm.cn/images-ppt/7754fe81acb9.png",
-      "https://sfile.chatglm.cn/images-ppt/4eee24e44e3a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f59cf35a5d15.jpg",
-      "https://sfile.chatglm.cn/images-ppt/4c550ee8ecaf.jpeg"
-    ]
-  },
-  {
-    "id": "bodas-de-oro-medio-siglo-de-amor",
-    "name": "Bodas de oro: medio siglo de amor",
-    "category": "aniversarios",
-    "categoryLabel": "Aniversarios",
-    "emoji": "💝",
-    "price": 279900,
-    "shortDescription": "Celebra su aniversario con bodas de oro: medio siglo de amor, una experiencia pensada para parejas.",
-    "fullDescription": "Bodas de oro: medio siglo de amor es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con bodas de oro: medio siglo de amor, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Experiencia principal",
-      "Detalle romántico",
-      "Tarjeta dedicatoria",
-      "Empaque de lujo",
-      "Velas decorativas"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 286,
-    "reviews": [
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "aniversario",
-      "pareja",
-      "romántico",
-      "amor",
-      "experiencia"
-    ],
-    "badge": "Premium",
-    "customizable": true,
-    "features": [
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo"
-    ],
-    "benefits": [
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/52935132985d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f10561ddf6a6.jpg",
-      "https://sfile.chatglm.cn/images-ppt/50a733307f82.jpg",
-      "https://sfile.chatglm.cn/images-ppt/8d06445e3a73.jpg",
-      "https://sfile.chatglm.cn/images-ppt/5920c8e61222.jpeg"
-    ]
-  },
-  {
-    "id": "el-canvas-del-amor-con-flores",
-    "name": "El canvas del amor con flores",
-    "category": "aniversarios",
-    "categoryLabel": "Aniversarios",
-    "emoji": "💝",
-    "price": 189900,
-    "shortDescription": "Celebra su aniversario con el canvas del amor con flores, una experiencia pensada para parejas.",
-    "fullDescription": "El canvas del amor con flores es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el canvas del amor con flores, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Experiencia principal",
-      "Detalle romántico",
-      "Tarjeta dedicatoria",
-      "Empaque de lujo",
-      "Velas decorativas"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 323,
-    "reviews": [
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "aniversario",
-      "pareja",
-      "romántico",
-      "amor",
-      "experiencia"
-    ],
-    "badge": "",
-    "customizable": false,
-    "features": [
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia"
-    ],
-    "benefits": [
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/49e9f870212f.jpg",
-      "https://sfile.chatglm.cn/images-ppt/2d36e6bb0dec.jpg",
-      "https://sfile.chatglm.cn/images-ppt/2d6816b79e83.jpg",
-      "https://sfile.chatglm.cn/images-ppt/98472c7d37c7.jpg",
-      "https://sfile.chatglm.cn/images-ppt/8e69da2b7d57.png"
-    ]
-  },
-  {
-    "id": "su-nombre-grabado-en-oro-para-siempre",
-    "name": "Su nombre grabado en oro para siempre",
-    "category": "personalizados",
-    "categoryLabel": "Personalizados",
-    "emoji": "✨",
-    "price": 119900,
-    "shortDescription": "Producto personalizado su nombre grabado en oro para siempre con grabado e impresión de alta calidad.",
-    "fullDescription": "Su nombre grabado en oro para siempre es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado su nombre grabado en oro para siempre con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto personalizado",
-      "Diseño a medida",
-      "Prueba digital",
-      "Caja de regalo",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 360,
-    "reviews": [
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "personalizado",
-      "nombre",
-      "foto",
-      "único",
-      "grabado"
-    ],
-    "badge": "Más vendido",
-    "customizable": true,
-    "features": [
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional"
-    ],
-    "benefits": [
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/211c44e447bc.jpg",
-      "https://sfile.chatglm.cn/images-ppt/6ab3b3241f06.jpg",
-      "https://sfile.chatglm.cn/images-ppt/de106f065e3f.jpg",
-      "https://sfile.chatglm.cn/images-ppt/6392b75a76b6.jpg",
-      "https://sfile.chatglm.cn/images-ppt/bbc28a4aa401.png"
-    ]
-  },
-  {
-    "id": "la-taza-de-los-dos-con-su-mejor-foto",
-    "name": "La taza de los dos con su mejor foto",
-    "category": "personalizados",
-    "categoryLabel": "Personalizados",
-    "emoji": "✨",
-    "price": 69900,
-    "shortDescription": "Producto personalizado la taza de los dos con su mejor foto con grabado e impresión de alta calidad.",
-    "fullDescription": "La taza de los dos con su mejor foto es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la taza de los dos con su mejor foto con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto personalizado",
-      "Diseño a medida",
-      "Prueba digital",
-      "Caja de regalo",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 397,
-    "reviews": [
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "personalizado",
-      "nombre",
-      "foto",
-      "único",
-      "grabado"
-    ],
-    "badge": "Favorito",
-    "customizable": true,
-    "features": [
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD"
-    ],
-    "benefits": [
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/593747e116b9.jpg",
-      "https://sfile.chatglm.cn/images-ppt/7c8ee3e6ccff.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f0c6aa98f35a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/e8df8c394add.jpg",
-      "https://sfile.chatglm.cn/images-ppt/0c031f6d34c5.jpg"
-    ]
-  },
-  {
-    "id": "el-marco-que-guarda-el-recuerdo-favorito",
-    "name": "El marco que guarda el recuerdo favorito",
-    "category": "personalizados",
-    "categoryLabel": "Personalizados",
-    "emoji": "✨",
-    "price": 84900,
-    "shortDescription": "Producto personalizado el marco que guarda el recuerdo favorito con grabado e impresión de alta calidad.",
-    "fullDescription": "El marco que guarda el recuerdo favorito es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el marco que guarda el recuerdo favorito con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto personalizado",
-      "Diseño a medida",
-      "Prueba digital",
-      "Caja de regalo",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 114,
-    "reviews": [
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "personalizado",
-      "nombre",
-      "foto",
-      "único",
-      "grabado"
-    ],
-    "badge": "",
-    "customizable": true,
-    "features": [
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante"
-    ],
-    "benefits": [
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/31f003eaad30.jpg",
-      "https://sfile.chatglm.cn/images-ppt/920823d90bc6.webp",
-      "https://sfile.chatglm.cn/images-ppt/317062da4365.jpg",
-      "https://sfile.chatglm.cn/images-ppt/6ee0029ca4f0.jpg",
-      "https://sfile.chatglm.cn/images-ppt/ce2acbaac2c2.jpg"
-    ]
-  },
-  {
     "id": "el-llavero-que-lleva-tu-nombre-a-todos-lados",
     "name": "El llavero que lleva tu nombre a todos lados",
     "category": "personalizados",
@@ -9444,1441 +2383,6 @@ export const PRODUCTS: Product[] = [
       "https://sfile.chatglm.cn/images-ppt/69fe84ee19e9.jpg",
       "https://sfile.chatglm.cn/images-ppt/5dab854780e6.jpg",
       "https://sfile.chatglm.cn/images-ppt/a473035dd885.png"
-    ]
-  },
-  {
-    "id": "la-madera-grabada-con-tu-propia-historia",
-    "name": "La madera grabada con tu propia historia",
-    "category": "personalizados",
-    "categoryLabel": "Personalizados",
-    "emoji": "✨",
-    "price": 134900,
-    "shortDescription": "Producto personalizado la madera grabada con tu propia historia con grabado e impresión de alta calidad.",
-    "fullDescription": "La madera grabada con tu propia historia es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la madera grabada con tu propia historia con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto personalizado",
-      "Diseño a medida",
-      "Prueba digital",
-      "Caja de regalo",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 188,
-    "reviews": [
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "personalizado",
-      "nombre",
-      "foto",
-      "único",
-      "grabado"
-    ],
-    "badge": "Premium",
-    "customizable": true,
-    "features": [
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos"
-    ],
-    "benefits": [
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/65d9915a6ad8.jpg",
-      "https://sfile.chatglm.cn/images-ppt/6ee220b53ed2.jpg",
-      "https://sfile.chatglm.cn/images-ppt/5150c4bc00af.png",
-      "https://sfile.chatglm.cn/images-ppt/5ed774b2fea0.jpg",
-      "https://sfile.chatglm.cn/images-ppt/0d2edc58a1c3.jpg"
-    ]
-  },
-  {
-    "id": "la-magia-que-revela-tu-foto-con-el-calor",
-    "name": "La magia que revela tu foto con el calor",
-    "category": "personalizados",
-    "categoryLabel": "Personalizados",
-    "emoji": "✨",
-    "price": 79900,
-    "shortDescription": "Producto personalizado la magia que revela tu foto con el calor con grabado e impresión de alta calidad.",
-    "fullDescription": "La magia que revela tu foto con el calor es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la magia que revela tu foto con el calor con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto personalizado",
-      "Diseño a medida",
-      "Prueba digital",
-      "Caja de regalo",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 225,
-    "reviews": [
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "personalizado",
-      "nombre",
-      "foto",
-      "único",
-      "grabado"
-    ],
-    "badge": "",
-    "customizable": true,
-    "features": [
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado"
-    ],
-    "benefits": [
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/561e5ceaa8dd.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f3ee683eb4e7.jpg",
-      "https://sfile.chatglm.cn/images-ppt/13b571a79fb1.jpg",
-      "https://sfile.chatglm.cn/images-ppt/da58b6d4264d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/876ef0c96911.jpg"
-    ]
-  },
-  {
-    "id": "el-cojin-que-abraza-con-tu-foto",
-    "name": "El cojín que abraza con tu foto",
-    "category": "personalizados",
-    "categoryLabel": "Personalizados",
-    "emoji": "✨",
-    "price": 94900,
-    "shortDescription": "Producto personalizado el cojín que abraza con tu foto con grabado e impresión de alta calidad.",
-    "fullDescription": "El cojín que abraza con tu foto es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el cojín que abraza con tu foto con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto personalizado",
-      "Diseño a medida",
-      "Prueba digital",
-      "Caja de regalo",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 262,
-    "reviews": [
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "personalizado",
-      "nombre",
-      "foto",
-      "único",
-      "grabado"
-    ],
-    "badge": "Favorito",
-    "customizable": true,
-    "features": [
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo"
-    ],
-    "benefits": [
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/9fc49cdf5a0f.png",
-      "https://sfile.chatglm.cn/images-ppt/39e325f6c24e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/39e0361a45ca.webp",
-      "https://sfile.chatglm.cn/images-ppt/33e4fb06e1b8.jpg",
-      "https://sfile.chatglm.cn/images-ppt/ab87b16b923f.jpg"
-    ]
-  },
-  {
-    "id": "el-bolso-unico-con-tu-diseno-exclusivo",
-    "name": "El bolso único con tu diseño exclusivo",
-    "category": "personalizados",
-    "categoryLabel": "Personalizados",
-    "emoji": "✨",
-    "price": 104900,
-    "shortDescription": "Producto personalizado el bolso único con tu diseño exclusivo con grabado e impresión de alta calidad.",
-    "fullDescription": "El bolso único con tu diseño exclusivo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el bolso único con tu diseño exclusivo con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto personalizado",
-      "Diseño a medida",
-      "Prueba digital",
-      "Caja de regalo",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 299,
-    "reviews": [
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "personalizado",
-      "nombre",
-      "foto",
-      "único",
-      "grabado"
-    ],
-    "badge": "",
-    "customizable": true,
-    "features": [
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia"
-    ],
-    "benefits": [
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/b4d2cdc2f16e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/8916b351917b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a32c5f45b837.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f4fb8d3002d8.jpg",
-      "https://sfile.chatglm.cn/images-ppt/130a36b5386b.png"
-    ]
-  },
-  {
-    "id": "el-cuadro-canvas-de-tu-mejor-momento",
-    "name": "El cuadro canvas de tu mejor momento",
-    "category": "personalizados",
-    "categoryLabel": "Personalizados",
-    "emoji": "✨",
-    "price": 149900,
-    "shortDescription": "Producto personalizado el cuadro canvas de tu mejor momento con grabado e impresión de alta calidad.",
-    "fullDescription": "El cuadro canvas de tu mejor momento es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el cuadro canvas de tu mejor momento con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto personalizado",
-      "Diseño a medida",
-      "Prueba digital",
-      "Caja de regalo",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 336,
-    "reviews": [
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "personalizado",
-      "nombre",
-      "foto",
-      "único",
-      "grabado"
-    ],
-    "badge": "Premium",
-    "customizable": true,
-    "features": [
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional"
-    ],
-    "benefits": [
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/d487ed2b3165.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a429e4d464a0.jpg",
-      "https://sfile.chatglm.cn/images-ppt/d394d4a97943.jpg",
-      "https://sfile.chatglm.cn/images-ppt/31e75873a504.jpg",
-      "https://sfile.chatglm.cn/images-ppt/8457fe9171cd.jpg"
-    ]
-  },
-  {
-    "id": "la-luz-de-tu-nombre-brillando-en-la-noche",
-    "name": "La luz de tu nombre brillando en la noche",
-    "category": "personalizados",
-    "categoryLabel": "Personalizados",
-    "emoji": "✨",
-    "price": 114900,
-    "shortDescription": "Producto personalizado la luz de tu nombre brillando en la noche con grabado e impresión de alta calidad.",
-    "fullDescription": "La luz de tu nombre brillando en la noche es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la luz de tu nombre brillando en la noche con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto personalizado",
-      "Diseño a medida",
-      "Prueba digital",
-      "Caja de regalo",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 373,
-    "reviews": [
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "personalizado",
-      "nombre",
-      "foto",
-      "único",
-      "grabado"
-    ],
-    "badge": "Más vendido",
-    "customizable": true,
-    "features": [
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD"
-    ],
-    "benefits": [
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/c9c72443c34a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b8f6182de331.jpg",
-      "https://sfile.chatglm.cn/images-ppt/584a36259bbf.jpg",
-      "https://sfile.chatglm.cn/images-ppt/5e5784026e9e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/639e2a912ee1.webp"
-    ]
-  },
-  {
-    "id": "el-album-de-su-vida-en-papel-premium",
-    "name": "El álbum de su vida en papel premium",
-    "category": "personalizados",
-    "categoryLabel": "Personalizados",
-    "emoji": "✨",
-    "price": 124900,
-    "shortDescription": "Producto personalizado el álbum de su vida en papel premium con grabado e impresión de alta calidad.",
-    "fullDescription": "El álbum de su vida en papel premium es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el álbum de su vida en papel premium con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto personalizado",
-      "Diseño a medida",
-      "Prueba digital",
-      "Caja de regalo",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 90,
-    "reviews": [
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "personalizado",
-      "nombre",
-      "foto",
-      "único",
-      "grabado"
-    ],
-    "badge": "",
-    "customizable": true,
-    "features": [
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante"
-    ],
-    "benefits": [
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/40a8a67a2d90.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c2e3aff1de90.jpg",
-      "https://sfile.chatglm.cn/images-ppt/aa0e086f5445.jpg",
-      "https://sfile.chatglm.cn/images-ppt/e1a0c837ebf1.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c2b7c77c3ee2.jpg"
-    ]
-  },
-  {
-    "id": "la-pulsera-que-lleva-su-nombre-en-la-piel",
-    "name": "La pulsera que lleva su nombre en la piel",
-    "category": "personalizados",
-    "categoryLabel": "Personalizados",
-    "emoji": "✨",
-    "price": 74900,
-    "shortDescription": "Producto personalizado la pulsera que lleva su nombre en la piel con grabado e impresión de alta calidad.",
-    "fullDescription": "La pulsera que lleva su nombre en la piel es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la pulsera que lleva su nombre en la piel con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto personalizado",
-      "Diseño a medida",
-      "Prueba digital",
-      "Caja de regalo",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 127,
-    "reviews": [
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "personalizado",
-      "nombre",
-      "foto",
-      "único",
-      "grabado"
-    ],
-    "badge": "Nuevo",
-    "customizable": true,
-    "features": [
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero"
-    ],
-    "benefits": [
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/a5ee14e1c838.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c8c61dc8452d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/797a6f9997b5.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a1c07ae91bf4.jpg",
-      "https://sfile.chatglm.cn/images-ppt/fbf6e71d909d.jpg"
-    ]
-  },
-  {
-    "id": "el-rompecabezas-del-amor-que-arman-juntos",
-    "name": "El rompecabezas del amor que arman juntos",
-    "category": "personalizados",
-    "categoryLabel": "Personalizados",
-    "emoji": "✨",
-    "price": 89900,
-    "shortDescription": "Producto personalizado el rompecabezas del amor que arman juntos con grabado e impresión de alta calidad.",
-    "fullDescription": "El rompecabezas del amor que arman juntos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el rompecabezas del amor que arman juntos con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto personalizado",
-      "Diseño a medida",
-      "Prueba digital",
-      "Caja de regalo",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 164,
-    "reviews": [
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "personalizado",
-      "nombre",
-      "foto",
-      "único",
-      "grabado"
-    ],
-    "badge": "",
-    "customizable": true,
-    "features": [
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos"
-    ],
-    "benefits": [
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/fff4151475dd.jpg",
-      "https://sfile.chatglm.cn/images-ppt/39ec1b59dbaa.jpg",
-      "https://sfile.chatglm.cn/images-ppt/bd316ae41b16.jpg",
-      "https://sfile.chatglm.cn/images-ppt/bfb7242a6c5c.jpg",
-      "https://sfile.chatglm.cn/images-ppt/d3002aa1acc2.jpeg"
-    ]
-  },
-  {
-    "id": "el-cartel-led-con-su-nombre-en-luz",
-    "name": "El cartel LED con su nombre en luz",
-    "category": "personalizados",
-    "categoryLabel": "Personalizados",
-    "emoji": "✨",
-    "price": 159900,
-    "shortDescription": "Producto personalizado el cartel led con su nombre en luz con grabado e impresión de alta calidad.",
-    "fullDescription": "El cartel LED con su nombre en luz es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el cartel led con su nombre en luz con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto personalizado",
-      "Diseño a medida",
-      "Prueba digital",
-      "Caja de regalo",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 201,
-    "reviews": [
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "personalizado",
-      "nombre",
-      "foto",
-      "único",
-      "grabado"
-    ],
-    "badge": "Premium",
-    "customizable": true,
-    "features": [
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado"
-    ],
-    "benefits": [
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/cebef354cd38.jpg",
-      "https://sfile.chatglm.cn/images-ppt/acf7609bb4a7.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b6d3b863dbdf.jpg",
-      "https://sfile.chatglm.cn/images-ppt/c24689447ffc.jpg",
-      "https://sfile.chatglm.cn/images-ppt/1a5cbd4751bc.jpg"
-    ]
-  },
-  {
-    "id": "la-ceramica-unica-con-tu-diseno-a-mano",
-    "name": "La cerámica única con tu diseño a mano",
-    "category": "personalizados",
-    "categoryLabel": "Personalizados",
-    "emoji": "✨",
-    "price": 64900,
-    "shortDescription": "Producto personalizado la cerámica única con tu diseño a mano con grabado e impresión de alta calidad.",
-    "fullDescription": "La cerámica única con tu diseño a mano es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la cerámica única con tu diseño a mano con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto personalizado",
-      "Diseño a medida",
-      "Prueba digital",
-      "Caja de regalo",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 238,
-    "reviews": [
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "personalizado",
-      "nombre",
-      "foto",
-      "único",
-      "grabado"
-    ],
-    "badge": "",
-    "customizable": true,
-    "features": [
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo"
-    ],
-    "benefits": [
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/f77be5704426.jpg",
-      "https://sfile.chatglm.cn/images-ppt/b1f6e8d8f0b2.jpg",
-      "https://sfile.chatglm.cn/images-ppt/9d467efdd788.png",
-      "https://sfile.chatglm.cn/images-ppt/1e950d57fa95.jpg",
-      "https://sfile.chatglm.cn/images-ppt/56b787b16b12.jpg"
-    ]
-  },
-  {
-    "id": "la-agenda-2025-con-su-nombre-en-la-portada",
-    "name": "La agenda 2025 con su nombre en la portada",
-    "category": "personalizados",
-    "categoryLabel": "Personalizados",
-    "emoji": "✨",
-    "price": 94900,
-    "shortDescription": "Producto personalizado la agenda 2025 con su nombre en la portada con grabado e impresión de alta calidad.",
-    "fullDescription": "La agenda 2025 con su nombre en la portada es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la agenda 2025 con su nombre en la portada con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto personalizado",
-      "Diseño a medida",
-      "Prueba digital",
-      "Caja de regalo",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 275,
-    "reviews": [
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "personalizado",
-      "nombre",
-      "foto",
-      "único",
-      "grabado"
-    ],
-    "badge": "",
-    "customizable": true,
-    "features": [
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia"
-    ],
-    "benefits": [
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/0936dc0f0678.jpg",
-      "https://sfile.chatglm.cn/images-ppt/d6deb4fa2a0e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f2b6e6da9566.jpg",
-      "https://sfile.chatglm.cn/images-ppt/7b529e4a9fe8.jpg",
-      "https://sfile.chatglm.cn/images-ppt/16951ae1bbbf.jpg"
-    ]
-  },
-  {
-    "id": "la-caja-grande-que-guarda-toda-su-historia",
-    "name": "La caja grande que guarda toda su historia",
-    "category": "personalizados",
-    "categoryLabel": "Personalizados",
-    "emoji": "✨",
-    "price": 179900,
-    "shortDescription": "Producto personalizado la caja grande que guarda toda su historia con grabado e impresión de alta calidad.",
-    "fullDescription": "La caja grande que guarda toda su historia es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la caja grande que guarda toda su historia con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto personalizado",
-      "Diseño a medida",
-      "Prueba digital",
-      "Caja de regalo",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 312,
-    "reviews": [
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "personalizado",
-      "nombre",
-      "foto",
-      "único",
-      "grabado"
-    ],
-    "badge": "Más vendido",
-    "customizable": true,
-    "features": [
-      "Material premium importado",
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional"
-    ],
-    "benefits": [
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/211c44e447bc.jpg",
-      "https://sfile.chatglm.cn/images-ppt/6ab3b3241f06.jpg",
-      "https://sfile.chatglm.cn/images-ppt/de106f065e3f.jpg",
-      "https://sfile.chatglm.cn/images-ppt/6392b75a76b6.jpg",
-      "https://sfile.chatglm.cn/images-ppt/bbc28a4aa401.png"
-    ]
-  },
-  {
-    "id": "el-mapa-estelar-de-la-noche-que-se-conocieron",
-    "name": "El mapa estelar de la noche que se conocieron",
-    "category": "personalizados",
-    "categoryLabel": "Personalizados",
-    "emoji": "✨",
-    "price": 109900,
-    "shortDescription": "Producto personalizado el mapa estelar de la noche que se conocieron con grabado e impresión de alta calidad.",
-    "fullDescription": "El mapa estelar de la noche que se conocieron es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el mapa estelar de la noche que se conocieron con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto personalizado",
-      "Diseño a medida",
-      "Prueba digital",
-      "Caja de regalo",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 349,
-    "reviews": [
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "personalizado",
-      "nombre",
-      "foto",
-      "único",
-      "grabado"
-    ],
-    "badge": "Nuevo",
-    "customizable": true,
-    "features": [
-      "Empaque reciclable de lujo",
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD"
-    ],
-    "benefits": [
-      "Emoción al instante",
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/593747e116b9.jpg",
-      "https://sfile.chatglm.cn/images-ppt/7c8ee3e6ccff.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f0c6aa98f35a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/e8df8c394add.jpg",
-      "https://sfile.chatglm.cn/images-ppt/0c031f6d34c5.jpg"
-    ]
-  },
-  {
-    "id": "la-bolsa-estampada-con-su-mejor-sonrisa",
-    "name": "La bolsa estampada con su mejor sonrisa",
-    "category": "personalizados",
-    "categoryLabel": "Personalizados",
-    "emoji": "✨",
-    "price": 69900,
-    "shortDescription": "Producto personalizado la bolsa estampada con su mejor sonrisa con grabado e impresión de alta calidad.",
-    "fullDescription": "La bolsa estampada con su mejor sonrisa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la bolsa estampada con su mejor sonrisa con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto personalizado",
-      "Diseño a medida",
-      "Prueba digital",
-      "Caja de regalo",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.8,
-    "reviewsCount": 386,
-    "reviews": [
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      },
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "personalizado",
-      "nombre",
-      "foto",
-      "único",
-      "grabado"
-    ],
-    "badge": "",
-    "customizable": true,
-    "features": [
-      "Hecho a mano en Colombia",
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante"
-    ],
-    "benefits": [
-      "Recuerdo inolvidable",
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/31f003eaad30.jpg",
-      "https://sfile.chatglm.cn/images-ppt/920823d90bc6.webp",
-      "https://sfile.chatglm.cn/images-ppt/317062da4365.jpg",
-      "https://sfile.chatglm.cn/images-ppt/6ee0029ca4f0.jpg",
-      "https://sfile.chatglm.cn/images-ppt/ce2acbaac2c2.jpg"
-    ]
-  },
-  {
-    "id": "el-acrilico-premium-de-su-mejor-foto",
-    "name": "El acrílico premium de su mejor foto",
-    "category": "personalizados",
-    "categoryLabel": "Personalizados",
-    "emoji": "✨",
-    "price": 169900,
-    "shortDescription": "Producto personalizado el acrílico premium de su mejor foto con grabado e impresión de alta calidad.",
-    "fullDescription": "El acrílico premium de su mejor foto es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el acrílico premium de su mejor foto con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Producto personalizado",
-      "Diseño a medida",
-      "Prueba digital",
-      "Caja de regalo",
-      "Tarjeta dedicatoria"
-    ],
-    "rating": 4.9,
-    "reviewsCount": 103,
-    "reviews": [
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "personalizado",
-      "nombre",
-      "foto",
-      "único",
-      "grabado"
-    ],
-    "badge": "Premium",
-    "customizable": true,
-    "features": [
-      "Sellos de calidad internacional",
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero"
-    ],
-    "benefits": [
-      "Ideal para cualquier ocasión",
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/b28ae0690c15.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f476baf872e7.jpg",
-      "https://sfile.chatglm.cn/images-ppt/69fe84ee19e9.jpg",
-      "https://sfile.chatglm.cn/images-ppt/5dab854780e6.jpg",
-      "https://sfile.chatglm.cn/images-ppt/a473035dd885.png"
-    ]
-  },
-  {
-    "id": "la-caja-misterio-que-no-querra-dejar-de-abrir",
-    "name": "La caja misterio que no querrá dejar de abrir",
-    "category": "sorpresas",
-    "categoryLabel": "Sorpresas",
-    "emoji": "🎉",
-    "price": 159900,
-    "shortDescription": "Sorpresa única la caja misterio que no querrá dejar de abrir con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "La caja misterio que no querrá dejar de abrir es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única la caja misterio que no querrá dejar de abrir con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Curaduría de productos",
-      "Empaque de lujo",
-      "Tarjeta sorpresa",
-      "Cinta decorativa",
-      "Detalle especial"
-    ],
-    "rating": 4.5,
-    "reviewsCount": 140,
-    "reviews": [
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "sorpresa",
-      "misterio",
-      "curado",
-      "lujo",
-      "regalo"
-    ],
-    "badge": "Más vendido",
-    "customizable": true,
-    "features": [
-      "Tecnología de impresión HD",
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos"
-    ],
-    "benefits": [
-      "Diseño único en su clase",
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/f54bd88a1eb8.jpg",
-      "https://sfile.chatglm.cn/images-ppt/fc19c3e94f0b.jpg",
-      "https://sfile.chatglm.cn/images-ppt/0e4ce6118eec.jpg",
-      "https://sfile.chatglm.cn/images-ppt/fd2f6f2d3158.jpg",
-      "https://sfile.chatglm.cn/images-ppt/e8096263ee97.jpg"
-    ]
-  },
-  {
-    "id": "la-sorpresa-mananera-que-despierta-sonrisas",
-    "name": "La sorpresa mañanera que despierta sonrisas",
-    "category": "sorpresas",
-    "categoryLabel": "Sorpresas",
-    "emoji": "🎉",
-    "price": 139900,
-    "shortDescription": "Sorpresa única la sorpresa mañanera que despierta sonrisas con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "La sorpresa mañanera que despierta sonrisas es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única la sorpresa mañanera que despierta sonrisas con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Curaduría de productos",
-      "Empaque de lujo",
-      "Tarjeta sorpresa",
-      "Cinta decorativa",
-      "Detalle especial"
-    ],
-    "rating": 4.6,
-    "reviewsCount": 177,
-    "reviews": [
-      {
-        "author": "Sebastián O.",
-        "rating": 5,
-        "date": "2025-08-22",
-        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
-      },
-      {
-        "author": "Laura G.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
-      },
-      {
-        "author": "Andrés M.",
-        "rating": 5,
-        "date": "2025-08-30",
-        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
-      },
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      }
-    ],
-    "tags": [
-      "sorpresa",
-      "misterio",
-      "curado",
-      "lujo",
-      "regalo"
-    ],
-    "badge": "Favorito",
-    "customizable": true,
-    "features": [
-      "Acabado mate elegante",
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado"
-    ],
-    "benefits": [
-      "Genera sonrisas inmediatas",
-      "Eleva cualquier celebración",
-      "Emoción al instante",
-      "Ideal para cualquier ocasión"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/7416daf92108.jpg",
-      "https://sfile.chatglm.cn/images-ppt/bbc3e939ec8e.jpg",
-      "https://sfile.chatglm.cn/images-ppt/f0899cd6ae48.jpg",
-      "https://sfile.chatglm.cn/images-ppt/3cae8c2bf183.png",
-      "https://sfile.chatglm.cn/images-ppt/2a9964bf6233.jpg"
-    ]
-  },
-  {
-    "id": "el-hamper-gourmet-para-el-paladar-exigente",
-    "name": "El hamper gourmet para el paladar exigente",
-    "category": "sorpresas",
-    "categoryLabel": "Sorpresas",
-    "emoji": "🎉",
-    "price": 189900,
-    "shortDescription": "Sorpresa única el hamper gourmet para el paladar exigente con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "El hamper gourmet para el paladar exigente es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única el hamper gourmet para el paladar exigente con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
-    "includes": [
-      "Curaduría de productos",
-      "Empaque de lujo",
-      "Tarjeta sorpresa",
-      "Cinta decorativa",
-      "Detalle especial"
-    ],
-    "rating": 4.7,
-    "reviewsCount": 214,
-    "reviews": [
-      {
-        "author": "Valentina R.",
-        "rating": 4,
-        "date": "2025-10-02",
-        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
-      },
-      {
-        "author": "Camilo P.",
-        "rating": 5,
-        "date": "2025-09-21",
-        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
-      },
-      {
-        "author": "Diana S.",
-        "rating": 5,
-        "date": "2025-08-15",
-        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
-      },
-      {
-        "author": "Felipe T.",
-        "rating": 4,
-        "date": "2025-10-08",
-        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
-      },
-      {
-        "author": "Mariana L.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
-      }
-    ],
-    "tags": [
-      "sorpresa",
-      "misterio",
-      "curado",
-      "lujo",
-      "regalo"
-    ],
-    "badge": "Premium",
-    "customizable": false,
-    "features": [
-      "Resistente y duradero",
-      "Certificado libre de tóxicos",
-      "Material premium importado",
-      "Empaque reciclable de lujo"
-    ],
-    "benefits": [
-      "Conecta con quien amas",
-      "Sorpresa garantizada",
-      "Recuerdo inolvidable",
-      "Diseño único en su clase"
-    ],
-    "images": [
-      "https://sfile.chatglm.cn/images-ppt/16f9847c64d1.jpg",
-      "https://sfile.chatglm.cn/images-ppt/6fd12f8c0ef6.jpg",
-      "https://sfile.chatglm.cn/images-ppt/52e3c492a65a.jpg",
-      "https://sfile.chatglm.cn/images-ppt/6b007250728d.jpg",
-      "https://sfile.chatglm.cn/images-ppt/671f9cc44ec9.jpg"
     ]
   },
   {
@@ -10967,6 +2471,474 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
+    "id": "el-guardian-silencioso-de-su-mesa",
+    "name": "El guardián silencioso de su mesa",
+    "category": "peluches",
+    "categoryLabel": "Peluches",
+    "emoji": "🧸",
+    "price": 99900,
+    "shortDescription": "Peluche premium el guardián silencioso de su mesa con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El guardián silencioso de su mesa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el guardián silencioso de su mesa con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Peluche de felpa premium",
+      "Tarjeta dedicatoria",
+      "Bolsa de regalo",
+      "Cinta decorativa"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 228,
+    "reviews": [
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "felpa",
+      "suave",
+      "regalo",
+      "romántico",
+      "tierno"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos"
+    ],
+    "benefits": [
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/581feb5157ea.jpg",
+      "https://sfile.chatglm.cn/images-ppt/086f724d34f6.jpg",
+      "https://sfile.chatglm.cn/images-ppt/d189ab0fec39.jpg",
+      "https://sfile.chatglm.cn/images-ppt/6a96e01c8fd9.webp",
+      "https://sfile.chatglm.cn/images-ppt/54c984600731.jpg"
+    ]
+  },
+  {
+    "id": "el-lujo-que-ella-siempre-merecio",
+    "name": "El lujo que ella siempre mereció",
+    "category": "flores",
+    "categoryLabel": "Flores",
+    "emoji": "🌹",
+    "price": 199900,
+    "shortDescription": "Ramo de flores frescas el lujo que ella siempre mereció con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El lujo que ella siempre mereció es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el lujo que ella siempre mereció con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Arreglo floral fresco",
+      "Papel kraft de lujo",
+      "Cinta de raso",
+      "Tarjeta dedicatoria",
+      "Conservante floral"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 328,
+    "reviews": [
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "fresco",
+      "flores",
+      "romántico",
+      "elegante",
+      "regalo"
+    ],
+    "badge": "Premium",
+    "customizable": true,
+    "features": [
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional"
+    ],
+    "benefits": [
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/1ca1e8c009ce.jpg",
+      "https://sfile.chatglm.cn/images-ppt/9d3ccbe22555.webp",
+      "https://sfile.chatglm.cn/images-ppt/08e19763a383.jpg",
+      "https://sfile.chatglm.cn/images-ppt/205d1283ddc4.jpg",
+      "https://sfile.chatglm.cn/images-ppt/95f9b46c1845.webp"
+    ]
+  },
+  {
+    "id": "la-manana-que-conquistara-su-dia",
+    "name": "La mañana que conquistará su día",
+    "category": "desayunos",
+    "categoryLabel": "Desayunos",
+    "emoji": "🎂",
+    "price": 179900,
+    "shortDescription": "Desayuno especial la mañana que conquistará su día con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "La mañana que conquistará su día es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial la mañana que conquistará su día con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Jugo natural",
+      "Café premium",
+      "Pan artesanal",
+      "Fruta fresca",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 108,
+    "reviews": [
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "domicilio",
+      "mañana",
+      "gourmet",
+      "bogotá",
+      "entrega"
+    ],
+    "badge": "Premium",
+    "customizable": true,
+    "features": [
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos"
+    ],
+    "benefits": [
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/e5544de62812.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c9a81459b2cd.png",
+      "https://sfile.chatglm.cn/images-ppt/9131235aa544.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1459d33e719c.jpg",
+      "https://sfile.chatglm.cn/images-ppt/5b27d205095b.jpg"
+    ]
+  },
+  {
+    "id": "la-dulce-sorpresa-que-flota-y-enamora",
+    "name": "La dulce sorpresa que flota y enamora",
+    "category": "globos",
+    "categoryLabel": "Globos",
+    "emoji": "🎈",
+    "price": 119900,
+    "shortDescription": "Decoración con globos la dulce sorpresa que flota y enamora de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "La dulce sorpresa que flota y enamora es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la dulce sorpresa que flota y enamora de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Globos látex premium",
+      "Globos foil",
+      "Helio incluido",
+      "Cinta y lazo",
+      "Soporte decorativo"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 208,
+    "reviews": [
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "helio",
+      "decoración",
+      "fiesta",
+      "cumpleaños",
+      "celebración"
+    ],
+    "badge": "Más vendido",
+    "customizable": false,
+    "features": [
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional"
+    ],
+    "benefits": [
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/af230bd27779.jpg",
+      "https://sfile.chatglm.cn/images-ppt/97a0259bb5d5.jpg",
+      "https://sfile.chatglm.cn/images-ppt/9b515d15115a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/0fe320f50928.png",
+      "https://sfile.chatglm.cn/images-ppt/e235e6f573d9.jpg"
+    ]
+  },
+  {
+    "id": "el-tres-leches-que-enamora-en-cada-bocado",
+    "name": "El tres leches que enamora en cada bocado",
+    "category": "cumpleanos",
+    "categoryLabel": "Cumpleaños",
+    "emoji": "🎁",
+    "price": 119900,
+    "shortDescription": "Celebra con el tres leches que enamora en cada bocado, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "El tres leches que enamora en cada bocado es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el tres leches que enamora en cada bocado, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto principal",
+      "Velas de cumpleaños",
+      "Tarjeta dedicatoria",
+      "Decoración",
+      "Bolsa de regalo"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 308,
+    "reviews": [
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "cumpleaños",
+      "fiesta",
+      "celebración",
+      "torta",
+      "regalo"
+    ],
+    "badge": "",
+    "customizable": true,
+    "features": [
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos"
+    ],
+    "benefits": [
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/9a6bf8b591f6.jpg",
+      "https://sfile.chatglm.cn/images-ppt/157f69e4e38d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/07e99c68df4e.png",
+      "https://sfile.chatglm.cn/images-ppt/b9fb7d899c1a.png",
+      "https://sfile.chatglm.cn/images-ppt/54209b81adbf.jpg"
+    ]
+  },
+  {
+    "id": "la-cena-con-champagne-que-enciende-la-noche",
+    "name": "La cena con champagne que enciende la noche",
+    "category": "aniversarios",
+    "categoryLabel": "Aniversarios",
+    "emoji": "💝",
+    "price": 219900,
+    "shortDescription": "Celebra su aniversario con la cena con champagne que enciende la noche, una experiencia pensada para parejas.",
+    "fullDescription": "La cena con champagne que enciende la noche es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con la cena con champagne que enciende la noche, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Experiencia principal",
+      "Detalle romántico",
+      "Tarjeta dedicatoria",
+      "Empaque de lujo",
+      "Velas decorativas"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 88,
+    "reviews": [
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "aniversario",
+      "pareja",
+      "romántico",
+      "amor",
+      "experiencia"
+    ],
+    "badge": "Más vendido",
+    "customizable": false,
+    "features": [
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional"
+    ],
+    "benefits": [
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/db54f9a4fe7e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/4c43f64bff11.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/46089f0bba9f.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b90489c349b4.webp",
+      "https://sfile.chatglm.cn/images-ppt/700a8557b0fd.jpg"
+    ]
+  },
+  {
+    "id": "la-madera-grabada-con-tu-propia-historia",
+    "name": "La madera grabada con tu propia historia",
+    "category": "personalizados",
+    "categoryLabel": "Personalizados",
+    "emoji": "✨",
+    "price": 134900,
+    "shortDescription": "Producto personalizado la madera grabada con tu propia historia con grabado e impresión de alta calidad.",
+    "fullDescription": "La madera grabada con tu propia historia es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la madera grabada con tu propia historia con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto personalizado",
+      "Diseño a medida",
+      "Prueba digital",
+      "Caja de regalo",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 188,
+    "reviews": [
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "personalizado",
+      "nombre",
+      "foto",
+      "único",
+      "grabado"
+    ],
+    "badge": "Premium",
+    "customizable": true,
+    "features": [
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos"
+    ],
+    "benefits": [
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/65d9915a6ad8.jpg",
+      "https://sfile.chatglm.cn/images-ppt/6ee220b53ed2.jpg",
+      "https://sfile.chatglm.cn/images-ppt/5150c4bc00af.png",
+      "https://sfile.chatglm.cn/images-ppt/5ed774b2fea0.jpg",
+      "https://sfile.chatglm.cn/images-ppt/0d2edc58a1c3.jpg"
+    ]
+  },
+  {
     "id": "la-torre-de-5-pisos-que-deslumbra-al-abrir",
     "name": "La torre de 5 pisos que deslumbra al abrir",
     "category": "sorpresas",
@@ -11031,6 +3003,516 @@ export const PRODUCTS: Product[] = [
       "https://sfile.chatglm.cn/images-ppt/88dc5f8dccf8.jpg",
       "https://sfile.chatglm.cn/images-ppt/5c34ec949b47.jpg",
       "https://sfile.chatglm.cn/images-ppt/23d8e2fccb4a.jpg"
+    ]
+  },
+  {
+    "id": "el-gatito-que-siempre-pidio-y-nunca-llego",
+    "name": "El gatito que siempre pidió y nunca llegó",
+    "category": "peluches",
+    "categoryLabel": "Peluches",
+    "emoji": "🧸",
+    "price": 129900,
+    "shortDescription": "Peluche premium el gatito que siempre pidió y nunca llegó con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El gatito que siempre pidió y nunca llegó es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el gatito que siempre pidió y nunca llegó con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Peluche de felpa premium",
+      "Tarjeta dedicatoria",
+      "Bolsa de regalo",
+      "Cinta decorativa"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 265,
+    "reviews": [
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "felpa",
+      "suave",
+      "regalo",
+      "romántico",
+      "tierno"
+    ],
+    "badge": "Nuevo",
+    "customizable": false,
+    "features": [
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado"
+    ],
+    "benefits": [
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/745f82fa6ddd.jpg",
+      "https://sfile.chatglm.cn/images-ppt/bd753b74391a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a1e82666f18c.jpg",
+      "https://sfile.chatglm.cn/images-ppt/74be6e967638.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/9f60d6aab3ac.jpg"
+    ]
+  },
+  {
+    "id": "la-pureza-hecha-petalos-blancos",
+    "name": "La pureza hecha pétalos blancos",
+    "category": "flores",
+    "categoryLabel": "Flores",
+    "emoji": "🌹",
+    "price": 149900,
+    "shortDescription": "Ramo de flores frescas la pureza hecha pétalos blancos con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "La pureza hecha pétalos blancos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas la pureza hecha pétalos blancos con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Arreglo floral fresco",
+      "Papel kraft de lujo",
+      "Cinta de raso",
+      "Tarjeta dedicatoria",
+      "Conservante floral"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 365,
+    "reviews": [
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "fresco",
+      "flores",
+      "romántico",
+      "elegante",
+      "regalo"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD"
+    ],
+    "benefits": [
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/ef62dc4198f4.jpg",
+      "https://sfile.chatglm.cn/images-ppt/7862c0dc1203.jpg",
+      "https://sfile.chatglm.cn/images-ppt/9cf45e67fa54.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a75dd883fe68.png",
+      "https://sfile.chatglm.cn/images-ppt/cca1d9a1a2aa.jpg"
+    ]
+  },
+  {
+    "id": "la-pausa-dulce-que-se-merece",
+    "name": "La pausa dulce que se merece",
+    "category": "desayunos",
+    "categoryLabel": "Desayunos",
+    "emoji": "🎂",
+    "price": 109900,
+    "shortDescription": "Desayuno especial la pausa dulce que se merece con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "La pausa dulce que se merece es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial la pausa dulce que se merece con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Jugo natural",
+      "Café premium",
+      "Pan artesanal",
+      "Fruta fresca",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 145,
+    "reviews": [
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "domicilio",
+      "mañana",
+      "gourmet",
+      "bogotá",
+      "entrega"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado"
+    ],
+    "benefits": [
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/41f8695ecf40.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b72236c0a844.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a14e141767a1.jpg",
+      "https://sfile.chatglm.cn/images-ppt/13d97de4bc36.jpg",
+      "https://sfile.chatglm.cn/images-ppt/108956f46065.jpg"
+    ]
+  },
+  {
+    "id": "el-corazon-que-vuela-hasta-su-techo",
+    "name": "El corazón que vuela hasta su techo",
+    "category": "globos",
+    "categoryLabel": "Globos",
+    "emoji": "🎈",
+    "price": 79900,
+    "shortDescription": "Decoración con globos el corazón que vuela hasta su techo de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "El corazón que vuela hasta su techo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el corazón que vuela hasta su techo de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Globos látex premium",
+      "Globos foil",
+      "Helio incluido",
+      "Cinta y lazo",
+      "Soporte decorativo"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 245,
+    "reviews": [
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "helio",
+      "decoración",
+      "fiesta",
+      "cumpleaños",
+      "celebración"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD"
+    ],
+    "benefits": [
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/6ec521d8248a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/636895ef5a9e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1032a12baea2.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f1a2f7b5dafc.jpg",
+      "https://sfile.chatglm.cn/images-ppt/7cdef00532a4.jpg"
+    ]
+  },
+  {
+    "id": "el-regalo-que-toda-mujer-quiere-abrir",
+    "name": "El regalo que toda mujer quiere abrir",
+    "category": "cumpleanos",
+    "categoryLabel": "Cumpleaños",
+    "emoji": "🎁",
+    "price": 149900,
+    "shortDescription": "Celebra con el regalo que toda mujer quiere abrir, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "El regalo que toda mujer quiere abrir es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el regalo que toda mujer quiere abrir, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto principal",
+      "Velas de cumpleaños",
+      "Tarjeta dedicatoria",
+      "Decoración",
+      "Bolsa de regalo"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 345,
+    "reviews": [
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "cumpleaños",
+      "fiesta",
+      "celebración",
+      "torta",
+      "regalo"
+    ],
+    "badge": "Más vendido",
+    "customizable": false,
+    "features": [
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado"
+    ],
+    "benefits": [
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/f416f552fce6.jpg",
+      "https://sfile.chatglm.cn/images-ppt/8e921b2eb570.jpg",
+      "https://sfile.chatglm.cn/images-ppt/d56e01b9d644.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b1f3e3a32be7.jpg",
+      "https://sfile.chatglm.cn/images-ppt/d222e43cc3e3.jpg"
+    ]
+  },
+  {
+    "id": "recien-casados-la-primera-celebracion",
+    "name": "Recién casados: la primera celebración",
+    "category": "aniversarios",
+    "categoryLabel": "Aniversarios",
+    "emoji": "💝",
+    "price": 164900,
+    "shortDescription": "Celebra su aniversario con recién casados: la primera celebración, una experiencia pensada para parejas.",
+    "fullDescription": "Recién casados: la primera celebración es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con recién casados: la primera celebración, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Experiencia principal",
+      "Detalle romántico",
+      "Tarjeta dedicatoria",
+      "Empaque de lujo",
+      "Velas decorativas"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 125,
+    "reviews": [
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "aniversario",
+      "pareja",
+      "romántico",
+      "amor",
+      "experiencia"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD"
+    ],
+    "benefits": [
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/a3e09b932590.jpg",
+      "https://sfile.chatglm.cn/images-ppt/72c967bb7636.jpg",
+      "https://sfile.chatglm.cn/images-ppt/2e5c1eb290a1.jpg",
+      "https://sfile.chatglm.cn/images-ppt/7daa85eafdb2.webp",
+      "https://sfile.chatglm.cn/images-ppt/a482041040b5.jpeg"
+    ]
+  },
+  {
+    "id": "la-magia-que-revela-tu-foto-con-el-calor",
+    "name": "La magia que revela tu foto con el calor",
+    "category": "personalizados",
+    "categoryLabel": "Personalizados",
+    "emoji": "✨",
+    "price": 79900,
+    "shortDescription": "Producto personalizado la magia que revela tu foto con el calor con grabado e impresión de alta calidad.",
+    "fullDescription": "La magia que revela tu foto con el calor es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la magia que revela tu foto con el calor con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto personalizado",
+      "Diseño a medida",
+      "Prueba digital",
+      "Caja de regalo",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 225,
+    "reviews": [
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "personalizado",
+      "nombre",
+      "foto",
+      "único",
+      "grabado"
+    ],
+    "badge": "",
+    "customizable": true,
+    "features": [
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado"
+    ],
+    "benefits": [
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/561e5ceaa8dd.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f3ee683eb4e7.jpg",
+      "https://sfile.chatglm.cn/images-ppt/13b571a79fb1.jpg",
+      "https://sfile.chatglm.cn/images-ppt/da58b6d4264d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/876ef0c96911.jpg"
     ]
   },
   {
@@ -11104,6 +3586,558 @@ export const PRODUCTS: Product[] = [
       "https://sfile.chatglm.cn/images-ppt/9c6635882fd7.jpg",
       "https://sfile.chatglm.cn/images-ppt/e310008e7b88.png",
       "https://sfile.chatglm.cn/images-ppt/10a46d41420a.jpg"
+    ]
+  },
+  {
+    "id": "el-companero-de-todas-sus-aventuras",
+    "name": "El compañero de todas sus aventuras",
+    "category": "peluches",
+    "categoryLabel": "Peluches",
+    "emoji": "🧸",
+    "price": 149900,
+    "shortDescription": "Peluche premium el compañero de todas sus aventuras con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El compañero de todas sus aventuras es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el compañero de todas sus aventuras con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Peluche de felpa premium",
+      "Tarjeta dedicatoria",
+      "Bolsa de regalo",
+      "Cinta decorativa"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 302,
+    "reviews": [
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "felpa",
+      "suave",
+      "regalo",
+      "romántico",
+      "tierno"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo"
+    ],
+    "benefits": [
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/663b3b87a31e.png",
+      "https://sfile.chatglm.cn/images-ppt/6ccd5ac415c7.jpg",
+      "https://sfile.chatglm.cn/images-ppt/28685a892d22.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b5e6e3a66d54.jpg",
+      "https://sfile.chatglm.cn/images-ppt/d8990808c629.jpg"
+    ]
+  },
+  {
+    "id": "la-reina-que-corona-su-nueva-casa",
+    "name": "La reina que corona su nueva casa",
+    "category": "flores",
+    "categoryLabel": "Flores",
+    "emoji": "🌹",
+    "price": 229900,
+    "shortDescription": "Ramo de flores frescas la reina que corona su nueva casa con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "La reina que corona su nueva casa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas la reina que corona su nueva casa con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Arreglo floral fresco",
+      "Papel kraft de lujo",
+      "Cinta de raso",
+      "Tarjeta dedicatoria",
+      "Conservante floral"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 82,
+    "reviews": [
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "fresco",
+      "flores",
+      "romántico",
+      "elegante",
+      "regalo"
+    ],
+    "badge": "Premium",
+    "customizable": false,
+    "features": [
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante"
+    ],
+    "benefits": [
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/165b3f9fe3ac.jpg",
+      "https://sfile.chatglm.cn/images-ppt/44e1bbfa2452.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/e959eba01ca3.jpg",
+      "https://sfile.chatglm.cn/images-ppt/442a684d2461.webp",
+      "https://sfile.chatglm.cn/images-ppt/eeb94d0208ce.jpg"
+    ]
+  },
+  {
+    "id": "la-energia-para-conquistar-el-mundo",
+    "name": "La energía para conquistar el mundo",
+    "category": "desayunos",
+    "categoryLabel": "Desayunos",
+    "emoji": "🎂",
+    "price": 114900,
+    "shortDescription": "Desayuno especial la energía para conquistar el mundo con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "La energía para conquistar el mundo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial la energía para conquistar el mundo con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Jugo natural",
+      "Café premium",
+      "Pan artesanal",
+      "Fruta fresca",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 182,
+    "reviews": [
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "domicilio",
+      "mañana",
+      "gourmet",
+      "bogotá",
+      "entrega"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo"
+    ],
+    "benefits": [
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/b15985662155.jpg",
+      "https://sfile.chatglm.cn/images-ppt/df1c0f5e1ff5.jpg",
+      "https://sfile.chatglm.cn/images-ppt/00dd101fda38.jpg",
+      "https://sfile.chatglm.cn/images-ppt/695a2983d6ab.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f8da082eee5f.jpg"
+    ]
+  },
+  {
+    "id": "el-arcoiris-que-pinta-su-fiesta",
+    "name": "El arcoíris que pinta su fiesta",
+    "category": "globos",
+    "categoryLabel": "Globos",
+    "emoji": "🎈",
+    "price": 134900,
+    "shortDescription": "Decoración con globos el arcoíris que pinta su fiesta de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "El arcoíris que pinta su fiesta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el arcoíris que pinta su fiesta de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Globos látex premium",
+      "Globos foil",
+      "Helio incluido",
+      "Cinta y lazo",
+      "Soporte decorativo"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 282,
+    "reviews": [
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "helio",
+      "decoración",
+      "fiesta",
+      "cumpleaños",
+      "celebración"
+    ],
+    "badge": "Nuevo",
+    "customizable": false,
+    "features": [
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante"
+    ],
+    "benefits": [
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/7de4b527685a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c9341965d1bc.jpg",
+      "https://sfile.chatglm.cn/images-ppt/729f6aa96eb7.jpg",
+      "https://sfile.chatglm.cn/images-ppt/0c2d967119a1.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a916712b64cb.jpg"
+    ]
+  },
+  {
+    "id": "el-regalo-que-ningun-hombre-espera",
+    "name": "El regalo que ningún hombre espera",
+    "category": "cumpleanos",
+    "categoryLabel": "Cumpleaños",
+    "emoji": "🎁",
+    "price": 149900,
+    "shortDescription": "Celebra con el regalo que ningún hombre espera, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "El regalo que ningún hombre espera es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el regalo que ningún hombre espera, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto principal",
+      "Velas de cumpleaños",
+      "Tarjeta dedicatoria",
+      "Decoración",
+      "Bolsa de regalo"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 382,
+    "reviews": [
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "cumpleaños",
+      "fiesta",
+      "celebración",
+      "torta",
+      "regalo"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo"
+    ],
+    "benefits": [
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/1b08d7a1d169.jpg",
+      "https://sfile.chatglm.cn/images-ppt/6933d2811e42.jpg",
+      "https://sfile.chatglm.cn/images-ppt/9a895ccff41b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/2331db2dcddb.jpg",
+      "https://sfile.chatglm.cn/images-ppt/96b2eb4a2613.jpg"
+    ]
+  },
+  {
+    "id": "flores-y-vino-el-clasico-que-enamora",
+    "name": "Flores y vino: el clásico que enamora",
+    "category": "aniversarios",
+    "categoryLabel": "Aniversarios",
+    "emoji": "💝",
+    "price": 159900,
+    "shortDescription": "Celebra su aniversario con flores y vino: el clásico que enamora, una experiencia pensada para parejas.",
+    "fullDescription": "Flores y vino: el clásico que enamora es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con flores y vino: el clásico que enamora, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Experiencia principal",
+      "Detalle romántico",
+      "Tarjeta dedicatoria",
+      "Empaque de lujo",
+      "Velas decorativas"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 162,
+    "reviews": [
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "aniversario",
+      "pareja",
+      "romántico",
+      "amor",
+      "experiencia"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante"
+    ],
+    "benefits": [
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/3389e4a92b84.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b5fe6a6e467d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/bd6ea650d92a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/3888d61a3a7b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a8a4ecda94d7.jpg"
+    ]
+  },
+  {
+    "id": "el-cojin-que-abraza-con-tu-foto",
+    "name": "El cojín que abraza con tu foto",
+    "category": "personalizados",
+    "categoryLabel": "Personalizados",
+    "emoji": "✨",
+    "price": 94900,
+    "shortDescription": "Producto personalizado el cojín que abraza con tu foto con grabado e impresión de alta calidad.",
+    "fullDescription": "El cojín que abraza con tu foto es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el cojín que abraza con tu foto con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto personalizado",
+      "Diseño a medida",
+      "Prueba digital",
+      "Caja de regalo",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 262,
+    "reviews": [
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "personalizado",
+      "nombre",
+      "foto",
+      "único",
+      "grabado"
+    ],
+    "badge": "Favorito",
+    "customizable": true,
+    "features": [
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo"
+    ],
+    "benefits": [
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/9fc49cdf5a0f.png",
+      "https://sfile.chatglm.cn/images-ppt/39e325f6c24e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/39e0361a45ca.webp",
+      "https://sfile.chatglm.cn/images-ppt/33e4fb06e1b8.jpg",
+      "https://sfile.chatglm.cn/images-ppt/ab87b16b923f.jpg"
     ]
   },
   {
@@ -11183,6 +4217,600 @@ export const PRODUCTS: Product[] = [
       "https://sfile.chatglm.cn/images-ppt/bfbc2e1c13d5.jpg",
       "https://sfile.chatglm.cn/images-ppt/22976498305e.jpg",
       "https://sfile.chatglm.cn/images-ppt/84b8a033033a.jpg"
+    ]
+  },
+  {
+    "id": "el-elefante-que-nunca-olvida-tu-amor",
+    "name": "El elefante que nunca olvida tu amor",
+    "category": "peluches",
+    "categoryLabel": "Peluches",
+    "emoji": "🧸",
+    "price": 94900,
+    "shortDescription": "Peluche premium el elefante que nunca olvida tu amor con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El elefante que nunca olvida tu amor es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el elefante que nunca olvida tu amor con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Peluche de felpa premium",
+      "Tarjeta dedicatoria",
+      "Bolsa de regalo",
+      "Cinta decorativa"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 339,
+    "reviews": [
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "felpa",
+      "suave",
+      "regalo",
+      "romántico",
+      "tierno"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia"
+    ],
+    "benefits": [
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/7935ec818c5a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/23288a9bd832.jpg",
+      "https://sfile.chatglm.cn/images-ppt/e7f375521427.jpg",
+      "https://sfile.chatglm.cn/images-ppt/ae3e8bec9791.jpg",
+      "https://sfile.chatglm.cn/images-ppt/ff0eb4186a89.jpg"
+    ]
+  },
+  {
+    "id": "amor-con-chocolate-la-combinacion-perfecta",
+    "name": "Amor con chocolate, la combinación perfecta",
+    "category": "flores",
+    "categoryLabel": "Flores",
+    "emoji": "🌹",
+    "price": 209900,
+    "shortDescription": "Ramo de flores frescas amor con chocolate, la combinación perfecta con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "Amor con chocolate, la combinación perfecta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas amor con chocolate, la combinación perfecta con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Arreglo floral fresco",
+      "Papel kraft de lujo",
+      "Cinta de raso",
+      "Tarjeta dedicatoria",
+      "Conservante floral"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 119,
+    "reviews": [
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "fresco",
+      "flores",
+      "romántico",
+      "elegante",
+      "regalo"
+    ],
+    "badge": "Más vendido",
+    "customizable": false,
+    "features": [
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero"
+    ],
+    "benefits": [
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/1ab6298131ef.jpg",
+      "https://sfile.chatglm.cn/images-ppt/089cd7b62b81.jpg",
+      "https://sfile.chatglm.cn/images-ppt/699a573b1f4a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b96b975b6b08.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1a63695bc098.jpeg"
+    ]
+  },
+  {
+    "id": "el-lujo-belga-en-pijama",
+    "name": "El lujo belga en pijama",
+    "category": "desayunos",
+    "categoryLabel": "Desayunos",
+    "emoji": "🎂",
+    "price": 134900,
+    "shortDescription": "Desayuno especial el lujo belga en pijama con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El lujo belga en pijama es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el lujo belga en pijama con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Jugo natural",
+      "Café premium",
+      "Pan artesanal",
+      "Fruta fresca",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 219,
+    "reviews": [
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "domicilio",
+      "mañana",
+      "gourmet",
+      "bogotá",
+      "entrega"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia"
+    ],
+    "benefits": [
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/13c5581dc836.png",
+      "https://sfile.chatglm.cn/images-ppt/9de90ce2d66a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/d627bbb38525.jpg",
+      "https://sfile.chatglm.cn/images-ppt/88117e5edc5b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/4b88728f28d0.jpg"
+    ]
+  },
+  {
+    "id": "la-sorpresa-bobo-que-arranca-la-risa",
+    "name": "La sorpresa bobo que arranca la risa",
+    "category": "globos",
+    "categoryLabel": "Globos",
+    "emoji": "🎈",
+    "price": 69900,
+    "shortDescription": "Decoración con globos la sorpresa bobo que arranca la risa de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "La sorpresa bobo que arranca la risa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la sorpresa bobo que arranca la risa de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Globos látex premium",
+      "Globos foil",
+      "Helio incluido",
+      "Cinta y lazo",
+      "Soporte decorativo"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 319,
+    "reviews": [
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "helio",
+      "decoración",
+      "fiesta",
+      "cumpleaños",
+      "celebración"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero"
+    ],
+    "benefits": [
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/2c86a3c64555.jpg",
+      "https://sfile.chatglm.cn/images-ppt/bfe62d1d5959.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c1ac852c3c99.jpg",
+      "https://sfile.chatglm.cn/images-ppt/224cbcf38aaf.jpg",
+      "https://sfile.chatglm.cn/images-ppt/5c43c05d326a.jpg"
+    ]
+  },
+  {
+    "id": "la-pinada-que-revive-la-infancia",
+    "name": "La piñada que revive la infancia",
+    "category": "cumpleanos",
+    "categoryLabel": "Cumpleaños",
+    "emoji": "🎁",
+    "price": 89900,
+    "shortDescription": "Celebra con la piñada que revive la infancia, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "La piñada que revive la infancia es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con la piñada que revive la infancia, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto principal",
+      "Velas de cumpleaños",
+      "Tarjeta dedicatoria",
+      "Decoración",
+      "Bolsa de regalo"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 99,
+    "reviews": [
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "cumpleaños",
+      "fiesta",
+      "celebración",
+      "torta",
+      "regalo"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia"
+    ],
+    "benefits": [
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/57d70195fcce.jpg",
+      "https://sfile.chatglm.cn/images-ppt/eca9e62b7fad.jpg",
+      "https://sfile.chatglm.cn/images-ppt/827b04abfbea.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/23f4fa0fec4a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a87c22b8122c.jpg"
+    ]
+  },
+  {
+    "id": "el-romance-que-sabe-a-chocolate-y-vino",
+    "name": "El romance que sabe a chocolate y vino",
+    "category": "aniversarios",
+    "categoryLabel": "Aniversarios",
+    "emoji": "💝",
+    "price": 144900,
+    "shortDescription": "Celebra su aniversario con el romance que sabe a chocolate y vino, una experiencia pensada para parejas.",
+    "fullDescription": "El romance que sabe a chocolate y vino es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el romance que sabe a chocolate y vino, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Experiencia principal",
+      "Detalle romántico",
+      "Tarjeta dedicatoria",
+      "Empaque de lujo",
+      "Velas decorativas"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 199,
+    "reviews": [
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "aniversario",
+      "pareja",
+      "romántico",
+      "amor",
+      "experiencia"
+    ],
+    "badge": "Favorito",
+    "customizable": false,
+    "features": [
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero"
+    ],
+    "benefits": [
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/157ce3cd8afd.jpg",
+      "https://sfile.chatglm.cn/images-ppt/464666736a31.jpg",
+      "https://sfile.chatglm.cn/images-ppt/409088627128.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c5018ec44131.jpg",
+      "https://sfile.chatglm.cn/images-ppt/5af2100c19b9.jpg"
+    ]
+  },
+  {
+    "id": "el-bolso-unico-con-tu-diseno-exclusivo",
+    "name": "El bolso único con tu diseño exclusivo",
+    "category": "personalizados",
+    "categoryLabel": "Personalizados",
+    "emoji": "✨",
+    "price": 104900,
+    "shortDescription": "Producto personalizado el bolso único con tu diseño exclusivo con grabado e impresión de alta calidad.",
+    "fullDescription": "El bolso único con tu diseño exclusivo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el bolso único con tu diseño exclusivo con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto personalizado",
+      "Diseño a medida",
+      "Prueba digital",
+      "Caja de regalo",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 299,
+    "reviews": [
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "personalizado",
+      "nombre",
+      "foto",
+      "único",
+      "grabado"
+    ],
+    "badge": "",
+    "customizable": true,
+    "features": [
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia"
+    ],
+    "benefits": [
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/b4d2cdc2f16e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/8916b351917b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a32c5f45b837.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f4fb8d3002d8.jpg",
+      "https://sfile.chatglm.cn/images-ppt/130a36b5386b.png"
     ]
   },
   {
@@ -11271,6 +4899,474 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
+    "id": "el-abrazo-calido-en-el-invierno-bogotano",
+    "name": "El abrazo cálido en el invierno bogotano",
+    "category": "peluches",
+    "categoryLabel": "Peluches",
+    "emoji": "🧸",
+    "price": 109900,
+    "shortDescription": "Peluche premium el abrazo cálido en el invierno bogotano con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El abrazo cálido en el invierno bogotano es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el abrazo cálido en el invierno bogotano con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Peluche de felpa premium",
+      "Tarjeta dedicatoria",
+      "Bolsa de regalo",
+      "Cinta decorativa"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 376,
+    "reviews": [
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "felpa",
+      "suave",
+      "regalo",
+      "romántico",
+      "tierno"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional"
+    ],
+    "benefits": [
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/eb0a123992c4.jpg",
+      "https://sfile.chatglm.cn/images-ppt/6e1a3a2b990d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/e12e7c0bb193.jpg",
+      "https://sfile.chatglm.cn/images-ppt/9d1a65fd2833.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b5cc80a17cd4.jpg"
+    ]
+  },
+  {
+    "id": "la-sonrisa-que-despierta-con-el-desayuno",
+    "name": "La sonrisa que despierta con el desayuno",
+    "category": "flores",
+    "categoryLabel": "Flores",
+    "emoji": "🌹",
+    "price": 159900,
+    "shortDescription": "Ramo de flores frescas la sonrisa que despierta con el desayuno con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "La sonrisa que despierta con el desayuno es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas la sonrisa que despierta con el desayuno con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Arreglo floral fresco",
+      "Papel kraft de lujo",
+      "Cinta de raso",
+      "Tarjeta dedicatoria",
+      "Conservante floral"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 156,
+    "reviews": [
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "fresco",
+      "flores",
+      "romántico",
+      "elegante",
+      "regalo"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos"
+    ],
+    "benefits": [
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/36063db0f6bb.png",
+      "https://sfile.chatglm.cn/images-ppt/999ff948fdfe.jpg",
+      "https://sfile.chatglm.cn/images-ppt/af73d57d795b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/7359551a64fc.jpg",
+      "https://sfile.chatglm.cn/images-ppt/79079a99f0fa.jpg"
+    ]
+  },
+  {
+    "id": "el-cumpleanos-que-arranca-con-sorpresa",
+    "name": "El cumpleaños que arranca con sorpresa",
+    "category": "desayunos",
+    "categoryLabel": "Desayunos",
+    "emoji": "🎂",
+    "price": 159900,
+    "shortDescription": "Desayuno especial el cumpleaños que arranca con sorpresa con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El cumpleaños que arranca con sorpresa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el cumpleaños que arranca con sorpresa con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Jugo natural",
+      "Café premium",
+      "Pan artesanal",
+      "Fruta fresca",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 256,
+    "reviews": [
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "domicilio",
+      "mañana",
+      "gourmet",
+      "bogotá",
+      "entrega"
+    ],
+    "badge": "Favorito",
+    "customizable": true,
+    "features": [
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional"
+    ],
+    "benefits": [
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/243f44c2de16.jpg",
+      "https://sfile.chatglm.cn/images-ppt/84f311283d0b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/d885a848db29.jpg",
+      "https://sfile.chatglm.cn/images-ppt/d9a1950000e7.jpg",
+      "https://sfile.chatglm.cn/images-ppt/9a51a97e5655.jpg"
+    ]
+  },
+  {
+    "id": "la-estrella-que-guia-su-celebracion",
+    "name": "La estrella que guía su celebración",
+    "category": "globos",
+    "categoryLabel": "Globos",
+    "emoji": "🎈",
+    "price": 94900,
+    "shortDescription": "Decoración con globos la estrella que guía su celebración de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "La estrella que guía su celebración es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la estrella que guía su celebración de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Globos látex premium",
+      "Globos foil",
+      "Helio incluido",
+      "Cinta y lazo",
+      "Soporte decorativo"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 356,
+    "reviews": [
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "helio",
+      "decoración",
+      "fiesta",
+      "cumpleaños",
+      "celebración"
+    ],
+    "badge": "Favorito",
+    "customizable": false,
+    "features": [
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos"
+    ],
+    "benefits": [
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/03617c21a845.jpg",
+      "https://sfile.chatglm.cn/images-ppt/ccffbd64ca79.jpg",
+      "https://sfile.chatglm.cn/images-ppt/54a8fc5fbcda.jpg",
+      "https://sfile.chatglm.cn/images-ppt/9d09ac813615.jpg",
+      "https://sfile.chatglm.cn/images-ppt/73fb3ef66fb0.jpg"
+    ]
+  },
+  {
+    "id": "el-red-velvet-que-enamora-en-rojo",
+    "name": "El red velvet que enamora en rojo",
+    "category": "cumpleanos",
+    "categoryLabel": "Cumpleaños",
+    "emoji": "🎁",
+    "price": 134900,
+    "shortDescription": "Celebra con el red velvet que enamora en rojo, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "El red velvet que enamora en rojo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el red velvet que enamora en rojo, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto principal",
+      "Velas de cumpleaños",
+      "Tarjeta dedicatoria",
+      "Decoración",
+      "Bolsa de regalo"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 136,
+    "reviews": [
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "cumpleaños",
+      "fiesta",
+      "celebración",
+      "torta",
+      "regalo"
+    ],
+    "badge": "Nuevo",
+    "customizable": true,
+    "features": [
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional"
+    ],
+    "benefits": [
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/bd18a5a72bde.png",
+      "https://sfile.chatglm.cn/images-ppt/58f9c443d1f6.jpg",
+      "https://sfile.chatglm.cn/images-ppt/674aaf2d5738.png",
+      "https://sfile.chatglm.cn/images-ppt/c11c0cdd38de.jpg",
+      "https://sfile.chatglm.cn/images-ppt/031302a1dd94.jpg"
+    ]
+  },
+  {
+    "id": "la-noche-de-cine-abrazados-en-casa",
+    "name": "La noche de cine abrazados en casa",
+    "category": "aniversarios",
+    "categoryLabel": "Aniversarios",
+    "emoji": "💝",
+    "price": 134900,
+    "shortDescription": "Celebra su aniversario con la noche de cine abrazados en casa, una experiencia pensada para parejas.",
+    "fullDescription": "La noche de cine abrazados en casa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con la noche de cine abrazados en casa, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Experiencia principal",
+      "Detalle romántico",
+      "Tarjeta dedicatoria",
+      "Empaque de lujo",
+      "Velas decorativas"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 236,
+    "reviews": [
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "aniversario",
+      "pareja",
+      "romántico",
+      "amor",
+      "experiencia"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos"
+    ],
+    "benefits": [
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/a138643abee6.jpg",
+      "https://sfile.chatglm.cn/images-ppt/786dde6e707c.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b935c1fc2357.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1bbfb731db3b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c780c0d5e842.jpg"
+    ]
+  },
+  {
+    "id": "el-cuadro-canvas-de-tu-mejor-momento",
+    "name": "El cuadro canvas de tu mejor momento",
+    "category": "personalizados",
+    "categoryLabel": "Personalizados",
+    "emoji": "✨",
+    "price": 149900,
+    "shortDescription": "Producto personalizado el cuadro canvas de tu mejor momento con grabado e impresión de alta calidad.",
+    "fullDescription": "El cuadro canvas de tu mejor momento es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el cuadro canvas de tu mejor momento con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto personalizado",
+      "Diseño a medida",
+      "Prueba digital",
+      "Caja de regalo",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 336,
+    "reviews": [
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "personalizado",
+      "nombre",
+      "foto",
+      "único",
+      "grabado"
+    ],
+    "badge": "Premium",
+    "customizable": true,
+    "features": [
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional"
+    ],
+    "benefits": [
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/d487ed2b3165.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a429e4d464a0.jpg",
+      "https://sfile.chatglm.cn/images-ppt/d394d4a97943.jpg",
+      "https://sfile.chatglm.cn/images-ppt/31e75873a504.jpg",
+      "https://sfile.chatglm.cn/images-ppt/8457fe9171cd.jpg"
+    ]
+  },
+  {
     "id": "el-chocolate-deluxe-que-enamora-al-primer-bocado",
     "name": "El chocolate deluxe que enamora al primer bocado",
     "category": "sorpresas",
@@ -11335,6 +5431,516 @@ export const PRODUCTS: Product[] = [
       "https://sfile.chatglm.cn/images-ppt/71e19a3346ca.jpg",
       "https://sfile.chatglm.cn/images-ppt/2d98f331cbf2.jpg",
       "https://sfile.chatglm.cn/images-ppt/e504136d8ec5.jpg"
+    ]
+  },
+  {
+    "id": "el-primer-te-quiero-hecho-peluche",
+    "name": "El primer te quiero hecho peluche",
+    "category": "peluches",
+    "categoryLabel": "Peluches",
+    "emoji": "🧸",
+    "price": 79900,
+    "shortDescription": "Peluche premium el primer te quiero hecho peluche con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El primer te quiero hecho peluche es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el primer te quiero hecho peluche con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Peluche de felpa premium",
+      "Tarjeta dedicatoria",
+      "Bolsa de regalo",
+      "Cinta decorativa"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 93,
+    "reviews": [
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "felpa",
+      "suave",
+      "regalo",
+      "romántico",
+      "tierno"
+    ],
+    "badge": "Favorito",
+    "customizable": false,
+    "features": [
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD"
+    ],
+    "benefits": [
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/231e932d74f9.jpg",
+      "https://sfile.chatglm.cn/images-ppt/4673beacf015.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/f98237d3b0db.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1de8bde7c9c1.jpg",
+      "https://sfile.chatglm.cn/images-ppt/657634b428af.jpeg"
+    ]
+  },
+  {
+    "id": "el-jardin-que-siempre-sono-tener",
+    "name": "El jardín que siempre soñó tener",
+    "category": "flores",
+    "categoryLabel": "Flores",
+    "emoji": "🌹",
+    "price": 129900,
+    "shortDescription": "Ramo de flores frescas el jardín que siempre soñó tener con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El jardín que siempre soñó tener es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el jardín que siempre soñó tener con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Arreglo floral fresco",
+      "Papel kraft de lujo",
+      "Cinta de raso",
+      "Tarjeta dedicatoria",
+      "Conservante floral"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 193,
+    "reviews": [
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "fresco",
+      "flores",
+      "romántico",
+      "elegante",
+      "regalo"
+    ],
+    "badge": "Favorito",
+    "customizable": false,
+    "features": [
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado"
+    ],
+    "benefits": [
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/149cefed2329.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c21823c21554.jpg",
+      "https://sfile.chatglm.cn/images-ppt/758f3e598d8f.jpg",
+      "https://sfile.chatglm.cn/images-ppt/843d94f9de49.jpg",
+      "https://sfile.chatglm.cn/images-ppt/686e29f4ccf3.jpg"
+    ]
+  },
+  {
+    "id": "el-te-de-las-cinco-en-londres",
+    "name": "El té de las cinco en Londres",
+    "category": "desayunos",
+    "categoryLabel": "Desayunos",
+    "emoji": "🎂",
+    "price": 124900,
+    "shortDescription": "Desayuno especial el té de las cinco en londres con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El té de las cinco en Londres es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el té de las cinco en londres con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Jugo natural",
+      "Café premium",
+      "Pan artesanal",
+      "Fruta fresca",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 293,
+    "reviews": [
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "domicilio",
+      "mañana",
+      "gourmet",
+      "bogotá",
+      "entrega"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD"
+    ],
+    "benefits": [
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/d9873b02306b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f282bd1f0f88.jpg",
+      "https://sfile.chatglm.cn/images-ppt/94fb6db7e7cf.jpg",
+      "https://sfile.chatglm.cn/images-ppt/e0e835ce343b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/ae32dfa29ce6.jpg"
+    ]
+  },
+  {
+    "id": "su-nombre-flotando-en-el-cielo",
+    "name": "Su nombre flotando en el cielo",
+    "category": "globos",
+    "categoryLabel": "Globos",
+    "emoji": "🎈",
+    "price": 89900,
+    "shortDescription": "Decoración con globos su nombre flotando en el cielo de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "Su nombre flotando en el cielo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos su nombre flotando en el cielo de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Globos látex premium",
+      "Globos foil",
+      "Helio incluido",
+      "Cinta y lazo",
+      "Soporte decorativo"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 393,
+    "reviews": [
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "helio",
+      "decoración",
+      "fiesta",
+      "cumpleaños",
+      "celebración"
+    ],
+    "badge": "Nuevo",
+    "customizable": true,
+    "features": [
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado"
+    ],
+    "benefits": [
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/fa8a646f1ed8.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1a3cd7eaee3b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/d439eee9d803.jpg",
+      "https://sfile.chatglm.cn/images-ppt/79fd0253aa8e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/0ae38a8bee1c.jpg"
+    ]
+  },
+  {
+    "id": "los-cupcakes-que-pintan-la-fiesta",
+    "name": "Los cupcakes que pintan la fiesta",
+    "category": "cumpleanos",
+    "categoryLabel": "Cumpleaños",
+    "emoji": "🎁",
+    "price": 99900,
+    "shortDescription": "Celebra con los cupcakes que pintan la fiesta, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "Los cupcakes que pintan la fiesta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con los cupcakes que pintan la fiesta, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto principal",
+      "Velas de cumpleaños",
+      "Tarjeta dedicatoria",
+      "Decoración",
+      "Bolsa de regalo"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 173,
+    "reviews": [
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "cumpleaños",
+      "fiesta",
+      "celebración",
+      "torta",
+      "regalo"
+    ],
+    "badge": "Favorito",
+    "customizable": false,
+    "features": [
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD"
+    ],
+    "benefits": [
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/1a5afcc98f30.jpg",
+      "https://sfile.chatglm.cn/images-ppt/79674bced8ab.jpg",
+      "https://sfile.chatglm.cn/images-ppt/00c7b050809c.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/ba149a2ff82d.png",
+      "https://sfile.chatglm.cn/images-ppt/20c0b2f185ce.jpeg"
+    ]
+  },
+  {
+    "id": "el-chef-privado-cocina-solo-para-ustedes",
+    "name": "El chef privado cocina solo para ustedes",
+    "category": "aniversarios",
+    "categoryLabel": "Aniversarios",
+    "emoji": "💝",
+    "price": 299900,
+    "shortDescription": "Celebra su aniversario con el chef privado cocina solo para ustedes, una experiencia pensada para parejas.",
+    "fullDescription": "El chef privado cocina solo para ustedes es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el chef privado cocina solo para ustedes, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Experiencia principal",
+      "Detalle romántico",
+      "Tarjeta dedicatoria",
+      "Empaque de lujo",
+      "Velas decorativas"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 273,
+    "reviews": [
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "aniversario",
+      "pareja",
+      "romántico",
+      "amor",
+      "experiencia"
+    ],
+    "badge": "Premium",
+    "customizable": true,
+    "features": [
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado"
+    ],
+    "benefits": [
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/ebaf3ca25e32.webp",
+      "https://sfile.chatglm.cn/images-ppt/2b47d9ea4c01.jpg",
+      "https://sfile.chatglm.cn/images-ppt/fbf6e71d909d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/aa5b12391720.jpg",
+      "https://sfile.chatglm.cn/images-ppt/41e75a20a6f5.jpg"
+    ]
+  },
+  {
+    "id": "la-luz-de-tu-nombre-brillando-en-la-noche",
+    "name": "La luz de tu nombre brillando en la noche",
+    "category": "personalizados",
+    "categoryLabel": "Personalizados",
+    "emoji": "✨",
+    "price": 114900,
+    "shortDescription": "Producto personalizado la luz de tu nombre brillando en la noche con grabado e impresión de alta calidad.",
+    "fullDescription": "La luz de tu nombre brillando en la noche es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la luz de tu nombre brillando en la noche con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto personalizado",
+      "Diseño a medida",
+      "Prueba digital",
+      "Caja de regalo",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 373,
+    "reviews": [
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "personalizado",
+      "nombre",
+      "foto",
+      "único",
+      "grabado"
+    ],
+    "badge": "Más vendido",
+    "customizable": true,
+    "features": [
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD"
+    ],
+    "benefits": [
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/c9c72443c34a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b8f6182de331.jpg",
+      "https://sfile.chatglm.cn/images-ppt/584a36259bbf.jpg",
+      "https://sfile.chatglm.cn/images-ppt/5e5784026e9e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/639e2a912ee1.webp"
     ]
   },
   {
@@ -11408,6 +6014,558 @@ export const PRODUCTS: Product[] = [
       "https://sfile.chatglm.cn/images-ppt/d21e5f3c7c57.jpg",
       "https://sfile.chatglm.cn/images-ppt/382d39ead226.jpg",
       "https://sfile.chatglm.cn/images-ppt/4702cf3c03c1.jpg"
+    ]
+  },
+  {
+    "id": "para-tocar-el-cielo-de-su-habitacion",
+    "name": "Para tocar el cielo de su habitación",
+    "category": "peluches",
+    "categoryLabel": "Peluches",
+    "emoji": "🧸",
+    "price": 139900,
+    "shortDescription": "Peluche premium para tocar el cielo de su habitación con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "Para tocar el cielo de su habitación es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium para tocar el cielo de su habitación con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Peluche de felpa premium",
+      "Tarjeta dedicatoria",
+      "Bolsa de regalo",
+      "Cinta decorativa"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 130,
+    "reviews": [
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "felpa",
+      "suave",
+      "regalo",
+      "romántico",
+      "tierno"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante"
+    ],
+    "benefits": [
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/1572e8b6aee3.jpg",
+      "https://sfile.chatglm.cn/images-ppt/29a70f32fe69.jpg",
+      "https://sfile.chatglm.cn/images-ppt/79bb6b3363ff.jpg",
+      "https://sfile.chatglm.cn/images-ppt/453e3534beb6.jpg",
+      "https://sfile.chatglm.cn/images-ppt/dd6275f3acaf.jpg"
+    ]
+  },
+  {
+    "id": "la-pasion-que-no-se-puede-callar",
+    "name": "La pasión que no se puede callar",
+    "category": "flores",
+    "categoryLabel": "Flores",
+    "emoji": "🌹",
+    "price": 99900,
+    "shortDescription": "Ramo de flores frescas la pasión que no se puede callar con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "La pasión que no se puede callar es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas la pasión que no se puede callar con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Arreglo floral fresco",
+      "Papel kraft de lujo",
+      "Cinta de raso",
+      "Tarjeta dedicatoria",
+      "Conservante floral"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 230,
+    "reviews": [
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "fresco",
+      "flores",
+      "romántico",
+      "elegante",
+      "regalo"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo"
+    ],
+    "benefits": [
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/0f936c7c1d7a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f5c8506d8cec.jpg",
+      "https://sfile.chatglm.cn/images-ppt/d359816de42b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/51ac3e876a9f.jpg",
+      "https://sfile.chatglm.cn/images-ppt/33f1eb03adeb.jpg"
+    ]
+  },
+  {
+    "id": "la-suite-de-hotel-en-su-propia-casa",
+    "name": "La suite de hotel en su propia casa",
+    "category": "desayunos",
+    "categoryLabel": "Desayunos",
+    "emoji": "🎂",
+    "price": 194900,
+    "shortDescription": "Desayuno especial la suite de hotel en su propia casa con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "La suite de hotel en su propia casa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial la suite de hotel en su propia casa con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Jugo natural",
+      "Café premium",
+      "Pan artesanal",
+      "Fruta fresca",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 330,
+    "reviews": [
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "domicilio",
+      "mañana",
+      "gourmet",
+      "bogotá",
+      "entrega"
+    ],
+    "badge": "Premium",
+    "customizable": false,
+    "features": [
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante"
+    ],
+    "benefits": [
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/5a99c2f9fb9a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f4e04d09647d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1bbf8035b216.webp",
+      "https://sfile.chatglm.cn/images-ppt/7b776bd48dd8.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1b0bf475ca5a.jpg"
+    ]
+  },
+  {
+    "id": "el-fondo-de-bodas-que-siempre-sono",
+    "name": "El fondo de bodas que siempre soñó",
+    "category": "globos",
+    "categoryLabel": "Globos",
+    "emoji": "🎈",
+    "price": 249900,
+    "shortDescription": "Decoración con globos el fondo de bodas que siempre soñó de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "El fondo de bodas que siempre soñó es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el fondo de bodas que siempre soñó de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Globos látex premium",
+      "Globos foil",
+      "Helio incluido",
+      "Cinta y lazo",
+      "Soporte decorativo"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 110,
+    "reviews": [
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "helio",
+      "decoración",
+      "fiesta",
+      "cumpleaños",
+      "celebración"
+    ],
+    "badge": "Premium",
+    "customizable": false,
+    "features": [
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo"
+    ],
+    "benefits": [
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/375956697f7e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/0abb41d79fd0.jpg",
+      "https://sfile.chatglm.cn/images-ppt/be8973c0e599.jpg",
+      "https://sfile.chatglm.cn/images-ppt/496b189ca2f1.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/7a992aa585de.jpg"
+    ]
+  },
+  {
+    "id": "la-decoracion-tematica-que-sorprende",
+    "name": "La decoración temática que sorprende",
+    "category": "cumpleanos",
+    "categoryLabel": "Cumpleaños",
+    "emoji": "🎁",
+    "price": 174900,
+    "shortDescription": "Celebra con la decoración temática que sorprende, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "La decoración temática que sorprende es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con la decoración temática que sorprende, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto principal",
+      "Velas de cumpleaños",
+      "Tarjeta dedicatoria",
+      "Decoración",
+      "Bolsa de regalo"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 210,
+    "reviews": [
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "cumpleaños",
+      "fiesta",
+      "celebración",
+      "torta",
+      "regalo"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante"
+    ],
+    "benefits": [
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/0c04dd98a849.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/e31643ecb5df.jpg",
+      "https://sfile.chatglm.cn/images-ppt/8bbf2686e165.jpg",
+      "https://sfile.chatglm.cn/images-ppt/9e5e933c811a.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/563adfe2873d.jpg"
+    ]
+  },
+  {
+    "id": "bodas-de-plata-la-celebracion-de-la-vida",
+    "name": "Bodas de plata: la celebración de la vida",
+    "category": "aniversarios",
+    "categoryLabel": "Aniversarios",
+    "emoji": "💝",
+    "price": 229900,
+    "shortDescription": "Celebra su aniversario con bodas de plata: la celebración de la vida, una experiencia pensada para parejas.",
+    "fullDescription": "Bodas de plata: la celebración de la vida es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con bodas de plata: la celebración de la vida, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Experiencia principal",
+      "Detalle romántico",
+      "Tarjeta dedicatoria",
+      "Empaque de lujo",
+      "Velas decorativas"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 310,
+    "reviews": [
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "aniversario",
+      "pareja",
+      "romántico",
+      "amor",
+      "experiencia"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo"
+    ],
+    "benefits": [
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/02e765f62348.jpg",
+      "https://sfile.chatglm.cn/images-ppt/e450889a587a.png",
+      "https://sfile.chatglm.cn/images-ppt/2916c66cb4f0.jpg",
+      "https://sfile.chatglm.cn/images-ppt/e7fb9af23aaf.jpg",
+      "https://sfile.chatglm.cn/images-ppt/6b0d8f2d27ed.jpg"
+    ]
+  },
+  {
+    "id": "el-album-de-su-vida-en-papel-premium",
+    "name": "El álbum de su vida en papel premium",
+    "category": "personalizados",
+    "categoryLabel": "Personalizados",
+    "emoji": "✨",
+    "price": 124900,
+    "shortDescription": "Producto personalizado el álbum de su vida en papel premium con grabado e impresión de alta calidad.",
+    "fullDescription": "El álbum de su vida en papel premium es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el álbum de su vida en papel premium con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto personalizado",
+      "Diseño a medida",
+      "Prueba digital",
+      "Caja de regalo",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 90,
+    "reviews": [
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "personalizado",
+      "nombre",
+      "foto",
+      "único",
+      "grabado"
+    ],
+    "badge": "",
+    "customizable": true,
+    "features": [
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante"
+    ],
+    "benefits": [
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/40a8a67a2d90.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c2e3aff1de90.jpg",
+      "https://sfile.chatglm.cn/images-ppt/aa0e086f5445.jpg",
+      "https://sfile.chatglm.cn/images-ppt/e1a0c837ebf1.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c2b7c77c3ee2.jpg"
     ]
   },
   {
@@ -11487,6 +6645,600 @@ export const PRODUCTS: Product[] = [
       "https://sfile.chatglm.cn/images-ppt/3b1a3da05fd3.png",
       "https://sfile.chatglm.cn/images-ppt/902a5385e567.jpg",
       "https://sfile.chatglm.cn/images-ppt/d7798a5cfa73.jpg"
+    ]
+  },
+  {
+    "id": "el-rey-que-protege-su-corazon",
+    "name": "El rey que protege su corazón",
+    "category": "peluches",
+    "categoryLabel": "Peluches",
+    "emoji": "🧸",
+    "price": 119900,
+    "shortDescription": "Peluche premium el rey que protege su corazón con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El rey que protege su corazón es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el rey que protege su corazón con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Peluche de felpa premium",
+      "Tarjeta dedicatoria",
+      "Bolsa de regalo",
+      "Cinta decorativa"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 167,
+    "reviews": [
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "felpa",
+      "suave",
+      "regalo",
+      "romántico",
+      "tierno"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero"
+    ],
+    "benefits": [
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/1f217c760587.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/d6a6bc477b9d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/8dfea669eda0.png",
+      "https://sfile.chatglm.cn/images-ppt/d66e7f585068.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b122f69f0f66.jpg"
+    ]
+  },
+  {
+    "id": "el-pastel-de-colores-de-su-corazon",
+    "name": "El pastel de colores de su corazón",
+    "category": "flores",
+    "categoryLabel": "Flores",
+    "emoji": "🌹",
+    "price": 179900,
+    "shortDescription": "Ramo de flores frescas el pastel de colores de su corazón con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El pastel de colores de su corazón es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el pastel de colores de su corazón con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Arreglo floral fresco",
+      "Papel kraft de lujo",
+      "Cinta de raso",
+      "Tarjeta dedicatoria",
+      "Conservante floral"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 267,
+    "reviews": [
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "fresco",
+      "flores",
+      "romántico",
+      "elegante",
+      "regalo"
+    ],
+    "badge": "Nuevo",
+    "customizable": true,
+    "features": [
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia"
+    ],
+    "benefits": [
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/219b097cf024.png",
+      "https://sfile.chatglm.cn/images-ppt/b797809b8304.jpg",
+      "https://sfile.chatglm.cn/images-ppt/94d81bd8cd74.jpg",
+      "https://sfile.chatglm.cn/images-ppt/9ff2829d7e7a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/51a622f51c53.jpg"
+    ]
+  },
+  {
+    "id": "el-comienzo-saludable-que-se-prometio",
+    "name": "El comienzo saludable que se prometió",
+    "category": "desayunos",
+    "categoryLabel": "Desayunos",
+    "emoji": "🎂",
+    "price": 89900,
+    "shortDescription": "Desayuno especial el comienzo saludable que se prometió con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El comienzo saludable que se prometió es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el comienzo saludable que se prometió con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Jugo natural",
+      "Café premium",
+      "Pan artesanal",
+      "Fruta fresca",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 367,
+    "reviews": [
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "domicilio",
+      "mañana",
+      "gourmet",
+      "bogotá",
+      "entrega"
+    ],
+    "badge": "Nuevo",
+    "customizable": false,
+    "features": [
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero"
+    ],
+    "benefits": [
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/c7766185a81b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a0cc4c44bfdb.jpg",
+      "https://sfile.chatglm.cn/images-ppt/5a3ffdf9a1ab.jpg",
+      "https://sfile.chatglm.cn/images-ppt/8d6f52e31d40.png",
+      "https://sfile.chatglm.cn/images-ppt/4a129bd0bdfd.jpg"
+    ]
+  },
+  {
+    "id": "el-unicornio-magico-de-su-fiesta",
+    "name": "El unicornio mágico de su fiesta",
+    "category": "globos",
+    "categoryLabel": "Globos",
+    "emoji": "🎈",
+    "price": 84900,
+    "shortDescription": "Decoración con globos el unicornio mágico de su fiesta de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "El unicornio mágico de su fiesta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el unicornio mágico de su fiesta de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Globos látex premium",
+      "Globos foil",
+      "Helio incluido",
+      "Cinta y lazo",
+      "Soporte decorativo"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 147,
+    "reviews": [
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "helio",
+      "decoración",
+      "fiesta",
+      "cumpleaños",
+      "celebración"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia"
+    ],
+    "benefits": [
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/80fb9dcce51e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/8f4b7e4949f7.jpg",
+      "https://sfile.chatglm.cn/images-ppt/d8e05fbb87c9.jpg",
+      "https://sfile.chatglm.cn/images-ppt/3678ad2ff2ed.jpg",
+      "https://sfile.chatglm.cn/images-ppt/6f2d6fcf2b0f.jpg"
+    ]
+  },
+  {
+    "id": "las-frutas-frescas-que-endulzan-el-ano-nuevo",
+    "name": "Las frutas frescas que endulzan el año nuevo",
+    "category": "cumpleanos",
+    "categoryLabel": "Cumpleaños",
+    "emoji": "🎁",
+    "price": 144900,
+    "shortDescription": "Celebra con las frutas frescas que endulzan el año nuevo, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "Las frutas frescas que endulzan el año nuevo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con las frutas frescas que endulzan el año nuevo, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto principal",
+      "Velas de cumpleaños",
+      "Tarjeta dedicatoria",
+      "Decoración",
+      "Bolsa de regalo"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 247,
+    "reviews": [
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "cumpleaños",
+      "fiesta",
+      "celebración",
+      "torta",
+      "regalo"
+    ],
+    "badge": "",
+    "customizable": true,
+    "features": [
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero"
+    ],
+    "benefits": [
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/c00ae6ab9a4a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/585b4d9b3845.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c9443f5bead9.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/b95ed9d596f7.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f76d473f4dfc.png"
+    ]
+  },
+  {
+    "id": "rosas-y-peluche-el-duo-del-amor",
+    "name": "Rosas y peluche: el dúo del amor",
+    "category": "aniversarios",
+    "categoryLabel": "Aniversarios",
+    "emoji": "💝",
+    "price": 169900,
+    "shortDescription": "Celebra su aniversario con rosas y peluche: el dúo del amor, una experiencia pensada para parejas.",
+    "fullDescription": "Rosas y peluche: el dúo del amor es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con rosas y peluche: el dúo del amor, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Experiencia principal",
+      "Detalle romántico",
+      "Tarjeta dedicatoria",
+      "Empaque de lujo",
+      "Velas decorativas"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 347,
+    "reviews": [
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "aniversario",
+      "pareja",
+      "romántico",
+      "amor",
+      "experiencia"
+    ],
+    "badge": "Más vendido",
+    "customizable": false,
+    "features": [
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia"
+    ],
+    "benefits": [
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/47fcec10b198.png",
+      "https://sfile.chatglm.cn/images-ppt/d073b15f791e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/6f6dd223d94e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/94e9092068bc.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c551f827f309.jpg"
+    ]
+  },
+  {
+    "id": "la-pulsera-que-lleva-su-nombre-en-la-piel",
+    "name": "La pulsera que lleva su nombre en la piel",
+    "category": "personalizados",
+    "categoryLabel": "Personalizados",
+    "emoji": "✨",
+    "price": 74900,
+    "shortDescription": "Producto personalizado la pulsera que lleva su nombre en la piel con grabado e impresión de alta calidad.",
+    "fullDescription": "La pulsera que lleva su nombre en la piel es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la pulsera que lleva su nombre en la piel con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto personalizado",
+      "Diseño a medida",
+      "Prueba digital",
+      "Caja de regalo",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 127,
+    "reviews": [
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "personalizado",
+      "nombre",
+      "foto",
+      "único",
+      "grabado"
+    ],
+    "badge": "Nuevo",
+    "customizable": true,
+    "features": [
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero"
+    ],
+    "benefits": [
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/a5ee14e1c838.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c8c61dc8452d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/797a6f9997b5.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a1c07ae91bf4.jpg",
+      "https://sfile.chatglm.cn/images-ppt/fbf6e71d909d.jpg"
     ]
   },
   {
@@ -11575,6 +7327,474 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
+    "id": "su-primer-regalo-de-bienvenida-al-mundo",
+    "name": "Su primer regalo de bienvenida al mundo",
+    "category": "peluches",
+    "categoryLabel": "Peluches",
+    "emoji": "🧸",
+    "price": 69900,
+    "shortDescription": "Peluche premium su primer regalo de bienvenida al mundo con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "Su primer regalo de bienvenida al mundo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium su primer regalo de bienvenida al mundo con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Peluche de felpa premium",
+      "Tarjeta dedicatoria",
+      "Bolsa de regalo",
+      "Cinta decorativa"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 204,
+    "reviews": [
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "felpa",
+      "suave",
+      "regalo",
+      "romántico",
+      "tierno"
+    ],
+    "badge": "Nuevo",
+    "customizable": false,
+    "features": [
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos"
+    ],
+    "benefits": [
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/c67068680bce.jpg",
+      "https://sfile.chatglm.cn/images-ppt/58cff287a2f7.jpg",
+      "https://sfile.chatglm.cn/images-ppt/0ad482b4a739.jpg",
+      "https://sfile.chatglm.cn/images-ppt/8f46e699ece3.jpg",
+      "https://sfile.chatglm.cn/images-ppt/d52a5699054d.jpeg"
+    ]
+  },
+  {
+    "id": "la-calma-de-provenza-en-su-ventana",
+    "name": "La calma de Provenza en su ventana",
+    "category": "flores",
+    "categoryLabel": "Flores",
+    "emoji": "🌹",
+    "price": 109900,
+    "shortDescription": "Ramo de flores frescas la calma de provenza en su ventana con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "La calma de Provenza en su ventana es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas la calma de provenza en su ventana con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Arreglo floral fresco",
+      "Papel kraft de lujo",
+      "Cinta de raso",
+      "Tarjeta dedicatoria",
+      "Conservante floral"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 304,
+    "reviews": [
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "fresco",
+      "flores",
+      "romántico",
+      "elegante",
+      "regalo"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional"
+    ],
+    "benefits": [
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/7ebedd55fb7c.png",
+      "https://sfile.chatglm.cn/images-ppt/3564ef6bd7e6.jpg",
+      "https://sfile.chatglm.cn/images-ppt/0fb528b3446e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/156910cb7885.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a977604d2f79.jpg"
+    ]
+  },
+  {
+    "id": "los-huevos-del-chef-servidos-en-su-cama",
+    "name": "Los huevos del chef servidos en su cama",
+    "category": "desayunos",
+    "categoryLabel": "Desayunos",
+    "emoji": "🎂",
+    "price": 139900,
+    "shortDescription": "Desayuno especial los huevos del chef servidos en su cama con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "Los huevos del chef servidos en su cama es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial los huevos del chef servidos en su cama con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Jugo natural",
+      "Café premium",
+      "Pan artesanal",
+      "Fruta fresca",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 84,
+    "reviews": [
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "domicilio",
+      "mañana",
+      "gourmet",
+      "bogotá",
+      "entrega"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos"
+    ],
+    "benefits": [
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/3817b1fbf962.jpg",
+      "https://sfile.chatglm.cn/images-ppt/695a2983d6ab.jpg",
+      "https://sfile.chatglm.cn/images-ppt/dd7865fd67f5.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b78f0a8e646d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/5d505b2f5f87.jpg"
+    ]
+  },
+  {
+    "id": "el-rose-gold-que-eleva-la-elegancia",
+    "name": "El rosé gold que eleva la elegancia",
+    "category": "globos",
+    "categoryLabel": "Globos",
+    "emoji": "🎈",
+    "price": 109900,
+    "shortDescription": "Decoración con globos el rosé gold que eleva la elegancia de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "El rosé gold que eleva la elegancia es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el rosé gold que eleva la elegancia de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Globos látex premium",
+      "Globos foil",
+      "Helio incluido",
+      "Cinta y lazo",
+      "Soporte decorativo"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 184,
+    "reviews": [
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "helio",
+      "decoración",
+      "fiesta",
+      "cumpleaños",
+      "celebración"
+    ],
+    "badge": "Favorito",
+    "customizable": false,
+    "features": [
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional"
+    ],
+    "benefits": [
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/952be067f9ca.jpg",
+      "https://sfile.chatglm.cn/images-ppt/86424a29b51e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/976cf7b56542.jpg",
+      "https://sfile.chatglm.cn/images-ppt/829c3e51f03d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/83ff4dc69c2f.jpg"
+    ]
+  },
+  {
+    "id": "el-chocolate-que-conquista-el-cumpleanos",
+    "name": "El chocolate que conquista el cumpleaños",
+    "category": "cumpleanos",
+    "categoryLabel": "Cumpleaños",
+    "emoji": "🎁",
+    "price": 114900,
+    "shortDescription": "Celebra con el chocolate que conquista el cumpleaños, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "El chocolate que conquista el cumpleaños es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el chocolate que conquista el cumpleaños, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto principal",
+      "Velas de cumpleaños",
+      "Tarjeta dedicatoria",
+      "Decoración",
+      "Bolsa de regalo"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 284,
+    "reviews": [
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "cumpleaños",
+      "fiesta",
+      "celebración",
+      "torta",
+      "regalo"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos"
+    ],
+    "benefits": [
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/df5bdd29f0d4.jpg",
+      "https://sfile.chatglm.cn/images-ppt/29364b3a2676.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/6b32f71396c6.jpg",
+      "https://sfile.chatglm.cn/images-ppt/58efc4999f0e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/ed4e52e676b4.jpg"
+    ]
+  },
+  {
+    "id": "el-cafe-mananero-de-los-enamorados",
+    "name": "El café mañanero de los enamorados",
+    "category": "aniversarios",
+    "categoryLabel": "Aniversarios",
+    "emoji": "💝",
+    "price": 119900,
+    "shortDescription": "Celebra su aniversario con el café mañanero de los enamorados, una experiencia pensada para parejas.",
+    "fullDescription": "El café mañanero de los enamorados es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el café mañanero de los enamorados, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Experiencia principal",
+      "Detalle romántico",
+      "Tarjeta dedicatoria",
+      "Empaque de lujo",
+      "Velas decorativas"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 384,
+    "reviews": [
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "aniversario",
+      "pareja",
+      "romántico",
+      "amor",
+      "experiencia"
+    ],
+    "badge": "Nuevo",
+    "customizable": false,
+    "features": [
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional"
+    ],
+    "benefits": [
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/7eaabf49e202.jpg",
+      "https://sfile.chatglm.cn/images-ppt/64a8f1f83e29.jpg",
+      "https://sfile.chatglm.cn/images-ppt/4a5786bec221.jpg",
+      "https://sfile.chatglm.cn/images-ppt/dd9fecffc500.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f323ad2fa53f.jpg"
+    ]
+  },
+  {
+    "id": "el-rompecabezas-del-amor-que-arman-juntos",
+    "name": "El rompecabezas del amor que arman juntos",
+    "category": "personalizados",
+    "categoryLabel": "Personalizados",
+    "emoji": "✨",
+    "price": 89900,
+    "shortDescription": "Producto personalizado el rompecabezas del amor que arman juntos con grabado e impresión de alta calidad.",
+    "fullDescription": "El rompecabezas del amor que arman juntos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el rompecabezas del amor que arman juntos con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto personalizado",
+      "Diseño a medida",
+      "Prueba digital",
+      "Caja de regalo",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 164,
+    "reviews": [
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "personalizado",
+      "nombre",
+      "foto",
+      "único",
+      "grabado"
+    ],
+    "badge": "",
+    "customizable": true,
+    "features": [
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos"
+    ],
+    "benefits": [
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/fff4151475dd.jpg",
+      "https://sfile.chatglm.cn/images-ppt/39ec1b59dbaa.jpg",
+      "https://sfile.chatglm.cn/images-ppt/bd316ae41b16.jpg",
+      "https://sfile.chatglm.cn/images-ppt/bfb7242a6c5c.jpg",
+      "https://sfile.chatglm.cn/images-ppt/d3002aa1acc2.jpeg"
+    ]
+  },
+  {
     "id": "el-spa-sorpresa-que-relaja-sin-salir-de-casa",
     "name": "El spa sorpresa que relaja sin salir de casa",
     "category": "sorpresas",
@@ -11639,6 +7859,516 @@ export const PRODUCTS: Product[] = [
       "https://sfile.chatglm.cn/images-ppt/d04ff78460d6.jpg",
       "https://sfile.chatglm.cn/images-ppt/8bf339e2be5a.png",
       "https://sfile.chatglm.cn/images-ppt/18e6fb24cb99.webp"
+    ]
+  },
+  {
+    "id": "un-pedacito-de-australia-para-abrazar",
+    "name": "Un pedacito de Australia para abrazar",
+    "category": "peluches",
+    "categoryLabel": "Peluches",
+    "emoji": "🧸",
+    "price": 89900,
+    "shortDescription": "Peluche premium un pedacito de australia para abrazar con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "Un pedacito de Australia para abrazar es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium un pedacito de australia para abrazar con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Peluche de felpa premium",
+      "Tarjeta dedicatoria",
+      "Bolsa de regalo",
+      "Cinta decorativa"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 241,
+    "reviews": [
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "felpa",
+      "suave",
+      "regalo",
+      "romántico",
+      "tierno"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado"
+    ],
+    "benefits": [
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/eaa58ea98a01.png",
+      "https://sfile.chatglm.cn/images-ppt/901a43c3ca79.jpg",
+      "https://sfile.chatglm.cn/images-ppt/2da583d99fa2.jpg",
+      "https://sfile.chatglm.cn/images-ppt/93d88fd7f922.png",
+      "https://sfile.chatglm.cn/images-ppt/e9d70b581b17.jpeg"
+    ]
+  },
+  {
+    "id": "el-oro-que-trae-el-otono-a-su-vida",
+    "name": "El oro que trae el otoño a su vida",
+    "category": "flores",
+    "categoryLabel": "Flores",
+    "emoji": "🌹",
+    "price": 114900,
+    "shortDescription": "Ramo de flores frescas el oro que trae el otoño a su vida con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El oro que trae el otoño a su vida es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el oro que trae el otoño a su vida con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Arreglo floral fresco",
+      "Papel kraft de lujo",
+      "Cinta de raso",
+      "Tarjeta dedicatoria",
+      "Conservante floral"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 341,
+    "reviews": [
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "fresco",
+      "flores",
+      "romántico",
+      "elegante",
+      "regalo"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD"
+    ],
+    "benefits": [
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/e5669352557d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/bfd77de05148.jpg",
+      "https://sfile.chatglm.cn/images-ppt/28b3bf1db857.jpg",
+      "https://sfile.chatglm.cn/images-ppt/2703eddd2d72.png",
+      "https://sfile.chatglm.cn/images-ppt/3df26094ecee.jpg"
+    ]
+  },
+  {
+    "id": "el-tropico-colombiano-en-su-mesa",
+    "name": "El trópico colombiano en su mesa",
+    "category": "desayunos",
+    "categoryLabel": "Desayunos",
+    "emoji": "🎂",
+    "price": 104900,
+    "shortDescription": "Desayuno especial el trópico colombiano en su mesa con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El trópico colombiano en su mesa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el trópico colombiano en su mesa con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Jugo natural",
+      "Café premium",
+      "Pan artesanal",
+      "Fruta fresca",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 121,
+    "reviews": [
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "domicilio",
+      "mañana",
+      "gourmet",
+      "bogotá",
+      "entrega"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado"
+    ],
+    "benefits": [
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/e99fbd315064.jpg",
+      "https://sfile.chatglm.cn/images-ppt/e83201c56c5a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/99bf9aa48345.jpg",
+      "https://sfile.chatglm.cn/images-ppt/628c7e9d0acc.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/40ef8de0531c.jpg"
+    ]
+  },
+  {
+    "id": "las-letras-que-iluminan-la-fiesta",
+    "name": "Las letras que iluminan la fiesta",
+    "category": "globos",
+    "categoryLabel": "Globos",
+    "emoji": "🎈",
+    "price": 124900,
+    "shortDescription": "Decoración con globos las letras que iluminan la fiesta de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "Las letras que iluminan la fiesta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos las letras que iluminan la fiesta de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Globos látex premium",
+      "Globos foil",
+      "Helio incluido",
+      "Cinta y lazo",
+      "Soporte decorativo"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 221,
+    "reviews": [
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "helio",
+      "decoración",
+      "fiesta",
+      "cumpleaños",
+      "celebración"
+    ],
+    "badge": "",
+    "customizable": true,
+    "features": [
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD"
+    ],
+    "benefits": [
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/ff4368bd8821.jpg",
+      "https://sfile.chatglm.cn/images-ppt/430acffabd9b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/07fa50da7946.jpg",
+      "https://sfile.chatglm.cn/images-ppt/022877b622d5.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1b2f8a2f72bf.jpg"
+    ]
+  },
+  {
+    "id": "el-combo-globos-y-torta-que-lo-tiene-todo",
+    "name": "El combo globos y torta que lo tiene todo",
+    "category": "cumpleanos",
+    "categoryLabel": "Cumpleaños",
+    "emoji": "🎁",
+    "price": 199900,
+    "shortDescription": "Celebra con el combo globos y torta que lo tiene todo, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "El combo globos y torta que lo tiene todo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el combo globos y torta que lo tiene todo, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto principal",
+      "Velas de cumpleaños",
+      "Tarjeta dedicatoria",
+      "Decoración",
+      "Bolsa de regalo"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 321,
+    "reviews": [
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "cumpleaños",
+      "fiesta",
+      "celebración",
+      "torta",
+      "regalo"
+    ],
+    "badge": "Premium",
+    "customizable": false,
+    "features": [
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado"
+    ],
+    "benefits": [
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/6db1590bb470.jpg",
+      "https://sfile.chatglm.cn/images-ppt/7b5aea944a1a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/e83c176b4bc3.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a6d15e42df3d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/70e139633537.jpeg"
+    ]
+  },
+  {
+    "id": "el-si-mas-esperado-con-anillo-y-flores",
+    "name": "El sí más esperado con anillo y flores",
+    "category": "aniversarios",
+    "categoryLabel": "Aniversarios",
+    "emoji": "💝",
+    "price": 259900,
+    "shortDescription": "Celebra su aniversario con el sí más esperado con anillo y flores, una experiencia pensada para parejas.",
+    "fullDescription": "El sí más esperado con anillo y flores es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el sí más esperado con anillo y flores, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Experiencia principal",
+      "Detalle romántico",
+      "Tarjeta dedicatoria",
+      "Empaque de lujo",
+      "Velas decorativas"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 101,
+    "reviews": [
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "aniversario",
+      "pareja",
+      "romántico",
+      "amor",
+      "experiencia"
+    ],
+    "badge": "Premium",
+    "customizable": true,
+    "features": [
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD"
+    ],
+    "benefits": [
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/e16f6151010d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/553ba58f4f91.png",
+      "https://sfile.chatglm.cn/images-ppt/450c3d57c2e4.jpg",
+      "https://sfile.chatglm.cn/images-ppt/3107aaf6dd84.jpg",
+      "https://sfile.chatglm.cn/images-ppt/09da2239f6c6.jpg"
+    ]
+  },
+  {
+    "id": "el-cartel-led-con-su-nombre-en-luz",
+    "name": "El cartel LED con su nombre en luz",
+    "category": "personalizados",
+    "categoryLabel": "Personalizados",
+    "emoji": "✨",
+    "price": 159900,
+    "shortDescription": "Producto personalizado el cartel led con su nombre en luz con grabado e impresión de alta calidad.",
+    "fullDescription": "El cartel LED con su nombre en luz es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el cartel led con su nombre en luz con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto personalizado",
+      "Diseño a medida",
+      "Prueba digital",
+      "Caja de regalo",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 201,
+    "reviews": [
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "personalizado",
+      "nombre",
+      "foto",
+      "único",
+      "grabado"
+    ],
+    "badge": "Premium",
+    "customizable": true,
+    "features": [
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado"
+    ],
+    "benefits": [
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/cebef354cd38.jpg",
+      "https://sfile.chatglm.cn/images-ppt/acf7609bb4a7.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b6d3b863dbdf.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c24689447ffc.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1a5cbd4751bc.jpg"
     ]
   },
   {
@@ -11712,6 +8442,558 @@ export const PRODUCTS: Product[] = [
       "https://sfile.chatglm.cn/images-ppt/83af000cc8f8.png",
       "https://sfile.chatglm.cn/images-ppt/27ab41569243.jpg",
       "https://sfile.chatglm.cn/images-ppt/f67deba603c1.jpg"
+    ]
+  },
+  {
+    "id": "el-astuto-que-robo-su-sonrisa",
+    "name": "El astuto que robó su sonrisa",
+    "category": "peluches",
+    "categoryLabel": "Peluches",
+    "emoji": "🧸",
+    "price": 94900,
+    "shortDescription": "Peluche premium el astuto que robó su sonrisa con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El astuto que robó su sonrisa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el astuto que robó su sonrisa con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Peluche de felpa premium",
+      "Tarjeta dedicatoria",
+      "Bolsa de regalo",
+      "Cinta decorativa"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 278,
+    "reviews": [
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "felpa",
+      "suave",
+      "regalo",
+      "romántico",
+      "tierno"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo"
+    ],
+    "benefits": [
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/0469a264e078.jpg",
+      "https://sfile.chatglm.cn/images-ppt/0cca50e6c799.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1027da1b44fd.webp",
+      "https://sfile.chatglm.cn/images-ppt/d4fbcba57ab6.jpg",
+      "https://sfile.chatglm.cn/images-ppt/56287476c111.jpg"
+    ]
+  },
+  {
+    "id": "el-te-amo-que-nunca-se-marchita",
+    "name": "El te amo que nunca se marchita",
+    "category": "flores",
+    "categoryLabel": "Flores",
+    "emoji": "🌹",
+    "price": 164900,
+    "shortDescription": "Ramo de flores frescas el te amo que nunca se marchita con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El te amo que nunca se marchita es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el te amo que nunca se marchita con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Arreglo floral fresco",
+      "Papel kraft de lujo",
+      "Cinta de raso",
+      "Tarjeta dedicatoria",
+      "Conservante floral"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 378,
+    "reviews": [
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "fresco",
+      "flores",
+      "romántico",
+      "elegante",
+      "regalo"
+    ],
+    "badge": "Premium",
+    "customizable": false,
+    "features": [
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante"
+    ],
+    "benefits": [
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/b4ba50c269fe.jpg",
+      "https://sfile.chatglm.cn/images-ppt/ecb864a08c6c.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b435f3d87185.jpg",
+      "https://sfile.chatglm.cn/images-ppt/6295100efa73.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b1eda1e701ac.png"
+    ]
+  },
+  {
+    "id": "el-domingo-neoyorquino-en-bogota",
+    "name": "El domingo neoyorquino en Bogotá",
+    "category": "desayunos",
+    "categoryLabel": "Desayunos",
+    "emoji": "🎂",
+    "price": 144900,
+    "shortDescription": "Desayuno especial el domingo neoyorquino en bogotá con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El domingo neoyorquino en Bogotá es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el domingo neoyorquino en bogotá con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Jugo natural",
+      "Café premium",
+      "Pan artesanal",
+      "Fruta fresca",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 158,
+    "reviews": [
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "domicilio",
+      "mañana",
+      "gourmet",
+      "bogotá",
+      "entrega"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo"
+    ],
+    "benefits": [
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/3c4d5377d981.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/108956f46065.jpg",
+      "https://sfile.chatglm.cn/images-ppt/53072a56e6a7.jpg",
+      "https://sfile.chatglm.cn/images-ppt/67fda078620e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f8da082eee5f.jpg"
+    ]
+  },
+  {
+    "id": "la-sorpresa-total-que-cubre-el-techo",
+    "name": "La sorpresa total que cubre el techo",
+    "category": "globos",
+    "categoryLabel": "Globos",
+    "emoji": "🎈",
+    "price": 144900,
+    "shortDescription": "Decoración con globos la sorpresa total que cubre el techo de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "La sorpresa total que cubre el techo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la sorpresa total que cubre el techo de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Globos látex premium",
+      "Globos foil",
+      "Helio incluido",
+      "Cinta y lazo",
+      "Soporte decorativo"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 258,
+    "reviews": [
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "helio",
+      "decoración",
+      "fiesta",
+      "cumpleaños",
+      "celebración"
+    ],
+    "badge": "Más vendido",
+    "customizable": false,
+    "features": [
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante"
+    ],
+    "benefits": [
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/821bd8631fab.jpg",
+      "https://sfile.chatglm.cn/images-ppt/18667f01f772.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1059deac84e6.jpg",
+      "https://sfile.chatglm.cn/images-ppt/d947e5102246.jpg",
+      "https://sfile.chatglm.cn/images-ppt/553cd80e071b.jpeg"
+    ]
+  },
+  {
+    "id": "la-vainilla-clasica-de-los-cumpleanos-felices",
+    "name": "La vainilla clásica de los cumpleaños felices",
+    "category": "cumpleanos",
+    "categoryLabel": "Cumpleaños",
+    "emoji": "🎁",
+    "price": 109900,
+    "shortDescription": "Celebra con la vainilla clásica de los cumpleaños felices, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "La vainilla clásica de los cumpleaños felices es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con la vainilla clásica de los cumpleaños felices, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto principal",
+      "Velas de cumpleaños",
+      "Tarjeta dedicatoria",
+      "Decoración",
+      "Bolsa de regalo"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 358,
+    "reviews": [
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "cumpleaños",
+      "fiesta",
+      "celebración",
+      "torta",
+      "regalo"
+    ],
+    "badge": "",
+    "customizable": true,
+    "features": [
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo"
+    ],
+    "benefits": [
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/0267a6657996.jpg",
+      "https://sfile.chatglm.cn/images-ppt/64fc3b5a0d4d.png",
+      "https://sfile.chatglm.cn/images-ppt/83e3e45a464e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c5285656d518.jpg",
+      "https://sfile.chatglm.cn/images-ppt/072a8a069e37.jpg"
+    ]
+  },
+  {
+    "id": "el-picnic-romantico-en-el-parque",
+    "name": "El picnic romántico en el parque",
+    "category": "aniversarios",
+    "categoryLabel": "Aniversarios",
+    "emoji": "💝",
+    "price": 154900,
+    "shortDescription": "Celebra su aniversario con el picnic romántico en el parque, una experiencia pensada para parejas.",
+    "fullDescription": "El picnic romántico en el parque es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el picnic romántico en el parque, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Experiencia principal",
+      "Detalle romántico",
+      "Tarjeta dedicatoria",
+      "Empaque de lujo",
+      "Velas decorativas"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 138,
+    "reviews": [
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "aniversario",
+      "pareja",
+      "romántico",
+      "amor",
+      "experiencia"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante"
+    ],
+    "benefits": [
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/982dbc78ad6e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/ab75aa3eb132.jpg",
+      "https://sfile.chatglm.cn/images-ppt/cc885142c016.jpg",
+      "https://sfile.chatglm.cn/images-ppt/86a33dd60849.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f8bd8d87c1d5.jpg"
+    ]
+  },
+  {
+    "id": "la-ceramica-unica-con-tu-diseno-a-mano",
+    "name": "La cerámica única con tu diseño a mano",
+    "category": "personalizados",
+    "categoryLabel": "Personalizados",
+    "emoji": "✨",
+    "price": 64900,
+    "shortDescription": "Producto personalizado la cerámica única con tu diseño a mano con grabado e impresión de alta calidad.",
+    "fullDescription": "La cerámica única con tu diseño a mano es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la cerámica única con tu diseño a mano con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto personalizado",
+      "Diseño a medida",
+      "Prueba digital",
+      "Caja de regalo",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 238,
+    "reviews": [
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "personalizado",
+      "nombre",
+      "foto",
+      "único",
+      "grabado"
+    ],
+    "badge": "",
+    "customizable": true,
+    "features": [
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo"
+    ],
+    "benefits": [
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/f77be5704426.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b1f6e8d8f0b2.jpg",
+      "https://sfile.chatglm.cn/images-ppt/9d467efdd788.png",
+      "https://sfile.chatglm.cn/images-ppt/1e950d57fa95.jpg",
+      "https://sfile.chatglm.cn/images-ppt/56b787b16b12.jpg"
     ]
   },
   {
@@ -11791,6 +9073,600 @@ export const PRODUCTS: Product[] = [
       "https://sfile.chatglm.cn/images-ppt/4bb544ea26b5.jpg",
       "https://sfile.chatglm.cn/images-ppt/37722bf31468.jpg",
       "https://sfile.chatglm.cn/images-ppt/389282919180.webp"
+    ]
+  },
+  {
+    "id": "el-travieso-que-la-hace-reir-cada-dia",
+    "name": "El travieso que la hace reír cada día",
+    "category": "peluches",
+    "categoryLabel": "Peluches",
+    "emoji": "🧸",
+    "price": 84900,
+    "shortDescription": "Peluche premium el travieso que la hace reír cada día con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El travieso que la hace reír cada día es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el travieso que la hace reír cada día con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Peluche de felpa premium",
+      "Tarjeta dedicatoria",
+      "Bolsa de regalo",
+      "Cinta decorativa"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 315,
+    "reviews": [
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "felpa",
+      "suave",
+      "regalo",
+      "romántico",
+      "tierno"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia"
+    ],
+    "benefits": [
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/2424a489e24f.jpg",
+      "https://sfile.chatglm.cn/images-ppt/95cbc192b040.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/d83964c01f19.jpg",
+      "https://sfile.chatglm.cn/images-ppt/83ed5146c5d1.jpg",
+      "https://sfile.chatglm.cn/images-ppt/4e3848eb7118.jpg"
+    ]
+  },
+  {
+    "id": "los-andes-florecidos-en-su-mesa",
+    "name": "Los Andes florecidos en su mesa",
+    "category": "flores",
+    "categoryLabel": "Flores",
+    "emoji": "🌹",
+    "price": 94900,
+    "shortDescription": "Ramo de flores frescas los andes florecidos en su mesa con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "Los Andes florecidos en su mesa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas los andes florecidos en su mesa con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Arreglo floral fresco",
+      "Papel kraft de lujo",
+      "Cinta de raso",
+      "Tarjeta dedicatoria",
+      "Conservante floral"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 95,
+    "reviews": [
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "fresco",
+      "flores",
+      "romántico",
+      "elegante",
+      "regalo"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero"
+    ],
+    "benefits": [
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/9f170840a97d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/ac907b020736.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1457ca41e87f.jpg",
+      "https://sfile.chatglm.cn/images-ppt/843121631f49.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/b5370db40af6.jpg"
+    ]
+  },
+  {
+    "id": "el-poder-que-da-la-avena-de-la-abuela",
+    "name": "El poder que da la avena de la abuela",
+    "category": "desayunos",
+    "categoryLabel": "Desayunos",
+    "emoji": "🎂",
+    "price": 84900,
+    "shortDescription": "Desayuno especial el poder que da la avena de la abuela con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El poder que da la avena de la abuela es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el poder que da la avena de la abuela con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Jugo natural",
+      "Café premium",
+      "Pan artesanal",
+      "Fruta fresca",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 195,
+    "reviews": [
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "domicilio",
+      "mañana",
+      "gourmet",
+      "bogotá",
+      "entrega"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia"
+    ],
+    "benefits": [
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/0e2acedf4fd1.jpg",
+      "https://sfile.chatglm.cn/images-ppt/18c4a517015d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/25a2e7fba690.jpg",
+      "https://sfile.chatglm.cn/images-ppt/048315e397df.jpg",
+      "https://sfile.chatglm.cn/images-ppt/08739b69923e.jpg"
+    ]
+  },
+  {
+    "id": "el-brillo-metalico-que-deslumbra",
+    "name": "El brillo metálico que deslumbra",
+    "category": "globos",
+    "categoryLabel": "Globos",
+    "emoji": "🎈",
+    "price": 74900,
+    "shortDescription": "Decoración con globos el brillo metálico que deslumbra de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "El brillo metálico que deslumbra es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el brillo metálico que deslumbra de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Globos látex premium",
+      "Globos foil",
+      "Helio incluido",
+      "Cinta y lazo",
+      "Soporte decorativo"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 295,
+    "reviews": [
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "helio",
+      "decoración",
+      "fiesta",
+      "cumpleaños",
+      "celebración"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero"
+    ],
+    "benefits": [
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/2030fa4c3e58.jpg",
+      "https://sfile.chatglm.cn/images-ppt/d67b95c6c796.jpg",
+      "https://sfile.chatglm.cn/images-ppt/825c0e5a8f6d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/4fa4a7698af7.jpg",
+      "https://sfile.chatglm.cn/images-ppt/3a98e52c5230.jpeg"
+    ]
+  },
+  {
+    "id": "peluche-y-torta-el-duo-que-enamora",
+    "name": "Peluche y torta: el dúo que enamora",
+    "category": "cumpleanos",
+    "categoryLabel": "Cumpleaños",
+    "emoji": "🎁",
+    "price": 169900,
+    "shortDescription": "Celebra con peluche y torta: el dúo que enamora, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "Peluche y torta: el dúo que enamora es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con peluche y torta: el dúo que enamora, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto principal",
+      "Velas de cumpleaños",
+      "Tarjeta dedicatoria",
+      "Decoración",
+      "Bolsa de regalo"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 395,
+    "reviews": [
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "cumpleaños",
+      "fiesta",
+      "celebración",
+      "torta",
+      "regalo"
+    ],
+    "badge": "Más vendido",
+    "customizable": false,
+    "features": [
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia"
+    ],
+    "benefits": [
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/80e43d09458e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c393fad50de8.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1ac74d2205f0.jpg",
+      "https://sfile.chatglm.cn/images-ppt/aee2ef7747f1.webp",
+      "https://sfile.chatglm.cn/images-ppt/79bb9bf85e2f.jpg"
+    ]
+  },
+  {
+    "id": "la-cena-mediterranea-para-dos",
+    "name": "La cena mediterránea para dos",
+    "category": "aniversarios",
+    "categoryLabel": "Aniversarios",
+    "emoji": "💝",
+    "price": 234900,
+    "shortDescription": "Celebra su aniversario con la cena mediterránea para dos, una experiencia pensada para parejas.",
+    "fullDescription": "La cena mediterránea para dos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con la cena mediterránea para dos, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Experiencia principal",
+      "Detalle romántico",
+      "Tarjeta dedicatoria",
+      "Empaque de lujo",
+      "Velas decorativas"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 175,
+    "reviews": [
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "aniversario",
+      "pareja",
+      "romántico",
+      "amor",
+      "experiencia"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero"
+    ],
+    "benefits": [
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/4fc8cf264953.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f180b958940c.jpg",
+      "https://sfile.chatglm.cn/images-ppt/55c037d3ab31.jpg",
+      "https://sfile.chatglm.cn/images-ppt/5b87d47fa62d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c109c355a3c1.jpg"
+    ]
+  },
+  {
+    "id": "la-agenda-2025-con-su-nombre-en-la-portada",
+    "name": "La agenda 2025 con su nombre en la portada",
+    "category": "personalizados",
+    "categoryLabel": "Personalizados",
+    "emoji": "✨",
+    "price": 94900,
+    "shortDescription": "Producto personalizado la agenda 2025 con su nombre en la portada con grabado e impresión de alta calidad.",
+    "fullDescription": "La agenda 2025 con su nombre en la portada es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la agenda 2025 con su nombre en la portada con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto personalizado",
+      "Diseño a medida",
+      "Prueba digital",
+      "Caja de regalo",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 275,
+    "reviews": [
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "personalizado",
+      "nombre",
+      "foto",
+      "único",
+      "grabado"
+    ],
+    "badge": "",
+    "customizable": true,
+    "features": [
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia"
+    ],
+    "benefits": [
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/0936dc0f0678.jpg",
+      "https://sfile.chatglm.cn/images-ppt/d6deb4fa2a0e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f2b6e6da9566.jpg",
+      "https://sfile.chatglm.cn/images-ppt/7b529e4a9fe8.jpg",
+      "https://sfile.chatglm.cn/images-ppt/16951ae1bbbf.jpg"
     ]
   },
   {
@@ -11879,6 +9755,474 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
+    "id": "el-corcel-de-sus-suenos-de-nina",
+    "name": "El corcel de sus sueños de niña",
+    "category": "peluches",
+    "categoryLabel": "Peluches",
+    "emoji": "🧸",
+    "price": 134900,
+    "shortDescription": "Peluche premium el corcel de sus sueños de niña con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El corcel de sus sueños de niña es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el corcel de sus sueños de niña con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Peluche de felpa premium",
+      "Tarjeta dedicatoria",
+      "Bolsa de regalo",
+      "Cinta decorativa"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 352,
+    "reviews": [
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "felpa",
+      "suave",
+      "regalo",
+      "romántico",
+      "tierno"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional"
+    ],
+    "benefits": [
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/291639327880.jpg",
+      "https://sfile.chatglm.cn/images-ppt/62b4fc399812.jpg",
+      "https://sfile.chatglm.cn/images-ppt/2e16a8a953c7.jpg",
+      "https://sfile.chatglm.cn/images-ppt/5c419d391a1f.jpg",
+      "https://sfile.chatglm.cn/images-ppt/16ed24f93012.jpg"
+    ]
+  },
+  {
+    "id": "el-corazon-que-late-rojo-intenso",
+    "name": "El corazón que late rojo intenso",
+    "category": "flores",
+    "categoryLabel": "Flores",
+    "emoji": "🌹",
+    "price": 154900,
+    "shortDescription": "Ramo de flores frescas el corazón que late rojo intenso con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El corazón que late rojo intenso es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el corazón que late rojo intenso con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Arreglo floral fresco",
+      "Papel kraft de lujo",
+      "Cinta de raso",
+      "Tarjeta dedicatoria",
+      "Conservante floral"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 132,
+    "reviews": [
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "fresco",
+      "flores",
+      "romántico",
+      "elegante",
+      "regalo"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos"
+    ],
+    "benefits": [
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/0422f20293e1.jpg",
+      "https://sfile.chatglm.cn/images-ppt/7b455d6a3f21.jpg",
+      "https://sfile.chatglm.cn/images-ppt/964a50cb51e6.jpg",
+      "https://sfile.chatglm.cn/images-ppt/adac82b38165.jpg",
+      "https://sfile.chatglm.cn/images-ppt/7ac7345de4c7.jpg"
+    ]
+  },
+  {
+    "id": "el-desayuno-para-enamorarla-de-nuevo",
+    "name": "El desayuno para enamorarla de nuevo",
+    "category": "desayunos",
+    "categoryLabel": "Desayunos",
+    "emoji": "🎂",
+    "price": 169900,
+    "shortDescription": "Desayuno especial el desayuno para enamorarla de nuevo con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El desayuno para enamorarla de nuevo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el desayuno para enamorarla de nuevo con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Jugo natural",
+      "Café premium",
+      "Pan artesanal",
+      "Fruta fresca",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 232,
+    "reviews": [
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "domicilio",
+      "mañana",
+      "gourmet",
+      "bogotá",
+      "entrega"
+    ],
+    "badge": "Más vendido",
+    "customizable": true,
+    "features": [
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional"
+    ],
+    "benefits": [
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/dd7865fd67f5.jpg",
+      "https://sfile.chatglm.cn/images-ppt/d305a8df11b4.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/14133150b31f.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1dc357b450c3.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b967a9e38f6b.jpg"
+    ]
+  },
+  {
+    "id": "el-gigante-del-cielo-que-impacta",
+    "name": "El gigante del cielo que impacta",
+    "category": "globos",
+    "categoryLabel": "Globos",
+    "emoji": "🎈",
+    "price": 164900,
+    "shortDescription": "Decoración con globos el gigante del cielo que impacta de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "El gigante del cielo que impacta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el gigante del cielo que impacta de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Globos látex premium",
+      "Globos foil",
+      "Helio incluido",
+      "Cinta y lazo",
+      "Soporte decorativo"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 332,
+    "reviews": [
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "helio",
+      "decoración",
+      "fiesta",
+      "cumpleaños",
+      "celebración"
+    ],
+    "badge": "Premium",
+    "customizable": false,
+    "features": [
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos"
+    ],
+    "benefits": [
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/f16a76e2b223.jpg",
+      "https://sfile.chatglm.cn/images-ppt/196965b72070.jpg",
+      "https://sfile.chatglm.cn/images-ppt/fa3d79730493.jpg",
+      "https://sfile.chatglm.cn/images-ppt/0218fc9529ee.jpg",
+      "https://sfile.chatglm.cn/images-ppt/6ab0e72c0dc4.jpg"
+    ]
+  },
+  {
+    "id": "las-velas-que-cumplen-los-deseos",
+    "name": "Las velas que cumplen los deseos",
+    "category": "cumpleanos",
+    "categoryLabel": "Cumpleaños",
+    "emoji": "🎁",
+    "price": 59900,
+    "shortDescription": "Celebra con las velas que cumplen los deseos, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "Las velas que cumplen los deseos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con las velas que cumplen los deseos, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto principal",
+      "Velas de cumpleaños",
+      "Tarjeta dedicatoria",
+      "Decoración",
+      "Bolsa de regalo"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 112,
+    "reviews": [
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "cumpleaños",
+      "fiesta",
+      "celebración",
+      "torta",
+      "regalo"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional"
+    ],
+    "benefits": [
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/a111fbcdf0b1.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c03b84109179.jpg",
+      "https://sfile.chatglm.cn/images-ppt/72a5189d07bd.jpg",
+      "https://sfile.chatglm.cn/images-ppt/8591b7823154.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b7332b82be61.jpeg"
+    ]
+  },
+  {
+    "id": "el-aniversario-a-distancia-que-los-acerca",
+    "name": "El aniversario a distancia que los acerca",
+    "category": "aniversarios",
+    "categoryLabel": "Aniversarios",
+    "emoji": "💝",
+    "price": 139900,
+    "shortDescription": "Celebra su aniversario con el aniversario a distancia que los acerca, una experiencia pensada para parejas.",
+    "fullDescription": "El aniversario a distancia que los acerca es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el aniversario a distancia que los acerca, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Experiencia principal",
+      "Detalle romántico",
+      "Tarjeta dedicatoria",
+      "Empaque de lujo",
+      "Velas decorativas"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 212,
+    "reviews": [
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "aniversario",
+      "pareja",
+      "romántico",
+      "amor",
+      "experiencia"
+    ],
+    "badge": "Nuevo",
+    "customizable": false,
+    "features": [
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos"
+    ],
+    "benefits": [
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/1f4bf09d769c.jpg",
+      "https://sfile.chatglm.cn/images-ppt/71ca00b38576.jpg",
+      "https://sfile.chatglm.cn/images-ppt/0d4fa1db74c2.jpg",
+      "https://sfile.chatglm.cn/images-ppt/2b1937ef2e4f.png",
+      "https://sfile.chatglm.cn/images-ppt/6c056bb92d90.png"
+    ]
+  },
+  {
+    "id": "la-caja-grande-que-guarda-toda-su-historia",
+    "name": "La caja grande que guarda toda su historia",
+    "category": "personalizados",
+    "categoryLabel": "Personalizados",
+    "emoji": "✨",
+    "price": 179900,
+    "shortDescription": "Producto personalizado la caja grande que guarda toda su historia con grabado e impresión de alta calidad.",
+    "fullDescription": "La caja grande que guarda toda su historia es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la caja grande que guarda toda su historia con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto personalizado",
+      "Diseño a medida",
+      "Prueba digital",
+      "Caja de regalo",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 312,
+    "reviews": [
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "personalizado",
+      "nombre",
+      "foto",
+      "único",
+      "grabado"
+    ],
+    "badge": "Más vendido",
+    "customizable": true,
+    "features": [
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional"
+    ],
+    "benefits": [
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/211c44e447bc.jpg",
+      "https://sfile.chatglm.cn/images-ppt/6ab3b3241f06.jpg",
+      "https://sfile.chatglm.cn/images-ppt/de106f065e3f.jpg",
+      "https://sfile.chatglm.cn/images-ppt/6392b75a76b6.jpg",
+      "https://sfile.chatglm.cn/images-ppt/bbc28a4aa401.png"
+    ]
+  },
+  {
     "id": "el-vino-y-quesos-para-la-noche-perfecta",
     "name": "El vino y quesos para la noche perfecta",
     "category": "sorpresas",
@@ -11943,6 +10287,516 @@ export const PRODUCTS: Product[] = [
       "https://sfile.chatglm.cn/images-ppt/0e4ce6118eec.jpg",
       "https://sfile.chatglm.cn/images-ppt/fd2f6f2d3158.jpg",
       "https://sfile.chatglm.cn/images-ppt/e8096263ee97.jpg"
+    ]
+  },
+  {
+    "id": "el-dinosaurio-mas-tierno-del-jurasico",
+    "name": "El dinosaurio más tierno del jurásico",
+    "category": "peluches",
+    "categoryLabel": "Peluches",
+    "emoji": "🧸",
+    "price": 104900,
+    "shortDescription": "Peluche premium el dinosaurio más tierno del jurásico con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El dinosaurio más tierno del jurásico es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el dinosaurio más tierno del jurásico con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Peluche de felpa premium",
+      "Tarjeta dedicatoria",
+      "Bolsa de regalo",
+      "Cinta decorativa"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 389,
+    "reviews": [
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "felpa",
+      "suave",
+      "regalo",
+      "romántico",
+      "tierno"
+    ],
+    "badge": "Favorito",
+    "customizable": true,
+    "features": [
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD"
+    ],
+    "benefits": [
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/0d2cc7152dc5.jpg",
+      "https://sfile.chatglm.cn/images-ppt/24747a82fb1d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/6a7775a57f4e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1840d0c42b12.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/3e9fefe1b530.jpg"
+    ]
+  },
+  {
+    "id": "la-alegria-multicolor-de-quererte",
+    "name": "La alegría multicolor de quererte",
+    "category": "flores",
+    "categoryLabel": "Flores",
+    "emoji": "🌹",
+    "price": 104900,
+    "shortDescription": "Ramo de flores frescas la alegría multicolor de quererte con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "La alegría multicolor de quererte es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas la alegría multicolor de quererte con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Arreglo floral fresco",
+      "Papel kraft de lujo",
+      "Cinta de raso",
+      "Tarjeta dedicatoria",
+      "Conservante floral"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 169,
+    "reviews": [
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "fresco",
+      "flores",
+      "romántico",
+      "elegante",
+      "regalo"
+    ],
+    "badge": "Favorito",
+    "customizable": false,
+    "features": [
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado"
+    ],
+    "benefits": [
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/d9874d0be311.jpg",
+      "https://sfile.chatglm.cn/images-ppt/899b79ac661f.jpg",
+      "https://sfile.chatglm.cn/images-ppt/45caa7c88923.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a9aa637d7fb4.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f4951493a7d7.jpg"
+    ]
+  },
+  {
+    "id": "el-brunch-del-fin-de-semana-sin-salir",
+    "name": "El brunch del fin de semana sin salir",
+    "category": "desayunos",
+    "categoryLabel": "Desayunos",
+    "emoji": "🎂",
+    "price": 154900,
+    "shortDescription": "Desayuno especial el brunch del fin de semana sin salir con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El brunch del fin de semana sin salir es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el brunch del fin de semana sin salir con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Jugo natural",
+      "Café premium",
+      "Pan artesanal",
+      "Fruta fresca",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 269,
+    "reviews": [
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "domicilio",
+      "mañana",
+      "gourmet",
+      "bogotá",
+      "entrega"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD"
+    ],
+    "benefits": [
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/3e85aa4d138c.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c713f78b10fa.jpg",
+      "https://sfile.chatglm.cn/images-ppt/9eecd1ed8eb8.jpg",
+      "https://sfile.chatglm.cn/images-ppt/15dc99716b5b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1a885f9e2150.jpg"
+    ]
+  },
+  {
+    "id": "la-burbuja-magica-que-atrapa-la-mirada",
+    "name": "La burbuja mágica que atrapa la mirada",
+    "category": "globos",
+    "categoryLabel": "Globos",
+    "emoji": "🎈",
+    "price": 94900,
+    "shortDescription": "Decoración con globos la burbuja mágica que atrapa la mirada de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "La burbuja mágica que atrapa la mirada es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la burbuja mágica que atrapa la mirada de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Globos látex premium",
+      "Globos foil",
+      "Helio incluido",
+      "Cinta y lazo",
+      "Soporte decorativo"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 369,
+    "reviews": [
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "helio",
+      "decoración",
+      "fiesta",
+      "cumpleaños",
+      "celebración"
+    ],
+    "badge": "Nuevo",
+    "customizable": false,
+    "features": [
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado"
+    ],
+    "benefits": [
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/d8325845ed1c.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a9d907a0b30b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a30f760e2796.jpg",
+      "https://sfile.chatglm.cn/images-ppt/e9715df9876b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/449925b0d69c.jpg"
+    ]
+  },
+  {
+    "id": "la-zanahoria-artesanal-del-cumpleanos-especial",
+    "name": "La zanahoria artesanal del cumpleaños especial",
+    "category": "cumpleanos",
+    "categoryLabel": "Cumpleaños",
+    "emoji": "🎁",
+    "price": 124900,
+    "shortDescription": "Celebra con la zanahoria artesanal del cumpleaños especial, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "La zanahoria artesanal del cumpleaños especial es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con la zanahoria artesanal del cumpleaños especial, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto principal",
+      "Velas de cumpleaños",
+      "Tarjeta dedicatoria",
+      "Decoración",
+      "Bolsa de regalo"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 149,
+    "reviews": [
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "cumpleaños",
+      "fiesta",
+      "celebración",
+      "torta",
+      "regalo"
+    ],
+    "badge": "Nuevo",
+    "customizable": true,
+    "features": [
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD"
+    ],
+    "benefits": [
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/6c7debd10a0a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/78bf09d06ce7.jpg",
+      "https://sfile.chatglm.cn/images-ppt/0537aa4c60c4.jpg",
+      "https://sfile.chatglm.cn/images-ppt/0ba7ccd86258.jpg",
+      "https://sfile.chatglm.cn/images-ppt/4e857e812910.jpg"
+    ]
+  },
+  {
+    "id": "velas-aromaticas-y-vino-la-noche-perfecta",
+    "name": "Velas aromáticas y vino: la noche perfecta",
+    "category": "aniversarios",
+    "categoryLabel": "Aniversarios",
+    "emoji": "💝",
+    "price": 124900,
+    "shortDescription": "Celebra su aniversario con velas aromáticas y vino: la noche perfecta, una experiencia pensada para parejas.",
+    "fullDescription": "Velas aromáticas y vino: la noche perfecta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con velas aromáticas y vino: la noche perfecta, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Experiencia principal",
+      "Detalle romántico",
+      "Tarjeta dedicatoria",
+      "Empaque de lujo",
+      "Velas decorativas"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 249,
+    "reviews": [
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "aniversario",
+      "pareja",
+      "romántico",
+      "amor",
+      "experiencia"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Acabado mate elegante",
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado"
+    ],
+    "benefits": [
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/faeca602d653.png",
+      "https://sfile.chatglm.cn/images-ppt/7754fe81acb9.png",
+      "https://sfile.chatglm.cn/images-ppt/4eee24e44e3a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f59cf35a5d15.jpg",
+      "https://sfile.chatglm.cn/images-ppt/4c550ee8ecaf.jpeg"
+    ]
+  },
+  {
+    "id": "el-mapa-estelar-de-la-noche-que-se-conocieron",
+    "name": "El mapa estelar de la noche que se conocieron",
+    "category": "personalizados",
+    "categoryLabel": "Personalizados",
+    "emoji": "✨",
+    "price": 109900,
+    "shortDescription": "Producto personalizado el mapa estelar de la noche que se conocieron con grabado e impresión de alta calidad.",
+    "fullDescription": "El mapa estelar de la noche que se conocieron es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el mapa estelar de la noche que se conocieron con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto personalizado",
+      "Diseño a medida",
+      "Prueba digital",
+      "Caja de regalo",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 349,
+    "reviews": [
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "personalizado",
+      "nombre",
+      "foto",
+      "único",
+      "grabado"
+    ],
+    "badge": "Nuevo",
+    "customizable": true,
+    "features": [
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD"
+    ],
+    "benefits": [
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/593747e116b9.jpg",
+      "https://sfile.chatglm.cn/images-ppt/7c8ee3e6ccff.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f0c6aa98f35a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/e8df8c394add.jpg",
+      "https://sfile.chatglm.cn/images-ppt/0c031f6d34c5.jpg"
     ]
   },
   {
@@ -12016,6 +10870,558 @@ export const PRODUCTS: Product[] = [
       "https://sfile.chatglm.cn/images-ppt/f0899cd6ae48.jpg",
       "https://sfile.chatglm.cn/images-ppt/3cae8c2bf183.png",
       "https://sfile.chatglm.cn/images-ppt/2a9964bf6233.jpg"
+    ]
+  },
+  {
+    "id": "la-felicidad-con-patitas",
+    "name": "La felicidad con patitas",
+    "category": "peluches",
+    "categoryLabel": "Peluches",
+    "emoji": "🧸",
+    "price": 74900,
+    "shortDescription": "Peluche premium la felicidad con patitas con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "La felicidad con patitas es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium la felicidad con patitas con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Peluche de felpa premium",
+      "Tarjeta dedicatoria",
+      "Bolsa de regalo",
+      "Cinta decorativa"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 106,
+    "reviews": [
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "felpa",
+      "suave",
+      "regalo",
+      "romántico",
+      "tierno"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante"
+    ],
+    "benefits": [
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/2d40a0c06b57.jpg",
+      "https://sfile.chatglm.cn/images-ppt/288e653b13aa.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1d130fbb0056.jpg",
+      "https://sfile.chatglm.cn/images-ppt/8cffa34eefde.jpg",
+      "https://sfile.chatglm.cn/images-ppt/dc803f6234a5.jpg"
+    ]
+  },
+  {
+    "id": "el-arcoiris-de-tu-amor-en-petalos",
+    "name": "El arcoíris de tu amor en pétalos",
+    "category": "flores",
+    "categoryLabel": "Flores",
+    "emoji": "🌹",
+    "price": 174900,
+    "shortDescription": "Ramo de flores frescas el arcoíris de tu amor en pétalos con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El arcoíris de tu amor en pétalos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el arcoíris de tu amor en pétalos con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Arreglo floral fresco",
+      "Papel kraft de lujo",
+      "Cinta de raso",
+      "Tarjeta dedicatoria",
+      "Conservante floral"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 206,
+    "reviews": [
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "fresco",
+      "flores",
+      "romántico",
+      "elegante",
+      "regalo"
+    ],
+    "badge": "Nuevo",
+    "customizable": true,
+    "features": [
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo"
+    ],
+    "benefits": [
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/2a73acdad3fb.jpg",
+      "https://sfile.chatglm.cn/images-ppt/9139c6a6f2be.webp",
+      "https://sfile.chatglm.cn/images-ppt/27cf4456272d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/13f54c896aae.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a387647014fb.webp"
+    ]
+  },
+  {
+    "id": "la-aventura-matutina-de-los-pequenos",
+    "name": "La aventura matutina de los pequeños",
+    "category": "desayunos",
+    "categoryLabel": "Desayunos",
+    "emoji": "🎂",
+    "price": 94900,
+    "shortDescription": "Desayuno especial la aventura matutina de los pequeños con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "La aventura matutina de los pequeños es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial la aventura matutina de los pequeños con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Jugo natural",
+      "Café premium",
+      "Pan artesanal",
+      "Fruta fresca",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 306,
+    "reviews": [
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "domicilio",
+      "mañana",
+      "gourmet",
+      "bogotá",
+      "entrega"
+    ],
+    "badge": "Favorito",
+    "customizable": false,
+    "features": [
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante"
+    ],
+    "benefits": [
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/34b08e04436c.jpg",
+      "https://sfile.chatglm.cn/images-ppt/59cff464ff2a.jpg",
+      "https://sfile.chatglm.cn/images-ppt/5417a8c3fea4.jpg",
+      "https://sfile.chatglm.cn/images-ppt/fc801d40021d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/28ca5055e4e1.jpg"
+    ]
+  },
+  {
+    "id": "la-graduacion-que-flota-en-colores",
+    "name": "La graduación que flota en colores",
+    "category": "globos",
+    "categoryLabel": "Globos",
+    "emoji": "🎈",
+    "price": 189900,
+    "shortDescription": "Decoración con globos la graduación que flota en colores de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "La graduación que flota en colores es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la graduación que flota en colores de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Globos látex premium",
+      "Globos foil",
+      "Helio incluido",
+      "Cinta y lazo",
+      "Soporte decorativo"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 86,
+    "reviews": [
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "helio",
+      "decoración",
+      "fiesta",
+      "cumpleaños",
+      "celebración"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo"
+    ],
+    "benefits": [
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/5347e63ba593.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/c010d805d86f.jpg",
+      "https://sfile.chatglm.cn/images-ppt/46a767a1efad.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a975b1ffe7f7.jpg",
+      "https://sfile.chatglm.cn/images-ppt/685141bbacdc.jpg"
+    ]
+  },
+  {
+    "id": "flores-y-torta-el-regalo-completo",
+    "name": "Flores y torta: el regalo completo",
+    "category": "cumpleanos",
+    "categoryLabel": "Cumpleaños",
+    "emoji": "🎁",
+    "price": 184900,
+    "shortDescription": "Celebra con flores y torta: el regalo completo, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "Flores y torta: el regalo completo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con flores y torta: el regalo completo, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto principal",
+      "Velas de cumpleaños",
+      "Tarjeta dedicatoria",
+      "Decoración",
+      "Bolsa de regalo"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 186,
+    "reviews": [
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "cumpleaños",
+      "fiesta",
+      "celebración",
+      "torta",
+      "regalo"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante"
+    ],
+    "benefits": [
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/b10fa4b407cd.jpg",
+      "https://sfile.chatglm.cn/images-ppt/50204a25d43d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/40c69292383e.jpg",
+      "https://sfile.chatglm.cn/images-ppt/63e58da4e916.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c3e1ca163e0b.png"
+    ]
+  },
+  {
+    "id": "bodas-de-oro-medio-siglo-de-amor",
+    "name": "Bodas de oro: medio siglo de amor",
+    "category": "aniversarios",
+    "categoryLabel": "Aniversarios",
+    "emoji": "💝",
+    "price": 279900,
+    "shortDescription": "Celebra su aniversario con bodas de oro: medio siglo de amor, una experiencia pensada para parejas.",
+    "fullDescription": "Bodas de oro: medio siglo de amor es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con bodas de oro: medio siglo de amor, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Experiencia principal",
+      "Detalle romántico",
+      "Tarjeta dedicatoria",
+      "Empaque de lujo",
+      "Velas decorativas"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 286,
+    "reviews": [
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "aniversario",
+      "pareja",
+      "romántico",
+      "amor",
+      "experiencia"
+    ],
+    "badge": "Premium",
+    "customizable": true,
+    "features": [
+      "Resistente y duradero",
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo"
+    ],
+    "benefits": [
+      "Conecta con quien amas",
+      "Sorpresa garantizada",
+      "Recuerdo inolvidable",
+      "Diseño único en su clase"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/52935132985d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f10561ddf6a6.jpg",
+      "https://sfile.chatglm.cn/images-ppt/50a733307f82.jpg",
+      "https://sfile.chatglm.cn/images-ppt/8d06445e3a73.jpg",
+      "https://sfile.chatglm.cn/images-ppt/5920c8e61222.jpeg"
+    ]
+  },
+  {
+    "id": "la-bolsa-estampada-con-su-mejor-sonrisa",
+    "name": "La bolsa estampada con su mejor sonrisa",
+    "category": "personalizados",
+    "categoryLabel": "Personalizados",
+    "emoji": "✨",
+    "price": 69900,
+    "shortDescription": "Producto personalizado la bolsa estampada con su mejor sonrisa con grabado e impresión de alta calidad.",
+    "fullDescription": "La bolsa estampada con su mejor sonrisa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la bolsa estampada con su mejor sonrisa con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto personalizado",
+      "Diseño a medida",
+      "Prueba digital",
+      "Caja de regalo",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 386,
+    "reviews": [
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "personalizado",
+      "nombre",
+      "foto",
+      "único",
+      "grabado"
+    ],
+    "badge": "",
+    "customizable": true,
+    "features": [
+      "Hecho a mano en Colombia",
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante"
+    ],
+    "benefits": [
+      "Recuerdo inolvidable",
+      "Diseño único en su clase",
+      "Conecta con quien amas",
+      "Sorpresa garantizada"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/31f003eaad30.jpg",
+      "https://sfile.chatglm.cn/images-ppt/920823d90bc6.webp",
+      "https://sfile.chatglm.cn/images-ppt/317062da4365.jpg",
+      "https://sfile.chatglm.cn/images-ppt/6ee0029ca4f0.jpg",
+      "https://sfile.chatglm.cn/images-ppt/ce2acbaac2c2.jpg"
     ]
   },
   {
@@ -12095,6 +11501,600 @@ export const PRODUCTS: Product[] = [
       "https://sfile.chatglm.cn/images-ppt/52e3c492a65a.jpg",
       "https://sfile.chatglm.cn/images-ppt/6b007250728d.jpg",
       "https://sfile.chatglm.cn/images-ppt/671f9cc44ec9.jpg"
+    ]
+  },
+  {
+    "id": "el-pinguino-del-polo-que-la-enamoro",
+    "name": "El pingüino del polo que la enamoró",
+    "category": "peluches",
+    "categoryLabel": "Peluches",
+    "emoji": "🧸",
+    "price": 99900,
+    "shortDescription": "Peluche premium el pingüino del polo que la enamoró con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El pingüino del polo que la enamoró es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el pingüino del polo que la enamoró con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Peluche de felpa premium",
+      "Tarjeta dedicatoria",
+      "Bolsa de regalo",
+      "Cinta decorativa"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 143,
+    "reviews": [
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "felpa",
+      "suave",
+      "regalo",
+      "romántico",
+      "tierno"
+    ],
+    "badge": "Nuevo",
+    "customizable": false,
+    "features": [
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero"
+    ],
+    "benefits": [
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/393f0ac1e1ed.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f824213827ee.jpg",
+      "https://sfile.chatglm.cn/images-ppt/e83c6266f1b8.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c9958cc7fca5.jpg",
+      "https://sfile.chatglm.cn/images-ppt/1d42ad8488cc.jpg"
+    ]
+  },
+  {
+    "id": "el-frescor-que-enamora-al-abrir-la-puerta",
+    "name": "El frescor que enamora al abrir la puerta",
+    "category": "flores",
+    "categoryLabel": "Flores",
+    "emoji": "🌹",
+    "price": 144900,
+    "shortDescription": "Ramo de flores frescas el frescor que enamora al abrir la puerta con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El frescor que enamora al abrir la puerta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el frescor que enamora al abrir la puerta con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Arreglo floral fresco",
+      "Papel kraft de lujo",
+      "Cinta de raso",
+      "Tarjeta dedicatoria",
+      "Conservante floral"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 243,
+    "reviews": [
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "fresco",
+      "flores",
+      "romántico",
+      "elegante",
+      "regalo"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia"
+    ],
+    "benefits": [
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/ba1068bb3563.jpg",
+      "https://sfile.chatglm.cn/images-ppt/55b64da35c4c.webp",
+      "https://sfile.chatglm.cn/images-ppt/d43c9da82a83.jpg",
+      "https://sfile.chatglm.cn/images-ppt/e61a0f0bd9b5.jpg",
+      "https://sfile.chatglm.cn/images-ppt/6babff1487bd.jpg"
+    ]
+  },
+  {
+    "id": "las-tostadas-de-la-abuela-en-casa",
+    "name": "Las tostadas de la abuela en casa",
+    "category": "desayunos",
+    "categoryLabel": "Desayunos",
+    "emoji": "🎂",
+    "price": 124900,
+    "shortDescription": "Desayuno especial las tostadas de la abuela en casa con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "Las tostadas de la abuela en casa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial las tostadas de la abuela en casa con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Jugo natural",
+      "Café premium",
+      "Pan artesanal",
+      "Fruta fresca",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 343,
+    "reviews": [
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "domicilio",
+      "mañana",
+      "gourmet",
+      "bogotá",
+      "entrega"
+    ],
+    "badge": "Nuevo",
+    "customizable": false,
+    "features": [
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero"
+    ],
+    "benefits": [
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/14deb4cac2ec.jpg",
+      "https://sfile.chatglm.cn/images-ppt/06ab39d3bf31.jpg",
+      "https://sfile.chatglm.cn/images-ppt/656de91b9e72.jpg",
+      "https://sfile.chatglm.cn/images-ppt/59dbe9d2c9d5.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b3b7faa2b6bc.jpg"
+    ]
+  },
+  {
+    "id": "el-neon-que-enciende-el-festejo",
+    "name": "El neón que enciende el festejo",
+    "category": "globos",
+    "categoryLabel": "Globos",
+    "emoji": "🎈",
+    "price": 59900,
+    "shortDescription": "Decoración con globos el neón que enciende el festejo de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "El neón que enciende el festejo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el neón que enciende el festejo de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Globos látex premium",
+      "Globos foil",
+      "Helio incluido",
+      "Cinta y lazo",
+      "Soporte decorativo"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 123,
+    "reviews": [
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "helio",
+      "decoración",
+      "fiesta",
+      "cumpleaños",
+      "celebración"
+    ],
+    "badge": "",
+    "customizable": true,
+    "features": [
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia"
+    ],
+    "benefits": [
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/a39817f85bc5.jpg",
+      "https://sfile.chatglm.cn/images-ppt/b4f97e4571bd.jpg",
+      "https://sfile.chatglm.cn/images-ppt/06a47f097b53.jpg",
+      "https://sfile.chatglm.cn/images-ppt/eb06df5a7d8b.jpg",
+      "https://sfile.chatglm.cn/images-ppt/c47be6e91f0a.jpg"
+    ]
+  },
+  {
+    "id": "la-fiesta-infantil-que-recordara-toda-la-vida",
+    "name": "La fiesta infantil que recordará toda la vida",
+    "category": "cumpleanos",
+    "categoryLabel": "Cumpleaños",
+    "emoji": "🎁",
+    "price": 139900,
+    "shortDescription": "Celebra con la fiesta infantil que recordará toda la vida, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "La fiesta infantil que recordará toda la vida es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con la fiesta infantil que recordará toda la vida, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto principal",
+      "Velas de cumpleaños",
+      "Tarjeta dedicatoria",
+      "Decoración",
+      "Bolsa de regalo"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 223,
+    "reviews": [
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "cumpleaños",
+      "fiesta",
+      "celebración",
+      "torta",
+      "regalo"
+    ],
+    "badge": "Favorito",
+    "customizable": false,
+    "features": [
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero"
+    ],
+    "benefits": [
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/43c37fbbe591.jpg",
+      "https://sfile.chatglm.cn/images-ppt/091b478206d8.jpeg",
+      "https://sfile.chatglm.cn/images-ppt/cd6c26174c7d.jpg",
+      "https://sfile.chatglm.cn/images-ppt/270edfc1f433.jpg",
+      "https://sfile.chatglm.cn/images-ppt/5823b897c332.jpg"
+    ]
+  },
+  {
+    "id": "el-canvas-del-amor-con-flores",
+    "name": "El canvas del amor con flores",
+    "category": "aniversarios",
+    "categoryLabel": "Aniversarios",
+    "emoji": "💝",
+    "price": 189900,
+    "shortDescription": "Celebra su aniversario con el canvas del amor con flores, una experiencia pensada para parejas.",
+    "fullDescription": "El canvas del amor con flores es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el canvas del amor con flores, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Experiencia principal",
+      "Detalle romántico",
+      "Tarjeta dedicatoria",
+      "Empaque de lujo",
+      "Velas decorativas"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 323,
+    "reviews": [
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      },
+      {
+        "author": "Sebastián O.",
+        "rating": 5,
+        "date": "2025-08-22",
+        "text": "Una experiencia de compra muy profesional. El producto superó mis expectativas."
+      },
+      {
+        "author": "Laura G.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Llegó a tiempo y súper bien presentado. Mi novia quedó encantada, definitivo volveré a comprar."
+      },
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      }
+    ],
+    "tags": [
+      "aniversario",
+      "pareja",
+      "romántico",
+      "amor",
+      "experiencia"
+    ],
+    "badge": "",
+    "customizable": false,
+    "features": [
+      "Certificado libre de tóxicos",
+      "Material premium importado",
+      "Empaque reciclable de lujo",
+      "Hecho a mano en Colombia"
+    ],
+    "benefits": [
+      "Eleva cualquier celebración",
+      "Emoción al instante",
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/49e9f870212f.jpg",
+      "https://sfile.chatglm.cn/images-ppt/2d36e6bb0dec.jpg",
+      "https://sfile.chatglm.cn/images-ppt/2d6816b79e83.jpg",
+      "https://sfile.chatglm.cn/images-ppt/98472c7d37c7.jpg",
+      "https://sfile.chatglm.cn/images-ppt/8e69da2b7d57.png"
+    ]
+  },
+  {
+    "id": "el-acrilico-premium-de-su-mejor-foto",
+    "name": "El acrílico premium de su mejor foto",
+    "category": "personalizados",
+    "categoryLabel": "Personalizados",
+    "emoji": "✨",
+    "price": 169900,
+    "shortDescription": "Producto personalizado el acrílico premium de su mejor foto con grabado e impresión de alta calidad.",
+    "fullDescription": "El acrílico premium de su mejor foto es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el acrílico premium de su mejor foto con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "includes": [
+      "Producto personalizado",
+      "Diseño a medida",
+      "Prueba digital",
+      "Caja de regalo",
+      "Tarjeta dedicatoria"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 103,
+    "reviews": [
+      {
+        "author": "Andrés M.",
+        "rating": 5,
+        "date": "2025-08-30",
+        "text": "La calidad es excelente, se nota que es premium. La entrega fue puntual en Bogotá."
+      },
+      {
+        "author": "Valentina R.",
+        "rating": 4,
+        "date": "2025-10-02",
+        "text": "Muy bonito, tal como en las fotos. Solo sugeriría más opciones de personalización."
+      },
+      {
+        "author": "Camilo P.",
+        "rating": 5,
+        "date": "2025-09-21",
+        "text": "Increíble el detalle y el empaque. Lo pedí sorpresa y fue un éxito total."
+      },
+      {
+        "author": "Diana S.",
+        "rating": 5,
+        "date": "2025-08-15",
+        "text": "Súper recomendado, la relación calidad-precio es muy buena y la atención impecable."
+      },
+      {
+        "author": "Felipe T.",
+        "rating": 4,
+        "date": "2025-10-08",
+        "text": "Buen producto, llegó un poco tarde pero la calidad compensa. Volvería a pedir."
+      },
+      {
+        "author": "Mariana L.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Perfecto para regalar. Los materiales se sienten de primera y el diseño es hermoso."
+      }
+    ],
+    "tags": [
+      "personalizado",
+      "nombre",
+      "foto",
+      "único",
+      "grabado"
+    ],
+    "badge": "Premium",
+    "customizable": true,
+    "features": [
+      "Sellos de calidad internacional",
+      "Tecnología de impresión HD",
+      "Acabado mate elegante",
+      "Resistente y duradero"
+    ],
+    "benefits": [
+      "Ideal para cualquier ocasión",
+      "Genera sonrisas inmediatas",
+      "Eleva cualquier celebración",
+      "Emoción al instante"
+    ],
+    "images": [
+      "https://sfile.chatglm.cn/images-ppt/b28ae0690c15.jpg",
+      "https://sfile.chatglm.cn/images-ppt/f476baf872e7.jpg",
+      "https://sfile.chatglm.cn/images-ppt/69fe84ee19e9.jpg",
+      "https://sfile.chatglm.cn/images-ppt/5dab854780e6.jpg",
+      "https://sfile.chatglm.cn/images-ppt/a473035dd885.png"
     ]
   },
   {
