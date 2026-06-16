@@ -97,5 +97,45 @@ export const IMAGE_POOLS: Record<string, string[]> = {
     "https://sfile.chatglm.cn/images-ppt/d43c9da82a83.jpg",
     "https://sfile.chatglm.cn/images-ppt/e61a0f0bd9b5.jpg",
     "https://sfile.chatglm.cn/images-ppt/6babff1487bd.jpg"
+  ],
+  "emocion-flores": [
+    "https://sfile.chatglm.cn/images-ppt/2b37596c187e.png",
+    "https://sfile.chatglm.cn/images-ppt/1c24ad7df132.jpg",
+    "https://sfile.chatglm.cn/images-ppt/2765fdc1a0a9.jpg",
+    "https://sfile.chatglm.cn/images-ppt/835a98508381.jpg",
+    "https://sfile.chatglm.cn/images-ppt/f2643b4d4b26.jpg",
+    "https://sfile.chatglm.cn/images-ppt/6bb84a68c48d.jpg",
+    "https://sfile.chatglm.cn/images-ppt/fc5c2fd68ea4.jpg",
+    "https://sfile.chatglm.cn/images-ppt/ef8e8e183b6e.jpg"
+  ],
+  "emocion-madre": [
+    "https://sfile.chatglm.cn/images-ppt/38d1de5423e3.jpg",
+    "https://sfile.chatglm.cn/images-ppt/b67ca679841f.jpg",
+    "https://sfile.chatglm.cn/images-ppt/b1e934d67de5.jpg",
+    "https://sfile.chatglm.cn/images-ppt/8fa7884105fa.jpg",
+    "https://sfile.chatglm.cn/images-ppt/f8b9986be498.jpg",
+    "https://sfile.chatglm.cn/images-ppt/22ef29ad9bcb.webp",
+    "https://sfile.chatglm.cn/images-ppt/b774018eb95e.jpg",
+    "https://sfile.chatglm.cn/images-ppt/e38a2a907bc3.jpg"
+  ],
+  "emocion-cumple": [
+    "https://sfile.chatglm.cn/images-ppt/1a27466931c8.jpg",
+    "https://sfile.chatglm.cn/images-ppt/8345cc1228c6.jpg",
+    "https://sfile.chatglm.cn/images-ppt/27661fdd4693.jpg",
+    "https://sfile.chatglm.cn/images-ppt/10bafc2674f2.jpg",
+    "https://sfile.chatglm.cn/images-ppt/1d29e9ebfd47.jpg",
+    "https://sfile.chatglm.cn/images-ppt/de9a7079937d.jpg",
+    "https://sfile.chatglm.cn/images-ppt/26331b739707.jpg",
+    "https://sfile.chatglm.cn/images-ppt/731b1ea454a8.jpg"
+  ],
+  "emocion-romantica": [
+    "https://sfile.chatglm.cn/images-ppt/b5c4d58fc8ac.jpg",
+    "https://sfile.chatglm.cn/images-ppt/1044e9c38177.jpg",
+    "https://sfile.chatglm.cn/images-ppt/e1ee076b1477.png",
+    "https://sfile.chatglm.cn/images-ppt/af44b20a7d68.jpg",
+    "https://sfile.chatglm.cn/images-ppt/95cb90e477c5.png",
+    "https://sfile.chatglm.cn/images-ppt/b6ae9b734f30.jpeg",
+    "https://sfile.chatglm.cn/images-ppt/1dc78eee2786.webp",
+    "https://sfile.chatglm.cn/images-ppt/0b4db1751364.jpg"
   ]
 }

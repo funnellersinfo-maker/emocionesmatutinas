@@ -116,7 +116,11 @@ function CatalogContent() {
           />
         ) : (
           <>
-            <Hero onCategory={selectCategory} onShop={() => document.getElementById('catalogo')?.scrollIntoView({ behavior: 'smooth' })} />
+            <Hero
+              onCategory={selectCategory}
+              onShop={() => document.getElementById('catalogo')?.scrollIntoView({ behavior: 'smooth' })}
+              heroImage={IMAGE_POOLS['emocion-flores']?.[0] || '/hero-cinema.png'}
+            />
             <CategoryStrip active={activeCategory} onSelect={selectCategory} />
             <Momentos onSelectCategory={selectCategory} imagePool={IMAGE_POOLS} />
             <AsiFunciona onShop={() => document.getElementById('catalogo')?.scrollIntoView({ behavior: 'smooth' })} />

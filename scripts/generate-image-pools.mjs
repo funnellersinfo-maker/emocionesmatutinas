@@ -9,6 +9,7 @@ const pools = {}
 const POOL_FILES = [
   'momentos-cumple', 'momentos-aniversario', 'momentos-pedida', 'momentos-madre',
   'flores-1', 'testimonios-1', 'testimonios-2', 'flores-2',
+  'emocion-flores', 'emocion-madre', 'emocion-cumple', 'emocion-romantica',
 ]
 
 for (const key of POOL_FILES) {

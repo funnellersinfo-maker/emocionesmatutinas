@@ -2,37 +2,39 @@
 
 import { motion } from 'framer-motion'
 import Image from 'next/image'
-import { ShoppingBag, Heart, ArrowRight, Sparkles, Quote, Calendar, Palette, MapPin, Truck } from 'lucide-react'
+import { ShoppingBag, Heart, ArrowRight, Sparkles, Calendar, Palette, MapPin, Truck } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { CATEGORIES } from '@/data/products'
 
 interface HeroProps {
   onCategory: (id: string) => void
   onShop: () => void
+  heroImage: string
 }
 
-export function Hero({ onCategory, onShop }: HeroProps) {
+export function Hero({ onCategory, onShop, heroImage }: HeroProps) {
   return (
-    <section className="relative min-h-[88vh] overflow-hidden">
-      {/* Background image with dark pink overlay */}
+    <section className="relative min-h-[92vh] overflow-hidden">
+      {/* Full-bleed emotional photo */}
       <div className="absolute inset-0">
         <Image
-          src="/hero-cinema.png"
-          alt="Regalo premium de Emociones Matutinas emocionando en Bogotá"
+          src={heroImage}
+          alt="Mujer emocionada recibiendo un regalo sorpresa en Bogotá"
           fill
           priority
           sizes="100vw"
           className="object-cover"
         />
-        <div className="absolute inset-0 bg-gradient-to-br from-pink-950/90 via-pink-900/75 to-purple-950/85" />
-        <div className="absolute inset-0 bg-gradient-to-t from-pink-950/80 via-transparent to-pink-950/40" />
+        {/* Gradient overlay for legibility (left-dark for text) */}
+        <div className="absolute inset-0 bg-gradient-to-r from-pink-950/90 via-pink-950/55 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-t from-pink-950/85 via-transparent to-pink-950/30" />
         {/* Decorative blobs */}
         <div className="pointer-events-none absolute -left-20 top-10 h-72 w-72 rounded-full bg-pink-400/20 blur-3xl" />
-        <div className="pointer-events-none absolute right-0 top-20 h-80 w-80 rounded-full bg-fuchsia-400/20 blur-3xl" />
+        <div className="pointer-events-none absolute right-0 bottom-20 h-80 w-80 rounded-full bg-fuchsia-400/15 blur-3xl" />
       </div>
 
-      <div className="relative mx-auto flex min-h-[88vh] max-w-7xl items-center px-4 py-16 sm:px-6 lg:py-20">
-        <div className="max-w-3xl space-y-6 sm:space-y-8">
+      <div className="relative mx-auto flex min-h-[92vh] max-w-7xl items-center px-4 py-16 sm:px-6 lg:py-20">
+        <div className="max-w-2xl space-y-6 sm:space-y-7">
           <motion.div
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
@@ -49,29 +51,28 @@ export function Hero({ onCategory, onShop }: HeroProps) {
           <motion.h1
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6, delay: 0.1 }}
+            transition={{ duration: 0.7, delay: 0.1 }}
             className="text-4xl font-extrabold leading-[1.02] text-white drop-shadow-2xl sm:text-5xl lg:text-6xl xl:text-7xl"
           >
-            No regales cosas.
+            Hoy puedes cambiar
             <br />
-            <span className="bg-gradient-to-r from-pink-300 via-rose-300 to-orange-300 bg-clip-text text-transparent">
-              Regala un recuerdo que nunca olvidará.
-            </span>
+            el día de alguien.{' '}
+            <span className="inline-block animate-float">💝</span>
           </motion.h1>
 
           <motion.p
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6, delay: 0.2 }}
-            className="max-w-2xl text-base text-pink-100/90 drop-shadow sm:text-lg lg:text-xl"
+            transition={{ duration: 0.7, delay: 0.2 }}
+            className="max-w-xl text-base text-pink-100/90 drop-shadow sm:text-lg lg:text-xl"
           >
-            La sorpresa perfecta existe. Y está a solo un clic. Peluches, flores, desayunos y experiencias que llegan al corazón, entregadas hoy en toda Bogotá con dedicatoria gratis.
+            No regales cosas. Regala un recuerdo que nunca olvidará. La sorpresa perfecta existe y está a solo un clic — entregada hoy en toda Bogotá con dedicatoria gratis.
           </motion.p>
 
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6, delay: 0.3 }}
+            transition={{ duration: 0.7, delay: 0.3 }}
             className="flex flex-col gap-3 sm:flex-row"
           >
             <Button
@@ -98,7 +99,7 @@ export function Hero({ onCategory, onShop }: HeroProps) {
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6, delay: 0.4 }}
+            transition={{ duration: 0.7, delay: 0.4 }}
             className="grid max-w-2xl grid-cols-2 gap-2.5 pt-4 sm:grid-cols-4"
           >
             {[

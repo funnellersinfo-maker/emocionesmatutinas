@@ -8,57 +8,48 @@ interface Moment {
   title: string
   subtitle: string
   emoji: string
-  image: string
+  poolKey: string
   categoryId: string
   gradient: string
-  size: 'lg' | 'md' | 'sm'
+  size: 'xl' | 'lg' | 'md'
 }
 
 const MOMENTS: Moment[] = [
   {
-    title: 'Cumpleaños legendarios',
-    subtitle: 'El día que recordará toda la vida',
-    emoji: '🎂',
-    image: '/search-results/momentos-cumple.json',
+    title: 'Una novia recibiendo flores',
+    subtitle: 'El sí que se abre paso entre pétalos',
+    emoji: '🌹',
+    poolKey: 'emocion-flores',
+    categoryId: 'flores',
+    gradient: 'from-pink-700/85 via-pink-800/60 to-transparent',
+    size: 'xl',
+  },
+  {
+    title: 'Una mamá abriendo su caja',
+    subtitle: 'El agradecimiento que se merece',
+    emoji: '🌷',
+    poolKey: 'emocion-madre',
     categoryId: 'cumpleanos',
-    gradient: 'from-rose-600/80 to-pink-700/70',
+    gradient: 'from-orange-600/85 via-rose-700/60 to-transparent',
     size: 'lg',
   },
   {
-    title: 'Aniversarios inolvidables',
-    subtitle: 'Otra vuelta al sol juntos',
+    title: 'Un cumpleaños sorpresa',
+    subtitle: 'El día que recordará toda la vida',
+    emoji: '🎂',
+    poolKey: 'emocion-cumple',
+    categoryId: 'cumpleanos',
+    gradient: 'from-fuchsia-700/85 via-purple-800/60 to-transparent',
+    size: 'lg',
+  },
+  {
+    title: 'Una entrega romántica',
+    subtitle: 'La noche que nunca olvidará',
     emoji: '💝',
-    image: '/search-results/momentos-aniversario.json',
+    poolKey: 'emocion-romantica',
     categoryId: 'aniversarios',
-    gradient: 'from-fuchsia-600/80 to-purple-700/70',
-    size: 'md',
-  },
-  {
-    title: 'Pedidas de mano',
-    subtitle: 'El sí que cambia todo',
-    emoji: '💍',
-    image: '/search-results/momentos-pedida.json',
-    categoryId: 'aniversarios',
-    gradient: 'from-pink-600/80 to-rose-700/70',
-    size: 'md',
-  },
-  {
-    title: 'Día de la madre',
-    subtitle: 'El agradecimiento que se merece',
-    emoji: '🌷',
-    image: '/search-results/momentos-madre.json',
-    categoryId: 'flores',
-    gradient: 'from-orange-500/80 to-pink-600/70',
-    size: 'md',
-  },
-  {
-    title: 'Reconciliaciones',
-    subtitle: 'Volver a empezar con un detalle',
-    emoji: '🤝',
-    image: '/search-results/flores-1.json',
-    categoryId: 'flores',
-    gradient: 'from-violet-600/80 to-fuchsia-700/70',
-    size: 'md',
+    gradient: 'from-rose-700/85 via-pink-800/60 to-transparent',
+    size: 'lg',
   },
 ]
 
@@ -68,16 +59,13 @@ interface MomentosProps {
 }
 
 export function Momentos({ onSelectCategory, imagePool }: MomentosProps) {
-  // Get image per moment from pool (fall back to hero banner)
   const getImg = (m: Moment, idx: number) => {
-    // Derive pool key from the json filename
-    const key = m.image.replace('/search-results/', '').replace('.json', '')
-    const pool = imagePool[key] || imagePool['flores-1'] || []
+    const pool = imagePool[m.poolKey] || imagePool['flores-1'] || []
     return pool[idx % pool.length] || '/hero-cinema.png'
   }
 
   return (
-    <section className="bg-gradient-to-b from-background via-pink-50/30 to-background py-12 sm:py-16">
+    <section className="bg-gradient-to-b from-background via-pink-50/40 to-background py-12 sm:py-16">
       <div className="mx-auto max-w-7xl px-4 sm:px-6">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
@@ -90,14 +78,14 @@ export function Momentos({ onSelectCategory, imagePool }: MomentosProps) {
             <span>✨</span> No productos. Momentos.
           </div>
           <h2 className="mt-3 text-3xl font-bold text-foreground sm:text-4xl lg:text-5xl">
-            ¿Qué momento quieres <span className="bg-gradient-to-r from-pink-600 to-fuchsia-600 bg-clip-text text-transparent">celebrar</span>?
+            ¿Qué momento quieres <span className="bg-gradient-to-r from-pink-600 to-fuchsia-600 bg-clip-text text-transparent">crear</span> hoy?
           </h2>
           <p className="mx-auto mt-3 max-w-2xl text-sm text-muted-foreground sm:text-base">
-            Cada momento tiene su regalo perfecto. Elige el tuyo y nosotros nos encargamos del resto.
+            Imágenes reales de momentos que hemos hecho posibles. Cada uno llegó a tiempo, al corazón.
           </p>
         </motion.div>
 
-        {/* Bento grid of moments */}
+        {/* Bento grid of emotional moments */}
         <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {MOMENTS.map((m, i) => (
             <motion.button
@@ -105,27 +93,29 @@ export function Momentos({ onSelectCategory, imagePool }: MomentosProps) {
               initial={{ opacity: 0, y: 30 }}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
-              transition={{ duration: 0.5, delay: i * 0.1 }}
+              transition={{ duration: 0.6, delay: i * 0.1 }}
               onClick={() => onSelectCategory(m.categoryId)}
               className={`group relative overflow-hidden rounded-3xl text-left shadow-lg transition-all hover:-translate-y-1 hover:shadow-2xl ${
-                m.size === 'lg' ? 'sm:col-span-2 lg:row-span-2' : ''
-              } ${m.size === 'lg' ? 'aspect-[16/10] lg:aspect-[16/12]' : 'aspect-[4/3]'}`}
+                m.size === 'xl' ? 'sm:col-span-2 lg:row-span-2' : ''
+              } ${m.size === 'xl' ? 'aspect-[16/10] lg:aspect-[16/13]' : 'aspect-[4/3]'}`}
             >
               <Image
                 src={getImg(m, i)}
                 alt={m.title}
                 fill
-                sizes={m.size === 'lg' ? '(max-width: 1024px) 100vw, 66vw' : '(max-width: 640px) 100vw, 33vw'}
+                sizes={m.size === 'xl' ? '(max-width: 1024px) 100vw, 66vw' : '(max-width: 640px) 100vw, 33vw'}
                 className="object-cover transition-transform duration-700 group-hover:scale-110"
               />
-              <div className={`absolute inset-0 bg-gradient-to-t ${m.gradient} opacity-90`} />
-              <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
+              <div className={`absolute inset-0 bg-gradient-to-tr ${m.gradient}`} />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
               <div className="absolute inset-0 flex flex-col justify-end p-5 sm:p-6">
-                <span className="mb-2 inline-flex w-fit items-center gap-1.5 rounded-full bg-white/20 px-2.5 py-1 text-xs font-medium text-white backdrop-blur">
+                <span className="mb-2 inline-flex w-fit items-center gap-1.5 rounded-full bg-white/25 px-2.5 py-1 text-xs font-medium text-white backdrop-blur">
                   <span className="text-base">{m.emoji}</span>
                   {m.subtitle}
                 </span>
-                <h3 className={`flex items-end justify-between gap-2 font-bold text-white drop-shadow-lg ${m.size === 'lg' ? 'text-2xl sm:text-3xl lg:text-4xl' : 'text-lg sm:text-xl'}`}>
+                <h3 className={`flex items-end justify-between gap-2 font-bold text-white drop-shadow-lg ${
+                  m.size === 'xl' ? 'text-2xl sm:text-3xl lg:text-4xl' : 'text-lg sm:text-xl'
+                }`}>
                   {m.title}
                   <ArrowRight className="h-5 w-5 shrink-0 translate-x-0 opacity-0 transition-all group-hover:translate-x-1 group-hover:opacity-100" />
                 </h3>
