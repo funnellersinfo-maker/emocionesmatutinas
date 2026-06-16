@@ -132,3 +132,27 @@ Stage Summary:
   - Botón flotante: tooltip "Escríbenos" / "Enviar pedido (N)" con items
 - Mensaje de WhatsApp generado con formato profesional: header, items numerados con subtotales, complementos, bloque de personalización con todos los campos, total, despedida
 - Verificado con Agent Browser: 3 items en carrito generan mensaje correcto con personalizaciones (Para: María José, Dedicatoria: Para el amor de mi vida, Color: Rosado, Mensaje: Gracias por todo, te amo), botón volver arriba funciona (1500 → 0), lint pasa, sin errores
+
+---
+Task ID: 20 (Git push + Cloudflare Pages deploy)
+Agent: main (Z.ai Code)
+Task: Subir código a GitHub + auditoría completa + build estático + deploy a Cloudflare Pages + verificación live.
+
+Work Log:
+- Creé repo GitHub via API: https://github.com/funnellersinfo-maker/emocionesmatutinas
+- Push inicial de todo el código (main branch)
+- Paso 1 Config: next.config.ts cambiado de output:"standalone" a output:"export", images.unoptimized:true, removida key eslint no soportada en Next 16
+- Paso 2 APIs: eliminada carpeta src/app/api/ (route.ts boilerplate Hello World no usado). Verificado: 0 fetch /api, 0 next/server, 0 next/headers, 0 cookies en client components
+- Paso 3 Auditoría componentes: todos OK (Hero con imagen+overlay+framer-motion+CTA hover; ProductGrid con cards completas+WhatsApp dinámico+stagger; Footer con nombre/tel/email/dirección/horarios/redes/break-all; WhatsApp flotante traslúcido+mensaje pre-armado; CartDrawer con checkout WhatsApp verde)
+- Paso 4 Performance: next/image con lazy loading, fuentes Geist con display:swap, tailwind purgado, sin dependencias innecesarias
+- Paso 5 SEO: layout mejorado con metadataBase, og:image (hero-banner.png 1344x768), og:url, og:locale es_CO, twitter card summary_large_image, favicon logo.svg, lang=es, title 49 chars, description 149 chars, 1 solo h1 "Haz sonreír a quien más amas"
+- Paso 6 Build: npx next build exitoso. Refactoricé page.tsx para usar window.location.search en useEffect (en vez de useSearchParams de next/navigation) lo que permite pre-render del contenido principal en el HTML estático. Body text: 6283 chars (antes era 0). out/: 2.7MB, 81 archivos, index.html 12KB
+- Paso 7 Deploy: creé proyecto Cloudflare Pages "emocionesmatutinas" via wrangler, despliegue exitoso de 81 archivos (2.65s upload)
+- Paso 8 Verificación: curl https://emocionesmatutinas.pages.dev/ → HTTP 200, 393KB. HTML contiene: Emociones ✓, title ✓, marquee/proofs (Chapinero, María) ✓, productos (Oso Gigante, Bouquet) ✓, WhatsApp wa.me ✓, og:image ✓, favicon ✓, lang=es ✓, exactamente 1 h1 "Haz sonreír a quien más amas" ✓
+- Commit final + push a GitHub con todos los cambios
+
+Stage Summary:
+- GitHub: https://github.com/funnellersinfo-maker/emocionesmatutinas (2 commits)
+- Cloudflare Pages: https://emocionesmatutinas.pages.dev/ (live, HTTP 200)
+- Build: estático 2.7MB, 81 archivos, SEO completo, contenido pre-renderizado
+- 0 APIs, 0 server-side dependencies, 100% static export
