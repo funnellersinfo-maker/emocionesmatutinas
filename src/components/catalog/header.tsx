@@ -1,6 +1,6 @@
 'use client'
 
-import { Search, ShoppingCart, Menu, Heart, Phone, Star } from 'lucide-react'
+import { Search, ShoppingCart, Menu, Heart, Phone } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Badge } from '@/components/ui/badge'
@@ -32,19 +32,13 @@ export function Header({ activeCategory, onCategory, onHome, search, onSearch, o
           <Menu className="h-5 w-5" />
         </button>
 
-        <button onClick={onHome} className="flex items-center gap-2">
-          <span className="grid h-10 w-10 place-items-center rounded-xl bg-gradient-to-br from-pink-500 to-fuchsia-500 text-lg shadow-md shadow-pink-500/30">
-            💝
+        <button onClick={onHome} className="flex flex-col items-start leading-none">
+          <span className="bg-gradient-to-r from-pink-500 to-orange-400 bg-clip-text text-lg font-extrabold uppercase tracking-tight text-transparent sm:text-xl">
+            Emociones
           </span>
-          <div className="text-left leading-none">
-            <div className="text-base font-extrabold tracking-tight text-foreground sm:text-lg">
-              Emociones<span className="text-pink-600">Matutinas</span>
-            </div>
-            <div className="hidden items-center gap-1 text-[10px] text-muted-foreground sm:flex">
-              <Star className="h-2.5 w-2.5 fill-amber-500 text-amber-500" />
-              <span>Regalos con alma · Bogotá</span>
-            </div>
-          </div>
+          <span className="bg-gradient-to-r from-pink-500 to-orange-400 bg-clip-text text-sm font-bold uppercase tracking-[0.2em] text-transparent sm:text-base">
+            Matutinas
+          </span>
         </button>
 
         {/* Search */}

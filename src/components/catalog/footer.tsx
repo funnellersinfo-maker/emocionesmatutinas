@@ -36,11 +36,13 @@ export function Footer({ onCategory }: FooterProps) {
       <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6">
         <div className="grid gap-8 md:grid-cols-4">
           <div className="md:col-span-1">
-            <div className="flex items-center gap-2">
-              <span className="grid h-10 w-10 place-items-center rounded-xl bg-gradient-to-br from-pink-500 to-fuchsia-500 text-lg">💝</span>
-              <div className="text-base font-extrabold text-white">
-                Emociones<span className="text-pink-400">Matutinas</span>
-              </div>
+            <div className="flex flex-col leading-none">
+              <span className="bg-gradient-to-r from-pink-400 to-orange-300 bg-clip-text text-xl font-extrabold uppercase tracking-tight text-transparent">
+                Emociones
+              </span>
+              <span className="bg-gradient-to-r from-pink-400 to-orange-300 bg-clip-text text-base font-bold uppercase tracking-[0.2em] text-transparent">
+                Matutinas
+              </span>
             </div>
             <p className="mt-3 text-sm text-pink-300/80">
               Hacemos felices a quienes más amas. Regalos, desayunos y sorpresas para cualquier ocasión en Bogotá.
