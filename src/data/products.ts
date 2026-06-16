@@ -43,14 +43,14 @@ export const CATEGORIES = [
 
 export const PRODUCTS: Product[] = [
   {
-    "id": "oso-gigante-carino-premium",
-    "name": "Oso Gigante Cariño Premium",
+    "id": "el-abrazo-que-no-puedes-dar-en-persona",
+    "name": "El abrazo que no puedes dar en persona",
     "category": "peluches",
     "categoryLabel": "Peluches",
     "emoji": "🧸",
     "price": 189900,
-    "shortDescription": "Peluche premium oso gigante cariño premium con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Oso Gigante Cariño Premium es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium oso gigante cariño premium con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Peluche premium el abrazo que no puedes dar en persona con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El abrazo que no puedes dar en persona es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el abrazo que no puedes dar en persona con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Peluche de felpa premium",
       "Tarjeta dedicatoria",
@@ -109,14 +109,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "conejito-dulce-sueno",
-    "name": "Conejito Dulce Sueño",
+    "id": "su-primer-gran-amor-de-felpa",
+    "name": "Su primer gran amor de felpa",
     "category": "peluches",
     "categoryLabel": "Peluches",
     "emoji": "🧸",
     "price": 89900,
-    "shortDescription": "Peluche premium conejito dulce sueño con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Conejito Dulce Sueño es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium conejito dulce sueño con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Peluche premium su primer gran amor de felpa con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "Su primer gran amor de felpa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium su primer gran amor de felpa con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Peluche de felpa premium",
       "Tarjeta dedicatoria",
@@ -181,14 +181,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "unicornio-arcoiris-magico",
-    "name": "Unicornio Arcoíris Mágico",
+    "id": "el-unicornio-que-sono-toda-la-vida",
+    "name": "El unicornio que soñó toda la vida",
     "category": "peluches",
     "categoryLabel": "Peluches",
     "emoji": "🧸",
     "price": 119900,
-    "shortDescription": "Peluche premium unicornio arcoíris mágico con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Unicornio Arcoíris Mágico es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium unicornio arcoíris mágico con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Peluche premium el unicornio que soñó toda la vida con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El unicornio que soñó toda la vida es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el unicornio que soñó toda la vida con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Peluche de felpa premium",
       "Tarjeta dedicatoria",
@@ -259,14 +259,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "osito-amor-eterno-con-rosas",
-    "name": "Osito Amor Eterno con Rosas",
+    "id": "te-amo-en-rosas-y-abrazos",
+    "name": "Te amo en rosas y abrazos",
     "category": "peluches",
     "categoryLabel": "Peluches",
     "emoji": "🧸",
     "price": 159900,
-    "shortDescription": "Peluche premium osito amor eterno con rosas con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Osito Amor Eterno con Rosas es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium osito amor eterno con rosas con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Peluche premium te amo en rosas y abrazos con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "Te amo en rosas y abrazos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium te amo en rosas y abrazos con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Peluche de felpa premium",
       "Tarjeta dedicatoria",
@@ -343,14 +343,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "peluche-perro-bulldog-frances",
-    "name": "Peluche Perro Bulldog Francés",
+    "id": "el-guardian-silencioso-de-su-mesa",
+    "name": "El guardián silencioso de su mesa",
     "category": "peluches",
     "categoryLabel": "Peluches",
     "emoji": "🧸",
     "price": 99900,
-    "shortDescription": "Peluche premium peluche perro bulldog francés con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Peluche Perro Bulldog Francés es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium peluche perro bulldog francés con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Peluche premium el guardián silencioso de su mesa con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El guardián silencioso de su mesa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el guardián silencioso de su mesa con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Peluche de felpa premium",
       "Tarjeta dedicatoria",
@@ -409,14 +409,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "gatito-abrazos-tiernos-xl",
-    "name": "Gatito Abrazos Tiernos XL",
+    "id": "el-gatito-que-siempre-pidio-y-nunca-llego",
+    "name": "El gatito que siempre pidió y nunca llegó",
     "category": "peluches",
     "categoryLabel": "Peluches",
     "emoji": "🧸",
     "price": 129900,
-    "shortDescription": "Peluche premium gatito abrazos tiernos xl con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Gatito Abrazos Tiernos XL es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium gatito abrazos tiernos xl con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Peluche premium el gatito que siempre pidió y nunca llegó con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El gatito que siempre pidió y nunca llegó es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el gatito que siempre pidió y nunca llegó con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Peluche de felpa premium",
       "Tarjeta dedicatoria",
@@ -481,14 +481,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "panda-gigante-bamboo",
-    "name": "Panda Gigante Bamboo",
+    "id": "el-companero-de-todas-sus-aventuras",
+    "name": "El compañero de todas sus aventuras",
     "category": "peluches",
     "categoryLabel": "Peluches",
     "emoji": "🧸",
     "price": 149900,
-    "shortDescription": "Peluche premium panda gigante bamboo con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Panda Gigante Bamboo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium panda gigante bamboo con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Peluche premium el compañero de todas sus aventuras con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El compañero de todas sus aventuras es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el compañero de todas sus aventuras con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Peluche de felpa premium",
       "Tarjeta dedicatoria",
@@ -559,14 +559,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "peluche-elefante-grayson",
-    "name": "Peluche Elefante Grayson",
+    "id": "el-elefante-que-nunca-olvida-tu-amor",
+    "name": "El elefante que nunca olvida tu amor",
     "category": "peluches",
     "categoryLabel": "Peluches",
     "emoji": "🧸",
     "price": 94900,
-    "shortDescription": "Peluche premium peluche elefante grayson con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Peluche Elefante Grayson es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium peluche elefante grayson con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Peluche premium el elefante que nunca olvida tu amor con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El elefante que nunca olvida tu amor es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el elefante que nunca olvida tu amor con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Peluche de felpa premium",
       "Tarjeta dedicatoria",
@@ -643,14 +643,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "oso-polar-nieve-suave",
-    "name": "Oso Polar Nieve Suave",
+    "id": "el-abrazo-calido-en-el-invierno-bogotano",
+    "name": "El abrazo cálido en el invierno bogotano",
     "category": "peluches",
     "categoryLabel": "Peluches",
     "emoji": "🧸",
     "price": 109900,
-    "shortDescription": "Peluche premium oso polar nieve suave con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Oso Polar Nieve Suave es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium oso polar nieve suave con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Peluche premium el abrazo cálido en el invierno bogotano con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El abrazo cálido en el invierno bogotano es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el abrazo cálido en el invierno bogotano con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Peluche de felpa premium",
       "Tarjeta dedicatoria",
@@ -709,14 +709,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "conejo-rosado-corazon",
-    "name": "Conejo Rosado Corazón",
+    "id": "el-primer-te-quiero-hecho-peluche",
+    "name": "El primer te quiero hecho peluche",
     "category": "peluches",
     "categoryLabel": "Peluches",
     "emoji": "🧸",
     "price": 79900,
-    "shortDescription": "Peluche premium conejo rosado corazón con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Conejo Rosado Corazón es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium conejo rosado corazón con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Peluche premium el primer te quiero hecho peluche con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El primer te quiero hecho peluche es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el primer te quiero hecho peluche con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Peluche de felpa premium",
       "Tarjeta dedicatoria",
@@ -781,14 +781,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "jirafa-melman-tall",
-    "name": "Jirafa Melman Tall",
+    "id": "para-tocar-el-cielo-de-su-habitacion",
+    "name": "Para tocar el cielo de su habitación",
     "category": "peluches",
     "categoryLabel": "Peluches",
     "emoji": "🧸",
     "price": 139900,
-    "shortDescription": "Peluche premium jirafa melman tall con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Jirafa Melman Tall es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium jirafa melman tall con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Peluche premium para tocar el cielo de su habitación con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "Para tocar el cielo de su habitación es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium para tocar el cielo de su habitación con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Peluche de felpa premium",
       "Tarjeta dedicatoria",
@@ -859,14 +859,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "peluche-leon-rey-dorado",
-    "name": "Peluche León Rey Dorado",
+    "id": "el-rey-que-protege-su-corazon",
+    "name": "El rey que protege su corazón",
     "category": "peluches",
     "categoryLabel": "Peluches",
     "emoji": "🧸",
     "price": 119900,
-    "shortDescription": "Peluche premium peluche león rey dorado con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Peluche León Rey Dorado es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium peluche león rey dorado con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Peluche premium el rey que protege su corazón con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El rey que protege su corazón es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el rey que protege su corazón con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Peluche de felpa premium",
       "Tarjeta dedicatoria",
@@ -943,14 +943,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "osito-bebe-recien-nacido",
-    "name": "Osito Bebé Recién Nacido",
+    "id": "su-primer-regalo-de-bienvenida-al-mundo",
+    "name": "Su primer regalo de bienvenida al mundo",
     "category": "peluches",
     "categoryLabel": "Peluches",
     "emoji": "🧸",
     "price": 69900,
-    "shortDescription": "Peluche premium osito bebé recién nacido con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Osito Bebé Recién Nacido es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium osito bebé recién nacido con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Peluche premium su primer regalo de bienvenida al mundo con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "Su primer regalo de bienvenida al mundo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium su primer regalo de bienvenida al mundo con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Peluche de felpa premium",
       "Tarjeta dedicatoria",
@@ -1009,14 +1009,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "koala-eucalipto-abrazo",
-    "name": "Koala Eucalipto Abrazo",
+    "id": "un-pedacito-de-australia-para-abrazar",
+    "name": "Un pedacito de Australia para abrazar",
     "category": "peluches",
     "categoryLabel": "Peluches",
     "emoji": "🧸",
     "price": 89900,
-    "shortDescription": "Peluche premium koala eucalipto abrazo con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Koala Eucalipto Abrazo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium koala eucalipto abrazo con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Peluche premium un pedacito de australia para abrazar con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "Un pedacito de Australia para abrazar es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium un pedacito de australia para abrazar con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Peluche de felpa premium",
       "Tarjeta dedicatoria",
@@ -1081,14 +1081,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "zorro-rojo-travis",
-    "name": "Zorro Rojo Travis",
+    "id": "el-astuto-que-robo-su-sonrisa",
+    "name": "El astuto que robó su sonrisa",
     "category": "peluches",
     "categoryLabel": "Peluches",
     "emoji": "🧸",
     "price": 94900,
-    "shortDescription": "Peluche premium zorro rojo travis con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Zorro Rojo Travis es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium zorro rojo travis con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Peluche premium el astuto que robó su sonrisa con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El astuto que robó su sonrisa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el astuto que robó su sonrisa con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Peluche de felpa premium",
       "Tarjeta dedicatoria",
@@ -1159,14 +1159,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "peluche-mapache-bandit",
-    "name": "Peluche Mapache Bandit",
+    "id": "el-travieso-que-la-hace-reir-cada-dia",
+    "name": "El travieso que la hace reír cada día",
     "category": "peluches",
     "categoryLabel": "Peluches",
     "emoji": "🧸",
     "price": 84900,
-    "shortDescription": "Peluche premium peluche mapache bandit con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Peluche Mapache Bandit es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium peluche mapache bandit con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Peluche premium el travieso que la hace reír cada día con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El travieso que la hace reír cada día es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el travieso que la hace reír cada día con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Peluche de felpa premium",
       "Tarjeta dedicatoria",
@@ -1243,14 +1243,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "caballo-felpudo-noble",
-    "name": "Caballo Felpudo Noble",
+    "id": "el-corcel-de-sus-suenos-de-nina",
+    "name": "El corcel de sus sueños de niña",
     "category": "peluches",
     "categoryLabel": "Peluches",
     "emoji": "🧸",
     "price": 134900,
-    "shortDescription": "Peluche premium caballo felpudo noble con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Caballo Felpudo Noble es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium caballo felpudo noble con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Peluche premium el corcel de sus sueños de niña con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El corcel de sus sueños de niña es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el corcel de sus sueños de niña con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Peluche de felpa premium",
       "Tarjeta dedicatoria",
@@ -1309,14 +1309,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "dinosaurio-t-rex-suave",
-    "name": "Dinosaurio T-Rex Suave",
+    "id": "el-dinosaurio-mas-tierno-del-jurasico",
+    "name": "El dinosaurio más tierno del jurásico",
     "category": "peluches",
     "categoryLabel": "Peluches",
     "emoji": "🧸",
     "price": 104900,
-    "shortDescription": "Peluche premium dinosaurio t-rex suave con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Dinosaurio T-Rex Suave es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium dinosaurio t-rex suave con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Peluche premium el dinosaurio más tierno del jurásico con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El dinosaurio más tierno del jurásico es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el dinosaurio más tierno del jurásico con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Peluche de felpa premium",
       "Tarjeta dedicatoria",
@@ -1381,14 +1381,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "cerdito-barriguita-feliz",
-    "name": "Cerdito Barriguita Feliz",
+    "id": "la-felicidad-con-patitas",
+    "name": "La felicidad con patitas",
     "category": "peluches",
     "categoryLabel": "Peluches",
     "emoji": "🧸",
     "price": 74900,
-    "shortDescription": "Peluche premium cerdito barriguita feliz con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Cerdito Barriguita Feliz es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium cerdito barriguita feliz con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Peluche premium la felicidad con patitas con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "La felicidad con patitas es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium la felicidad con patitas con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Peluche de felpa premium",
       "Tarjeta dedicatoria",
@@ -1459,14 +1459,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "peluche-pinguino-polaris",
-    "name": "Peluche Pingüino Polaris",
+    "id": "el-pinguino-del-polo-que-la-enamoro",
+    "name": "El pingüino del polo que la enamoró",
     "category": "peluches",
     "categoryLabel": "Peluches",
     "emoji": "🧸",
     "price": 99900,
-    "shortDescription": "Peluche premium peluche pingüino polaris con relleno suave hipoalergénico y tela de alta densidad.",
-    "fullDescription": "Peluche Pingüino Polaris es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium peluche pingüino polaris con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Peluche premium el pingüino del polo que la enamoró con relleno suave hipoalergénico y tela de alta densidad.",
+    "fullDescription": "El pingüino del polo que la enamoró es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Peluche premium el pingüino del polo que la enamoró con relleno suave hipoalergénico y tela de alta densidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Peluche de felpa premium",
       "Tarjeta dedicatoria",
@@ -1543,14 +1543,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "bouquet-amor-infinito-premium",
-    "name": "Bouquet Amor Infinito Premium",
+    "id": "el-amor-que-no-cabe-en-palabras",
+    "name": "El amor que no cabe en palabras",
     "category": "flores",
     "categoryLabel": "Flores",
     "emoji": "🌹",
     "price": 189900,
-    "shortDescription": "Ramo de flores frescas bouquet amor infinito premium con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Bouquet Amor Infinito Premium es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas bouquet amor infinito premium con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Ramo de flores frescas el amor que no cabe en palabras con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El amor que no cabe en palabras es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el amor que no cabe en palabras con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Arreglo floral fresco",
       "Papel kraft de lujo",
@@ -1610,14 +1610,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "ramo-margaritas-verano",
-    "name": "Ramo Margaritas Verano",
+    "id": "el-verano-eterno-en-su-mesa",
+    "name": "El verano eterno en su mesa",
     "category": "flores",
     "categoryLabel": "Flores",
     "emoji": "🌹",
     "price": 119900,
-    "shortDescription": "Ramo de flores frescas ramo margaritas verano con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Ramo Margaritas Verano es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas ramo margaritas verano con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Ramo de flores frescas el verano eterno en su mesa con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El verano eterno en su mesa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el verano eterno en su mesa con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Arreglo floral fresco",
       "Papel kraft de lujo",
@@ -1683,14 +1683,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "girasoles-sol-radiante",
-    "name": "Girasoles Sol Radiante",
+    "id": "el-sol-que-la-hace-sonreir-cada-manana",
+    "name": "El sol que la hace sonreír cada mañana",
     "category": "flores",
     "categoryLabel": "Flores",
     "emoji": "🌹",
     "price": 139900,
-    "shortDescription": "Ramo de flores frescas girasoles sol radiante con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Girasoles Sol Radiante es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas girasoles sol radiante con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Ramo de flores frescas el sol que la hace sonreír cada mañana con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El sol que la hace sonreír cada mañana es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el sol que la hace sonreír cada mañana con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Arreglo floral fresco",
       "Papel kraft de lujo",
@@ -1762,14 +1762,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "tulipanes-holanda-elegante",
-    "name": "Tulipanes Holanda Elegante",
+    "id": "la-elegancia-que-enamora-a-primera-vista",
+    "name": "La elegancia que enamora a primera vista",
     "category": "flores",
     "categoryLabel": "Flores",
     "emoji": "🌹",
     "price": 169900,
-    "shortDescription": "Ramo de flores frescas tulipanes holanda elegante con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Tulipanes Holanda Elegante es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas tulipanes holanda elegante con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Ramo de flores frescas la elegancia que enamora a primera vista con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "La elegancia que enamora a primera vista es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas la elegancia que enamora a primera vista con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Arreglo floral fresco",
       "Papel kraft de lujo",
@@ -1847,14 +1847,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "bouquet-peonias-rosadas",
-    "name": "Bouquet Peonías Rosadas",
+    "id": "el-lujo-que-ella-siempre-merecio",
+    "name": "El lujo que ella siempre mereció",
     "category": "flores",
     "categoryLabel": "Flores",
     "emoji": "🌹",
     "price": 199900,
-    "shortDescription": "Ramo de flores frescas bouquet peonías rosadas con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Bouquet Peonías Rosadas es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas bouquet peonías rosadas con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Ramo de flores frescas el lujo que ella siempre mereció con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El lujo que ella siempre mereció es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el lujo que ella siempre mereció con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Arreglo floral fresco",
       "Papel kraft de lujo",
@@ -1914,14 +1914,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "ramo-lirios-blancos-pureza",
-    "name": "Ramo Lirios Blancos Pureza",
+    "id": "la-pureza-hecha-petalos-blancos",
+    "name": "La pureza hecha pétalos blancos",
     "category": "flores",
     "categoryLabel": "Flores",
     "emoji": "🌹",
     "price": 149900,
-    "shortDescription": "Ramo de flores frescas ramo lirios blancos pureza con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Ramo Lirios Blancos Pureza es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas ramo lirios blancos pureza con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Ramo de flores frescas la pureza hecha pétalos blancos con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "La pureza hecha pétalos blancos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas la pureza hecha pétalos blancos con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Arreglo floral fresco",
       "Papel kraft de lujo",
@@ -1987,14 +1987,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "orquideas-phalaenopsis-luxe",
-    "name": "Orquídeas Phalaenopsis Luxe",
+    "id": "la-reina-que-corona-su-nueva-casa",
+    "name": "La reina que corona su nueva casa",
     "category": "flores",
     "categoryLabel": "Flores",
     "emoji": "🌹",
     "price": 229900,
-    "shortDescription": "Ramo de flores frescas orquídeas phalaenopsis luxe con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Orquídeas Phalaenopsis Luxe es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas orquídeas phalaenopsis luxe con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Ramo de flores frescas la reina que corona su nueva casa con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "La reina que corona su nueva casa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas la reina que corona su nueva casa con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Arreglo floral fresco",
       "Papel kraft de lujo",
@@ -2066,14 +2066,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "bouquet-rosas-y-ferrero",
-    "name": "Bouquet Rosas y Ferrero",
+    "id": "amor-con-chocolate-la-combinacion-perfecta",
+    "name": "Amor con chocolate, la combinación perfecta",
     "category": "flores",
     "categoryLabel": "Flores",
     "emoji": "🌹",
     "price": 209900,
-    "shortDescription": "Ramo de flores frescas bouquet rosas y ferrero con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Bouquet Rosas y Ferrero es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas bouquet rosas y ferrero con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Ramo de flores frescas amor con chocolate, la combinación perfecta con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "Amor con chocolate, la combinación perfecta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas amor con chocolate, la combinación perfecta con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Arreglo floral fresco",
       "Papel kraft de lujo",
@@ -2151,14 +2151,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "girasoles-y-chocolates",
-    "name": "Girasoles y Chocolates",
+    "id": "la-sonrisa-que-despierta-con-el-desayuno",
+    "name": "La sonrisa que despierta con el desayuno",
     "category": "flores",
     "categoryLabel": "Flores",
     "emoji": "🌹",
     "price": 159900,
-    "shortDescription": "Ramo de flores frescas girasoles y chocolates con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Girasoles y Chocolates es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas girasoles y chocolates con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Ramo de flores frescas la sonrisa que despierta con el desayuno con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "La sonrisa que despierta con el desayuno es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas la sonrisa que despierta con el desayuno con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Arreglo floral fresco",
       "Papel kraft de lujo",
@@ -2218,14 +2218,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "ramo-mixto-jardin-primavera",
-    "name": "Ramo Mixto Jardín Primavera",
+    "id": "el-jardin-que-siempre-sono-tener",
+    "name": "El jardín que siempre soñó tener",
     "category": "flores",
     "categoryLabel": "Flores",
     "emoji": "🌹",
     "price": 129900,
-    "shortDescription": "Ramo de flores frescas ramo mixto jardín primavera con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Ramo Mixto Jardín Primavera es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas ramo mixto jardín primavera con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Ramo de flores frescas el jardín que siempre soñó tener con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El jardín que siempre soñó tener es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el jardín que siempre soñó tener con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Arreglo floral fresco",
       "Papel kraft de lujo",
@@ -2291,14 +2291,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "claveles-rojos-pasion",
-    "name": "Claveles Rojos Pasión",
+    "id": "la-pasion-que-no-se-puede-callar",
+    "name": "La pasión que no se puede callar",
     "category": "flores",
     "categoryLabel": "Flores",
     "emoji": "🌹",
     "price": 99900,
-    "shortDescription": "Ramo de flores frescas claveles rojos pasión con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Claveles Rojos Pasión es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas claveles rojos pasión con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Ramo de flores frescas la pasión que no se puede callar con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "La pasión que no se puede callar es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas la pasión que no se puede callar con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Arreglo floral fresco",
       "Papel kraft de lujo",
@@ -2370,14 +2370,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "bouquet-hortensias-pastel",
-    "name": "Bouquet Hortensias Pastel",
+    "id": "el-pastel-de-colores-de-su-corazon",
+    "name": "El pastel de colores de su corazón",
     "category": "flores",
     "categoryLabel": "Flores",
     "emoji": "🌹",
     "price": 179900,
-    "shortDescription": "Ramo de flores frescas bouquet hortensias pastel con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Bouquet Hortensias Pastel es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas bouquet hortensias pastel con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Ramo de flores frescas el pastel de colores de su corazón con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El pastel de colores de su corazón es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el pastel de colores de su corazón con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Arreglo floral fresco",
       "Papel kraft de lujo",
@@ -2455,14 +2455,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "ramo-lavanda-provenza",
-    "name": "Ramo Lavanda Provenza",
+    "id": "la-calma-de-provenza-en-su-ventana",
+    "name": "La calma de Provenza en su ventana",
     "category": "flores",
     "categoryLabel": "Flores",
     "emoji": "🌹",
     "price": 109900,
-    "shortDescription": "Ramo de flores frescas ramo lavanda provenza con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Ramo Lavanda Provenza es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas ramo lavanda provenza con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Ramo de flores frescas la calma de provenza en su ventana con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "La calma de Provenza en su ventana es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas la calma de provenza en su ventana con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Arreglo floral fresco",
       "Papel kraft de lujo",
@@ -2522,14 +2522,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "crisantemos-otono-dorado",
-    "name": "Crisantemos Otoño Dorado",
+    "id": "el-oro-que-trae-el-otono-a-su-vida",
+    "name": "El oro que trae el otoño a su vida",
     "category": "flores",
     "categoryLabel": "Flores",
     "emoji": "🌹",
     "price": 114900,
-    "shortDescription": "Ramo de flores frescas crisantemos otoño dorado con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Crisantemos Otoño Dorado es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas crisantemos otoño dorado con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Ramo de flores frescas el oro que trae el otoño a su vida con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El oro que trae el otoño a su vida es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el oro que trae el otoño a su vida con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Arreglo floral fresco",
       "Papel kraft de lujo",
@@ -2595,14 +2595,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "bouquet-rosas-blancas-eternas",
-    "name": "Bouquet Rosas Blancas Eternas",
+    "id": "el-te-amo-que-nunca-se-marchita",
+    "name": "El te amo que nunca se marchita",
     "category": "flores",
     "categoryLabel": "Flores",
     "emoji": "🌹",
     "price": 164900,
-    "shortDescription": "Ramo de flores frescas bouquet rosas blancas eternas con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Bouquet Rosas Blancas Eternas es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas bouquet rosas blancas eternas con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Ramo de flores frescas el te amo que nunca se marchita con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El te amo que nunca se marchita es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el te amo que nunca se marchita con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Arreglo floral fresco",
       "Papel kraft de lujo",
@@ -2674,14 +2674,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "ramo-astromelias-andinas",
-    "name": "Ramo Astromelias Andinas",
+    "id": "los-andes-florecidos-en-su-mesa",
+    "name": "Los Andes florecidos en su mesa",
     "category": "flores",
     "categoryLabel": "Flores",
     "emoji": "🌹",
     "price": 94900,
-    "shortDescription": "Ramo de flores frescas ramo astromelias andinas con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Ramo Astromelias Andinas es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas ramo astromelias andinas con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Ramo de flores frescas los andes florecidos en su mesa con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "Los Andes florecidos en su mesa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas los andes florecidos en su mesa con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Arreglo floral fresco",
       "Papel kraft de lujo",
@@ -2759,14 +2759,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "bouquet-anturios-rojos",
-    "name": "Bouquet Anturios Rojos",
+    "id": "el-corazon-que-late-rojo-intenso",
+    "name": "El corazón que late rojo intenso",
     "category": "flores",
     "categoryLabel": "Flores",
     "emoji": "🌹",
     "price": 154900,
-    "shortDescription": "Ramo de flores frescas bouquet anturios rojos con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Bouquet Anturios Rojos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas bouquet anturios rojos con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Ramo de flores frescas el corazón que late rojo intenso con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El corazón que late rojo intenso es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el corazón que late rojo intenso con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Arreglo floral fresco",
       "Papel kraft de lujo",
@@ -2826,14 +2826,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "gerberas-coloridas-alegria",
-    "name": "Gerberas Coloridas Alegría",
+    "id": "la-alegria-multicolor-de-quererte",
+    "name": "La alegría multicolor de quererte",
     "category": "flores",
     "categoryLabel": "Flores",
     "emoji": "🌹",
     "price": 104900,
-    "shortDescription": "Ramo de flores frescas gerberas coloridas alegría con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Gerberas Coloridas Alegría es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas gerberas coloridas alegría con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Ramo de flores frescas la alegría multicolor de quererte con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "La alegría multicolor de quererte es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas la alegría multicolor de quererte con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Arreglo floral fresco",
       "Papel kraft de lujo",
@@ -2899,14 +2899,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "bouquet-rosas-arcoiris",
-    "name": "Bouquet Rosas Arcoíris",
+    "id": "el-arcoiris-de-tu-amor-en-petalos",
+    "name": "El arcoíris de tu amor en pétalos",
     "category": "flores",
     "categoryLabel": "Flores",
     "emoji": "🌹",
     "price": 174900,
-    "shortDescription": "Ramo de flores frescas bouquet rosas arcoíris con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Bouquet Rosas Arcoíris es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas bouquet rosas arcoíris con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Ramo de flores frescas el arcoíris de tu amor en pétalos con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El arcoíris de tu amor en pétalos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el arcoíris de tu amor en pétalos con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Arreglo floral fresco",
       "Papel kraft de lujo",
@@ -2978,14 +2978,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "ramo-eucalipto-y-rosas",
-    "name": "Ramo Eucalipto y Rosas",
+    "id": "el-frescor-que-enamora-al-abrir-la-puerta",
+    "name": "El frescor que enamora al abrir la puerta",
     "category": "flores",
     "categoryLabel": "Flores",
     "emoji": "🌹",
     "price": 144900,
-    "shortDescription": "Ramo de flores frescas ramo eucalipto y rosas con arreglo floral profesional y empaque de lujo.",
-    "fullDescription": "Ramo Eucalipto y Rosas es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas ramo eucalipto y rosas con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Ramo de flores frescas el frescor que enamora al abrir la puerta con arreglo floral profesional y empaque de lujo.",
+    "fullDescription": "El frescor que enamora al abrir la puerta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Ramo de flores frescas el frescor que enamora al abrir la puerta con arreglo floral profesional y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Arreglo floral fresco",
       "Papel kraft de lujo",
@@ -3063,14 +3063,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "desayuno-sorpresa-bogota-premium",
-    "name": "Desayuno Sorpresa Bogotá Premium",
+    "id": "el-despertar-magico-que-recordara-toda-la-vida",
+    "name": "El despertar mágico que recordará toda la vida",
     "category": "desayunos",
     "categoryLabel": "Desayunos",
     "emoji": "🎂",
     "price": 149900,
-    "shortDescription": "Desayuno especial desayuno sorpresa bogotá premium con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Desayuno Sorpresa Bogotá Premium es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial desayuno sorpresa bogotá premium con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Desayuno especial el despertar mágico que recordará toda la vida con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El despertar mágico que recordará toda la vida es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el despertar mágico que recordará toda la vida con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Jugo natural",
       "Café premium",
@@ -3130,14 +3130,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "canasta-continental-paris",
-    "name": "Canasta Continental París",
+    "id": "una-manana-en-paris-sin-salir-de-bogota",
+    "name": "Una mañana en París sin salir de Bogotá",
     "category": "desayunos",
     "categoryLabel": "Desayunos",
     "emoji": "🎂",
     "price": 129900,
-    "shortDescription": "Desayuno especial canasta continental parís con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Canasta Continental París es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial canasta continental parís con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Desayuno especial una mañana en parís sin salir de bogotá con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "Una mañana en París sin salir de Bogotá es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial una mañana en parís sin salir de bogotá con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Jugo natural",
       "Café premium",
@@ -3203,14 +3203,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "desayuno-americano-clasico",
-    "name": "Desayuno Américano Clásico",
+    "id": "el-amanecer-americano-servido-en-su-cama",
+    "name": "El amanecer americano servido en su cama",
     "category": "desayunos",
     "categoryLabel": "Desayunos",
     "emoji": "🎂",
     "price": 99900,
-    "shortDescription": "Desayuno especial desayuno américano clásico con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Desayuno Américano Clásico es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial desayuno américano clásico con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Desayuno especial el amanecer americano servido en su cama con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El amanecer americano servido en su cama es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el amanecer americano servido en su cama con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Jugo natural",
       "Café premium",
@@ -3282,14 +3282,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-pancakes-berries",
-    "name": "Box Pancakes & Berries",
+    "id": "el-domingo-perfecto-empieza-aqui",
+    "name": "El domingo perfecto empieza aquí",
     "category": "desayunos",
     "categoryLabel": "Desayunos",
     "emoji": "🎂",
     "price": 119900,
-    "shortDescription": "Desayuno especial box pancakes & berries con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Box Pancakes & Berries es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial box pancakes & berries con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Desayuno especial el domingo perfecto empieza aquí con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El domingo perfecto empieza aquí es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el domingo perfecto empieza aquí con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Jugo natural",
       "Café premium",
@@ -3367,14 +3367,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "desayuno-ejecutivo-empresarial",
-    "name": "Desayuno Ejecutivo Empresarial",
+    "id": "la-manana-que-conquistara-su-dia",
+    "name": "La mañana que conquistará su día",
     "category": "desayunos",
     "categoryLabel": "Desayunos",
     "emoji": "🎂",
     "price": 179900,
-    "shortDescription": "Desayuno especial desayuno ejecutivo empresarial con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Desayuno Ejecutivo Empresarial es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial desayuno ejecutivo empresarial con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Desayuno especial la mañana que conquistará su día con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "La mañana que conquistará su día es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial la mañana que conquistará su día con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Jugo natural",
       "Café premium",
@@ -3434,14 +3434,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "canasta-croissant-cafe",
-    "name": "Canasta Croissant & Café",
+    "id": "la-pausa-dulce-que-se-merece",
+    "name": "La pausa dulce que se merece",
     "category": "desayunos",
     "categoryLabel": "Desayunos",
     "emoji": "🎂",
     "price": 109900,
-    "shortDescription": "Desayuno especial canasta croissant & café con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Canasta Croissant & Café es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial canasta croissant & café con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Desayuno especial la pausa dulce que se merece con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "La pausa dulce que se merece es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial la pausa dulce que se merece con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Jugo natural",
       "Café premium",
@@ -3507,14 +3507,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "desayuno-fitness-energy",
-    "name": "Desayuno Fitness Energy",
+    "id": "la-energia-para-conquistar-el-mundo",
+    "name": "La energía para conquistar el mundo",
     "category": "desayunos",
     "categoryLabel": "Desayunos",
     "emoji": "🎂",
     "price": 114900,
-    "shortDescription": "Desayuno especial desayuno fitness energy con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Desayuno Fitness Energy es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial desayuno fitness energy con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Desayuno especial la energía para conquistar el mundo con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "La energía para conquistar el mundo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial la energía para conquistar el mundo con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Jugo natural",
       "Café premium",
@@ -3586,14 +3586,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-waffles-belgas-royal",
-    "name": "Box Waffles Belgas Royal",
+    "id": "el-lujo-belga-en-pijama",
+    "name": "El lujo belga en pijama",
     "category": "desayunos",
     "categoryLabel": "Desayunos",
     "emoji": "🎂",
     "price": 134900,
-    "shortDescription": "Desayuno especial box waffles belgas royal con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Box Waffles Belgas Royal es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial box waffles belgas royal con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Desayuno especial el lujo belga en pijama con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El lujo belga en pijama es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el lujo belga en pijama con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Jugo natural",
       "Café premium",
@@ -3671,14 +3671,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "desayuno-cumpleanos-mananero",
-    "name": "Desayuno Cumpleaños Mañanero",
+    "id": "el-cumpleanos-que-arranca-con-sorpresa",
+    "name": "El cumpleaños que arranca con sorpresa",
     "category": "desayunos",
     "categoryLabel": "Desayunos",
     "emoji": "🎂",
     "price": 159900,
-    "shortDescription": "Desayuno especial desayuno cumpleaños mañanero con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Desayuno Cumpleaños Mañanero es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial desayuno cumpleaños mañanero con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Desayuno especial el cumpleaños que arranca con sorpresa con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El cumpleaños que arranca con sorpresa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el cumpleaños que arranca con sorpresa con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Jugo natural",
       "Café premium",
@@ -3738,14 +3738,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "canasta-te-britanico",
-    "name": "Canasta Té Británico",
+    "id": "el-te-de-las-cinco-en-londres",
+    "name": "El té de las cinco en Londres",
     "category": "desayunos",
     "categoryLabel": "Desayunos",
     "emoji": "🎂",
     "price": 124900,
-    "shortDescription": "Desayuno especial canasta té británico con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Canasta Té Británico es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial canasta té británico con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Desayuno especial el té de las cinco en londres con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El té de las cinco en Londres es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el té de las cinco en londres con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Jugo natural",
       "Café premium",
@@ -3811,14 +3811,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "desayuno-mini-suite-hotel",
-    "name": "Desayuno Mini Suite Hotel",
+    "id": "la-suite-de-hotel-en-su-propia-casa",
+    "name": "La suite de hotel en su propia casa",
     "category": "desayunos",
     "categoryLabel": "Desayunos",
     "emoji": "🎂",
     "price": 194900,
-    "shortDescription": "Desayuno especial desayuno mini suite hotel con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Desayuno Mini Suite Hotel es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial desayuno mini suite hotel con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Desayuno especial la suite de hotel en su propia casa con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "La suite de hotel en su propia casa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial la suite de hotel en su propia casa con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Jugo natural",
       "Café premium",
@@ -3890,14 +3890,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-granola-yogurt-saludable",
-    "name": "Box Granola & Yogurt Saludable",
+    "id": "el-comienzo-saludable-que-se-prometio",
+    "name": "El comienzo saludable que se prometió",
     "category": "desayunos",
     "categoryLabel": "Desayunos",
     "emoji": "🎂",
     "price": 89900,
-    "shortDescription": "Desayuno especial box granola & yogurt saludable con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Box Granola & Yogurt Saludable es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial box granola & yogurt saludable con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Desayuno especial el comienzo saludable que se prometió con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El comienzo saludable que se prometió es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el comienzo saludable que se prometió con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Jugo natural",
       "Café premium",
@@ -3975,14 +3975,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "desayuno-huevos-benedict",
-    "name": "Desayuno Huevos Benedict",
+    "id": "los-huevos-del-chef-servidos-en-su-cama",
+    "name": "Los huevos del chef servidos en su cama",
     "category": "desayunos",
     "categoryLabel": "Desayunos",
     "emoji": "🎂",
     "price": 139900,
-    "shortDescription": "Desayuno especial desayuno huevos benedict con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Desayuno Huevos Benedict es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial desayuno huevos benedict con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Desayuno especial los huevos del chef servidos en su cama con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "Los huevos del chef servidos en su cama es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial los huevos del chef servidos en su cama con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Jugo natural",
       "Café premium",
@@ -4042,14 +4042,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "canasta-frutas-tropicales",
-    "name": "Canasta Frutas Tropicales",
+    "id": "el-tropico-colombiano-en-su-mesa",
+    "name": "El trópico colombiano en su mesa",
     "category": "desayunos",
     "categoryLabel": "Desayunos",
     "emoji": "🎂",
     "price": 104900,
-    "shortDescription": "Desayuno especial canasta frutas tropicales con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Canasta Frutas Tropicales es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial canasta frutas tropicales con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Desayuno especial el trópico colombiano en su mesa con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El trópico colombiano en su mesa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el trópico colombiano en su mesa con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Jugo natural",
       "Café premium",
@@ -4115,14 +4115,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "desayuno-bagel-salmon",
-    "name": "Desayuno Bagel & Salmón",
+    "id": "el-domingo-neoyorquino-en-bogota",
+    "name": "El domingo neoyorquino en Bogotá",
     "category": "desayunos",
     "categoryLabel": "Desayunos",
     "emoji": "🎂",
     "price": 144900,
-    "shortDescription": "Desayuno especial desayuno bagel & salmón con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Desayuno Bagel & Salmón es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial desayuno bagel & salmón con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Desayuno especial el domingo neoyorquino en bogotá con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El domingo neoyorquino en Bogotá es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el domingo neoyorquino en bogotá con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Jugo natural",
       "Café premium",
@@ -4194,14 +4194,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-avena-miel-power",
-    "name": "Box Avena & Miel Power",
+    "id": "el-poder-que-da-la-avena-de-la-abuela",
+    "name": "El poder que da la avena de la abuela",
     "category": "desayunos",
     "categoryLabel": "Desayunos",
     "emoji": "🎂",
     "price": 84900,
-    "shortDescription": "Desayuno especial box avena & miel power con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Box Avena & Miel Power es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial box avena & miel power con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Desayuno especial el poder que da la avena de la abuela con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El poder que da la avena de la abuela es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el poder que da la avena de la abuela con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Jugo natural",
       "Café premium",
@@ -4279,14 +4279,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "desayuno-romantico-pareja",
-    "name": "Desayuno Romántico Pareja",
+    "id": "el-desayuno-para-enamorarla-de-nuevo",
+    "name": "El desayuno para enamorarla de nuevo",
     "category": "desayunos",
     "categoryLabel": "Desayunos",
     "emoji": "🎂",
     "price": 169900,
-    "shortDescription": "Desayuno especial desayuno romántico pareja con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Desayuno Romántico Pareja es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial desayuno romántico pareja con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Desayuno especial el desayuno para enamorarla de nuevo con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El desayuno para enamorarla de nuevo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el desayuno para enamorarla de nuevo con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Jugo natural",
       "Café premium",
@@ -4346,14 +4346,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "canasta-mimosa-brunch",
-    "name": "Canasta Mimosa & Brunch",
+    "id": "el-brunch-del-fin-de-semana-sin-salir",
+    "name": "El brunch del fin de semana sin salir",
     "category": "desayunos",
     "categoryLabel": "Desayunos",
     "emoji": "🎂",
     "price": 154900,
-    "shortDescription": "Desayuno especial canasta mimosa & brunch con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Canasta Mimosa & Brunch es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial canasta mimosa & brunch con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Desayuno especial el brunch del fin de semana sin salir con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "El brunch del fin de semana sin salir es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial el brunch del fin de semana sin salir con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Jugo natural",
       "Café premium",
@@ -4419,14 +4419,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "desayuno-infantil-aventurero",
-    "name": "Desayuno Infantil Aventurero",
+    "id": "la-aventura-matutina-de-los-pequenos",
+    "name": "La aventura matutina de los pequeños",
     "category": "desayunos",
     "categoryLabel": "Desayunos",
     "emoji": "🎂",
     "price": 94900,
-    "shortDescription": "Desayuno especial desayuno infantil aventurero con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Desayuno Infantil Aventurero es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial desayuno infantil aventurero con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Desayuno especial la aventura matutina de los pequeños con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "La aventura matutina de los pequeños es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial la aventura matutina de los pequeños con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Jugo natural",
       "Café premium",
@@ -4498,14 +4498,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-tostadas-francesas-royal",
-    "name": "Box Tostadas Francesas Royal",
+    "id": "las-tostadas-de-la-abuela-en-casa",
+    "name": "Las tostadas de la abuela en casa",
     "category": "desayunos",
     "categoryLabel": "Desayunos",
     "emoji": "🎂",
     "price": 124900,
-    "shortDescription": "Desayuno especial box tostadas francesas royal con entrega a domicilio en Bogotá y presentación gourmet.",
-    "fullDescription": "Box Tostadas Francesas Royal es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial box tostadas francesas royal con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Desayuno especial las tostadas de la abuela en casa con entrega a domicilio en Bogotá y presentación gourmet.",
+    "fullDescription": "Las tostadas de la abuela en casa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Desayuno especial las tostadas de la abuela en casa con entrega a domicilio en Bogotá y presentación gourmet. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Jugo natural",
       "Café premium",
@@ -4583,14 +4583,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "arco-globos-pastel-celebra",
-    "name": "Arco Globos Pastel Celebra",
+    "id": "la-fiesta-empieza-antes-de-abrir-la-puerta",
+    "name": "La fiesta empieza antes de abrir la puerta",
     "category": "globos",
     "categoryLabel": "Globos",
     "emoji": "🎈",
     "price": 159900,
-    "shortDescription": "Decoración con globos arco globos pastel celebra de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Arco Globos Pastel Celebra es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos arco globos pastel celebra de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Decoración con globos la fiesta empieza antes de abrir la puerta de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "La fiesta empieza antes de abrir la puerta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la fiesta empieza antes de abrir la puerta de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Globos látex premium",
       "Globos foil",
@@ -4650,14 +4650,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "bouquet-globos-helio-cumple",
-    "name": "Bouquet Globos Helio Cumple",
+    "id": "la-sorpresa-que-flota-sobre-su-mesa",
+    "name": "La sorpresa que flota sobre su mesa",
     "category": "globos",
     "categoryLabel": "Globos",
     "emoji": "🎈",
     "price": 89900,
-    "shortDescription": "Decoración con globos bouquet globos helio cumple de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Bouquet Globos Helio Cumple es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos bouquet globos helio cumple de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Decoración con globos la sorpresa que flota sobre su mesa de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "La sorpresa que flota sobre su mesa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la sorpresa que flota sobre su mesa de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Globos látex premium",
       "Globos foil",
@@ -4723,14 +4723,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "globos-numero-dorado-30cm",
-    "name": "Globos Número Dorado 30cm",
+    "id": "el-numero-que-hace-oficial-la-celebracion",
+    "name": "El número que hace oficial la celebración",
     "category": "globos",
     "categoryLabel": "Globos",
     "emoji": "🎈",
     "price": 49900,
-    "shortDescription": "Decoración con globos globos número dorado 30cm de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Globos Número Dorado 30cm es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos globos número dorado 30cm de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Decoración con globos el número que hace oficial la celebración de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "El número que hace oficial la celebración es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el número que hace oficial la celebración de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Globos látex premium",
       "Globos foil",
@@ -4802,14 +4802,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "columna-globos-elegante",
-    "name": "Columna Globos Elegante",
+    "id": "la-entrada-triunfal-a-su-dia-especial",
+    "name": "La entrada triunfal a su día especial",
     "category": "globos",
     "categoryLabel": "Globos",
     "emoji": "🎈",
     "price": 199900,
-    "shortDescription": "Decoración con globos columna globos elegante de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Columna Globos Elegante es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos columna globos elegante de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Decoración con globos la entrada triunfal a su día especial de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "La entrada triunfal a su día especial es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la entrada triunfal a su día especial de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Globos látex premium",
       "Globos foil",
@@ -4887,14 +4887,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "bouquet-globos-y-chocolates",
-    "name": "Bouquet Globos y Chocolates",
+    "id": "la-dulce-sorpresa-que-flota-y-enamora",
+    "name": "La dulce sorpresa que flota y enamora",
     "category": "globos",
     "categoryLabel": "Globos",
     "emoji": "🎈",
     "price": 119900,
-    "shortDescription": "Decoración con globos bouquet globos y chocolates de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Bouquet Globos y Chocolates es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos bouquet globos y chocolates de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Decoración con globos la dulce sorpresa que flota y enamora de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "La dulce sorpresa que flota y enamora es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la dulce sorpresa que flota y enamora de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Globos látex premium",
       "Globos foil",
@@ -4954,14 +4954,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "globos-foil-corazon-rojo",
-    "name": "Globos Foil Corazón Rojo",
+    "id": "el-corazon-que-vuela-hasta-su-techo",
+    "name": "El corazón que vuela hasta su techo",
     "category": "globos",
     "categoryLabel": "Globos",
     "emoji": "🎈",
     "price": 79900,
-    "shortDescription": "Decoración con globos globos foil corazón rojo de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Globos Foil Corazón Rojo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos globos foil corazón rojo de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Decoración con globos el corazón que vuela hasta su techo de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "El corazón que vuela hasta su techo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el corazón que vuela hasta su techo de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Globos látex premium",
       "Globos foil",
@@ -5027,14 +5027,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "arco-iris-globos-infantil",
-    "name": "Arco Iris Globos Infantil",
+    "id": "el-arcoiris-que-pinta-su-fiesta",
+    "name": "El arcoíris que pinta su fiesta",
     "category": "globos",
     "categoryLabel": "Globos",
     "emoji": "🎈",
     "price": 134900,
-    "shortDescription": "Decoración con globos arco iris globos infantil de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Arco Iris Globos Infantil es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos arco iris globos infantil de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Decoración con globos el arcoíris que pinta su fiesta de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "El arcoíris que pinta su fiesta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el arcoíris que pinta su fiesta de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Globos látex premium",
       "Globos foil",
@@ -5106,14 +5106,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "globos-bobo-premium",
-    "name": "Globos Bobo Premium",
+    "id": "la-sorpresa-bobo-que-arranca-la-risa",
+    "name": "La sorpresa bobo que arranca la risa",
     "category": "globos",
     "categoryLabel": "Globos",
     "emoji": "🎈",
     "price": 69900,
-    "shortDescription": "Decoración con globos globos bobo premium de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Globos Bobo Premium es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos globos bobo premium de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Decoración con globos la sorpresa bobo que arranca la risa de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "La sorpresa bobo que arranca la risa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la sorpresa bobo que arranca la risa de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Globos látex premium",
       "Globos foil",
@@ -5191,14 +5191,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "bouquet-globos-estrella",
-    "name": "Bouquet Globos Estrella",
+    "id": "la-estrella-que-guia-su-celebracion",
+    "name": "La estrella que guía su celebración",
     "category": "globos",
     "categoryLabel": "Globos",
     "emoji": "🎈",
     "price": 94900,
-    "shortDescription": "Decoración con globos bouquet globos estrella de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Bouquet Globos Estrella es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos bouquet globos estrella de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Decoración con globos la estrella que guía su celebración de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "La estrella que guía su celebración es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la estrella que guía su celebración de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Globos látex premium",
       "Globos foil",
@@ -5258,14 +5258,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "globos-personalizados-nombre",
-    "name": "Globos Personalizados Nombre",
+    "id": "su-nombre-flotando-en-el-cielo",
+    "name": "Su nombre flotando en el cielo",
     "category": "globos",
     "categoryLabel": "Globos",
     "emoji": "🎈",
     "price": 89900,
-    "shortDescription": "Decoración con globos globos personalizados nombre de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Globos Personalizados Nombre es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos globos personalizados nombre de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Decoración con globos su nombre flotando en el cielo de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "Su nombre flotando en el cielo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos su nombre flotando en el cielo de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Globos látex premium",
       "Globos foil",
@@ -5331,14 +5331,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "backdrop-globos-bodas",
-    "name": "Backdrop Globos Bodas",
+    "id": "el-fondo-de-bodas-que-siempre-sono",
+    "name": "El fondo de bodas que siempre soñó",
     "category": "globos",
     "categoryLabel": "Globos",
     "emoji": "🎈",
     "price": 249900,
-    "shortDescription": "Decoración con globos backdrop globos bodas de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Backdrop Globos Bodas es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos backdrop globos bodas de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Decoración con globos el fondo de bodas que siempre soñó de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "El fondo de bodas que siempre soñó es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el fondo de bodas que siempre soñó de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Globos látex premium",
       "Globos foil",
@@ -5410,14 +5410,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "globos-foil-unicornio",
-    "name": "Globos Foil Unicornio",
+    "id": "el-unicornio-magico-de-su-fiesta",
+    "name": "El unicornio mágico de su fiesta",
     "category": "globos",
     "categoryLabel": "Globos",
     "emoji": "🎈",
     "price": 84900,
-    "shortDescription": "Decoración con globos globos foil unicornio de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Globos Foil Unicornio es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos globos foil unicornio de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Decoración con globos el unicornio mágico de su fiesta de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "El unicornio mágico de su fiesta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el unicornio mágico de su fiesta de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Globos látex premium",
       "Globos foil",
@@ -5495,14 +5495,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "bouquet-globos-rose-gold",
-    "name": "Bouquet Globos Rosé Gold",
+    "id": "el-rose-gold-que-eleva-la-elegancia",
+    "name": "El rosé gold que eleva la elegancia",
     "category": "globos",
     "categoryLabel": "Globos",
     "emoji": "🎈",
     "price": 109900,
-    "shortDescription": "Decoración con globos bouquet globos rosé gold de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Bouquet Globos Rosé Gold es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos bouquet globos rosé gold de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Decoración con globos el rosé gold que eleva la elegancia de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "El rosé gold que eleva la elegancia es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el rosé gold que eleva la elegancia de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Globos látex premium",
       "Globos foil",
@@ -5562,14 +5562,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "globos-letras-led-fiesta",
-    "name": "Globos Letras LED Fiesta",
+    "id": "las-letras-que-iluminan-la-fiesta",
+    "name": "Las letras que iluminan la fiesta",
     "category": "globos",
     "categoryLabel": "Globos",
     "emoji": "🎈",
     "price": 124900,
-    "shortDescription": "Decoración con globos globos letras led fiesta de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Globos Letras LED Fiesta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos globos letras led fiesta de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Decoración con globos las letras que iluminan la fiesta de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "Las letras que iluminan la fiesta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos las letras que iluminan la fiesta de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Globos látex premium",
       "Globos foil",
@@ -5635,14 +5635,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "arco-globos-sorpresa",
-    "name": "Arco Globos Sorpresa",
+    "id": "la-sorpresa-total-que-cubre-el-techo",
+    "name": "La sorpresa total que cubre el techo",
     "category": "globos",
     "categoryLabel": "Globos",
     "emoji": "🎈",
     "price": 144900,
-    "shortDescription": "Decoración con globos arco globos sorpresa de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Arco Globos Sorpresa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos arco globos sorpresa de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Decoración con globos la sorpresa total que cubre el techo de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "La sorpresa total que cubre el techo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la sorpresa total que cubre el techo de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Globos látex premium",
       "Globos foil",
@@ -5714,14 +5714,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "globos-acabado-metalico",
-    "name": "Globos Acabado Metálico",
+    "id": "el-brillo-metalico-que-deslumbra",
+    "name": "El brillo metálico que deslumbra",
     "category": "globos",
     "categoryLabel": "Globos",
     "emoji": "🎈",
     "price": 74900,
-    "shortDescription": "Decoración con globos globos acabado metálico de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Globos Acabado Metálico es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos globos acabado metálico de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Decoración con globos el brillo metálico que deslumbra de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "El brillo metálico que deslumbra es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el brillo metálico que deslumbra de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Globos látex premium",
       "Globos foil",
@@ -5799,14 +5799,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "bouquet-globos-xxl",
-    "name": "Bouquet Globos XXL",
+    "id": "el-gigante-del-cielo-que-impacta",
+    "name": "El gigante del cielo que impacta",
     "category": "globos",
     "categoryLabel": "Globos",
     "emoji": "🎈",
     "price": 164900,
-    "shortDescription": "Decoración con globos bouquet globos xxl de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Bouquet Globos XXL es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos bouquet globos xxl de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Decoración con globos el gigante del cielo que impacta de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "El gigante del cielo que impacta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el gigante del cielo que impacta de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Globos látex premium",
       "Globos foil",
@@ -5866,14 +5866,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "globos-burbuja-transparente",
-    "name": "Globos Burbuja Transparente",
+    "id": "la-burbuja-magica-que-atrapa-la-mirada",
+    "name": "La burbuja mágica que atrapa la mirada",
     "category": "globos",
     "categoryLabel": "Globos",
     "emoji": "🎈",
     "price": 94900,
-    "shortDescription": "Decoración con globos globos burbuja transparente de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Globos Burbuja Transparente es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos globos burbuja transparente de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Decoración con globos la burbuja mágica que atrapa la mirada de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "La burbuja mágica que atrapa la mirada es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la burbuja mágica que atrapa la mirada de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Globos látex premium",
       "Globos foil",
@@ -5939,14 +5939,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "arco-globos-graduacion",
-    "name": "Arco Globos Graduación",
+    "id": "la-graduacion-que-flota-en-colores",
+    "name": "La graduación que flota en colores",
     "category": "globos",
     "categoryLabel": "Globos",
     "emoji": "🎈",
     "price": 189900,
-    "shortDescription": "Decoración con globos arco globos graduación de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Arco Globos Graduación es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos arco globos graduación de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Decoración con globos la graduación que flota en colores de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "La graduación que flota en colores es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos la graduación que flota en colores de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Globos látex premium",
       "Globos foil",
@@ -6018,14 +6018,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "globos-foil-numero-neon",
-    "name": "Globos Foil Número Neón",
+    "id": "el-neon-que-enciende-el-festejo",
+    "name": "El neón que enciende el festejo",
     "category": "globos",
     "categoryLabel": "Globos",
     "emoji": "🎈",
     "price": 59900,
-    "shortDescription": "Decoración con globos globos foil número neón de látex y foil de alta calidad con helio incluido.",
-    "fullDescription": "Globos Foil Número Neón es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos globos foil número neón de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Decoración con globos el neón que enciende el festejo de látex y foil de alta calidad con helio incluido.",
+    "fullDescription": "El neón que enciende el festejo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Decoración con globos el neón que enciende el festejo de látex y foil de alta calidad con helio incluido. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Globos látex premium",
       "Globos foil",
@@ -6103,14 +6103,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "torta-cumple-premium-chocolate",
-    "name": "Torta Cumple Premium Chocolate",
+    "id": "el-cumpleanos-legendario-que-recordara-siempre",
+    "name": "El cumpleaños legendario que recordará siempre",
     "category": "cumpleanos",
     "categoryLabel": "Cumpleaños",
     "emoji": "🎁",
     "price": 129900,
-    "shortDescription": "Celebra con torta cumple premium chocolate, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Torta Cumple Premium Chocolate es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con torta cumple premium chocolate, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra con el cumpleaños legendario que recordará siempre, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "El cumpleaños legendario que recordará siempre es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el cumpleaños legendario que recordará siempre, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto principal",
       "Velas de cumpleaños",
@@ -6170,14 +6170,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-cumpleanos-sorpresa-total",
-    "name": "Box Cumpleaños Sorpresa Total",
+    "id": "el-cumpleanos-que-lo-tiene-absolutamente-todo",
+    "name": "El cumpleaños que lo tiene absolutamente todo",
     "category": "cumpleanos",
     "categoryLabel": "Cumpleaños",
     "emoji": "🎁",
     "price": 189900,
-    "shortDescription": "Celebra con box cumpleaños sorpresa total, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Box Cumpleaños Sorpresa Total es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con box cumpleaños sorpresa total, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra con el cumpleaños que lo tiene absolutamente todo, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "El cumpleaños que lo tiene absolutamente todo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el cumpleaños que lo tiene absolutamente todo, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto principal",
       "Velas de cumpleaños",
@@ -6243,14 +6243,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "kit-fiesta-cumple-completo",
-    "name": "Kit Fiesta Cumple Completo",
+    "id": "la-fiesta-completa-antes-de-tocar-el-timbre",
+    "name": "La fiesta completa antes de tocar el timbre",
     "category": "cumpleanos",
     "categoryLabel": "Cumpleaños",
     "emoji": "🎁",
     "price": 159900,
-    "shortDescription": "Celebra con kit fiesta cumple completo, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Kit Fiesta Cumple Completo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con kit fiesta cumple completo, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra con la fiesta completa antes de tocar el timbre, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "La fiesta completa antes de tocar el timbre es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con la fiesta completa antes de tocar el timbre, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto principal",
       "Velas de cumpleaños",
@@ -6322,14 +6322,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "cupcake-tower-cumple-color",
-    "name": "Cupcake Tower Cumple Color",
+    "id": "la-torre-de-color-que-deslumbra-la-mesa",
+    "name": "La torre de color que deslumbra la mesa",
     "category": "cumpleanos",
     "categoryLabel": "Cumpleaños",
     "emoji": "🎁",
     "price": 109900,
-    "shortDescription": "Celebra con cupcake tower cumple color, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Cupcake Tower Cumple Color es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con cupcake tower cumple color, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra con la torre de color que deslumbra la mesa, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "La torre de color que deslumbra la mesa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con la torre de color que deslumbra la mesa, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto principal",
       "Velas de cumpleaños",
@@ -6407,14 +6407,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "torta-tres-leches-especial",
-    "name": "Torta Tres Leches Especial",
+    "id": "el-tres-leches-que-enamora-en-cada-bocado",
+    "name": "El tres leches que enamora en cada bocado",
     "category": "cumpleanos",
     "categoryLabel": "Cumpleaños",
     "emoji": "🎁",
     "price": 119900,
-    "shortDescription": "Celebra con torta tres leches especial, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Torta Tres Leches Especial es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con torta tres leches especial, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra con el tres leches que enamora en cada bocado, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "El tres leches que enamora en cada bocado es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el tres leches que enamora en cada bocado, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto principal",
       "Velas de cumpleaños",
@@ -6474,14 +6474,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-regalo-cumple-mujeres",
-    "name": "Box Regalo Cumple Mujeres",
+    "id": "el-regalo-que-toda-mujer-quiere-abrir",
+    "name": "El regalo que toda mujer quiere abrir",
     "category": "cumpleanos",
     "categoryLabel": "Cumpleaños",
     "emoji": "🎁",
     "price": 149900,
-    "shortDescription": "Celebra con box regalo cumple mujeres, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Box Regalo Cumple Mujeres es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con box regalo cumple mujeres, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra con el regalo que toda mujer quiere abrir, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "El regalo que toda mujer quiere abrir es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el regalo que toda mujer quiere abrir, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto principal",
       "Velas de cumpleaños",
@@ -6547,14 +6547,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-regalo-cumple-hombres",
-    "name": "Box Regalo Cumple Hombres",
+    "id": "el-regalo-que-ningun-hombre-espera",
+    "name": "El regalo que ningún hombre espera",
     "category": "cumpleanos",
     "categoryLabel": "Cumpleaños",
     "emoji": "🎁",
     "price": 149900,
-    "shortDescription": "Celebra con box regalo cumple hombres, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Box Regalo Cumple Hombres es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con box regalo cumple hombres, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra con el regalo que ningún hombre espera, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "El regalo que ningún hombre espera es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el regalo que ningún hombre espera, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto principal",
       "Velas de cumpleaños",
@@ -6626,14 +6626,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "pinada-cumple-tradicional",
-    "name": "Piñada Cumple Tradicional",
+    "id": "la-pinada-que-revive-la-infancia",
+    "name": "La piñada que revive la infancia",
     "category": "cumpleanos",
     "categoryLabel": "Cumpleaños",
     "emoji": "🎁",
     "price": 89900,
-    "shortDescription": "Celebra con piñada cumple tradicional, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Piñada Cumple Tradicional es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con piñada cumple tradicional, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra con la piñada que revive la infancia, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "La piñada que revive la infancia es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con la piñada que revive la infancia, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto principal",
       "Velas de cumpleaños",
@@ -6711,14 +6711,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "torta-red-velvet-cumple",
-    "name": "Torta Red Velvet Cumple",
+    "id": "el-red-velvet-que-enamora-en-rojo",
+    "name": "El red velvet que enamora en rojo",
     "category": "cumpleanos",
     "categoryLabel": "Cumpleaños",
     "emoji": "🎁",
     "price": 134900,
-    "shortDescription": "Celebra con torta red velvet cumple, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Torta Red Velvet Cumple es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con torta red velvet cumple, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra con el red velvet que enamora en rojo, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "El red velvet que enamora en rojo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el red velvet que enamora en rojo, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto principal",
       "Velas de cumpleaños",
@@ -6778,14 +6778,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-cupcakes-variados",
-    "name": "Box Cupcakes Variados",
+    "id": "los-cupcakes-que-pintan-la-fiesta",
+    "name": "Los cupcakes que pintan la fiesta",
     "category": "cumpleanos",
     "categoryLabel": "Cumpleaños",
     "emoji": "🎁",
     "price": 99900,
-    "shortDescription": "Celebra con box cupcakes variados, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Box Cupcakes Variados es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con box cupcakes variados, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra con los cupcakes que pintan la fiesta, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "Los cupcakes que pintan la fiesta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con los cupcakes que pintan la fiesta, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto principal",
       "Velas de cumpleaños",
@@ -6851,14 +6851,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "kit-decoracion-cumple-tema",
-    "name": "Kit Decoración Cumple Tema",
+    "id": "la-decoracion-tematica-que-sorprende",
+    "name": "La decoración temática que sorprende",
     "category": "cumpleanos",
     "categoryLabel": "Cumpleaños",
     "emoji": "🎁",
     "price": 174900,
-    "shortDescription": "Celebra con kit decoración cumple tema, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Kit Decoración Cumple Tema es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con kit decoración cumple tema, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra con la decoración temática que sorprende, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "La decoración temática que sorprende es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con la decoración temática que sorprende, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto principal",
       "Velas de cumpleaños",
@@ -6930,14 +6930,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "torta-frutas-frescas-cumple",
-    "name": "Torta Frutas Frescas Cumple",
+    "id": "las-frutas-frescas-que-endulzan-el-ano-nuevo",
+    "name": "Las frutas frescas que endulzan el año nuevo",
     "category": "cumpleanos",
     "categoryLabel": "Cumpleaños",
     "emoji": "🎁",
     "price": 144900,
-    "shortDescription": "Celebra con torta frutas frescas cumple, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Torta Frutas Frescas Cumple es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con torta frutas frescas cumple, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra con las frutas frescas que endulzan el año nuevo, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "Las frutas frescas que endulzan el año nuevo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con las frutas frescas que endulzan el año nuevo, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto principal",
       "Velas de cumpleaños",
@@ -7015,14 +7015,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-chocolates-cumple",
-    "name": "Box Chocolates Cumple",
+    "id": "el-chocolate-que-conquista-el-cumpleanos",
+    "name": "El chocolate que conquista el cumpleaños",
     "category": "cumpleanos",
     "categoryLabel": "Cumpleaños",
     "emoji": "🎁",
     "price": 114900,
-    "shortDescription": "Celebra con box chocolates cumple, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Box Chocolates Cumple es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con box chocolates cumple, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra con el chocolate que conquista el cumpleaños, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "El chocolate que conquista el cumpleaños es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el chocolate que conquista el cumpleaños, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto principal",
       "Velas de cumpleaños",
@@ -7082,14 +7082,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "kit-globos-y-torta-combo",
-    "name": "Kit Globos y Torta Combo",
+    "id": "el-combo-globos-y-torta-que-lo-tiene-todo",
+    "name": "El combo globos y torta que lo tiene todo",
     "category": "cumpleanos",
     "categoryLabel": "Cumpleaños",
     "emoji": "🎁",
     "price": 199900,
-    "shortDescription": "Celebra con kit globos y torta combo, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Kit Globos y Torta Combo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con kit globos y torta combo, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra con el combo globos y torta que lo tiene todo, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "El combo globos y torta que lo tiene todo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con el combo globos y torta que lo tiene todo, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto principal",
       "Velas de cumpleaños",
@@ -7155,14 +7155,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "torta-vainilla-clasica-cumple",
-    "name": "Torta Vainilla Clásica Cumple",
+    "id": "la-vainilla-clasica-de-los-cumpleanos-felices",
+    "name": "La vainilla clásica de los cumpleaños felices",
     "category": "cumpleanos",
     "categoryLabel": "Cumpleaños",
     "emoji": "🎁",
     "price": 109900,
-    "shortDescription": "Celebra con torta vainilla clásica cumple, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Torta Vainilla Clásica Cumple es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con torta vainilla clásica cumple, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra con la vainilla clásica de los cumpleaños felices, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "La vainilla clásica de los cumpleaños felices es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con la vainilla clásica de los cumpleaños felices, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto principal",
       "Velas de cumpleaños",
@@ -7234,14 +7234,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-peluche-y-torta",
-    "name": "Box Peluche y Torta",
+    "id": "peluche-y-torta-el-duo-que-enamora",
+    "name": "Peluche y torta: el dúo que enamora",
     "category": "cumpleanos",
     "categoryLabel": "Cumpleaños",
     "emoji": "🎁",
     "price": 169900,
-    "shortDescription": "Celebra con box peluche y torta, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Box Peluche y Torta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con box peluche y torta, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra con peluche y torta: el dúo que enamora, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "Peluche y torta: el dúo que enamora es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con peluche y torta: el dúo que enamora, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto principal",
       "Velas de cumpleaños",
@@ -7319,14 +7319,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "kit-velas-cumple-especiales",
-    "name": "Kit Velas Cumple Especiales",
+    "id": "las-velas-que-cumplen-los-deseos",
+    "name": "Las velas que cumplen los deseos",
     "category": "cumpleanos",
     "categoryLabel": "Cumpleaños",
     "emoji": "🎁",
     "price": 59900,
-    "shortDescription": "Celebra con kit velas cumple especiales, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Kit Velas Cumple Especiales es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con kit velas cumple especiales, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra con las velas que cumplen los deseos, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "Las velas que cumplen los deseos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con las velas que cumplen los deseos, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto principal",
       "Velas de cumpleaños",
@@ -7386,14 +7386,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "torta-zanahoria-cumple-artesanal",
-    "name": "Torta Zanahoria Cumple Artesanal",
+    "id": "la-zanahoria-artesanal-del-cumpleanos-especial",
+    "name": "La zanahoria artesanal del cumpleaños especial",
     "category": "cumpleanos",
     "categoryLabel": "Cumpleaños",
     "emoji": "🎁",
     "price": 124900,
-    "shortDescription": "Celebra con torta zanahoria cumple artesanal, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Torta Zanahoria Cumple Artesanal es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con torta zanahoria cumple artesanal, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra con la zanahoria artesanal del cumpleaños especial, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "La zanahoria artesanal del cumpleaños especial es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con la zanahoria artesanal del cumpleaños especial, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto principal",
       "Velas de cumpleaños",
@@ -7459,14 +7459,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-flores-y-torta-cumple",
-    "name": "Box Flores y Torta Cumple",
+    "id": "flores-y-torta-el-regalo-completo",
+    "name": "Flores y torta: el regalo completo",
     "category": "cumpleanos",
     "categoryLabel": "Cumpleaños",
     "emoji": "🎁",
     "price": 184900,
-    "shortDescription": "Celebra con box flores y torta cumple, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Box Flores y Torta Cumple es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con box flores y torta cumple, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra con flores y torta: el regalo completo, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "Flores y torta: el regalo completo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con flores y torta: el regalo completo, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto principal",
       "Velas de cumpleaños",
@@ -7538,14 +7538,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "kit-fiesta-infantil-cumple",
-    "name": "Kit Fiesta Infantil Cumple",
+    "id": "la-fiesta-infantil-que-recordara-toda-la-vida",
+    "name": "La fiesta infantil que recordará toda la vida",
     "category": "cumpleanos",
     "categoryLabel": "Cumpleaños",
     "emoji": "🎁",
     "price": 139900,
-    "shortDescription": "Celebra con kit fiesta infantil cumple, incluye todo lo necesario para una fiesta inolvidable.",
-    "fullDescription": "Kit Fiesta Infantil Cumple es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con kit fiesta infantil cumple, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra con la fiesta infantil que recordará toda la vida, incluye todo lo necesario para una fiesta inolvidable.",
+    "fullDescription": "La fiesta infantil que recordará toda la vida es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra con la fiesta infantil que recordará toda la vida, incluye todo lo necesario para una fiesta inolvidable. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto principal",
       "Velas de cumpleaños",
@@ -7623,14 +7623,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "cena-romantica-para-dos",
-    "name": "Cena Romántica para Dos",
+    "id": "la-noche-que-nunca-olvidara",
+    "name": "La noche que nunca olvidará",
     "category": "aniversarios",
     "categoryLabel": "Aniversarios",
     "emoji": "💝",
     "price": 249900,
-    "shortDescription": "Celebra su aniversario con cena romántica para dos, una experiencia pensada para parejas.",
-    "fullDescription": "Cena Romántica para Dos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con cena romántica para dos, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra su aniversario con la noche que nunca olvidará, una experiencia pensada para parejas.",
+    "fullDescription": "La noche que nunca olvidará es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con la noche que nunca olvidará, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Experiencia principal",
       "Detalle romántico",
@@ -7690,14 +7690,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-aniversario-amor-eterno",
-    "name": "Box Aniversario Amor Eterno",
+    "id": "el-amor-eterno-celebrado-en-una-caja",
+    "name": "El amor eterno celebrado en una caja",
     "category": "aniversarios",
     "categoryLabel": "Aniversarios",
     "emoji": "💝",
     "price": 189900,
-    "shortDescription": "Celebra su aniversario con box aniversario amor eterno, una experiencia pensada para parejas.",
-    "fullDescription": "Box Aniversario Amor Eterno es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con box aniversario amor eterno, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra su aniversario con el amor eterno celebrado en una caja, una experiencia pensada para parejas.",
+    "fullDescription": "El amor eterno celebrado en una caja es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el amor eterno celebrado en una caja, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Experiencia principal",
       "Detalle romántico",
@@ -7763,14 +7763,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "vino-y-rosas-aniversario",
-    "name": "Vino y Rosas Aniversario",
+    "id": "el-brindis-que-sella-otro-ano-juntos",
+    "name": "El brindis que sella otro año juntos",
     "category": "aniversarios",
     "categoryLabel": "Aniversarios",
     "emoji": "💝",
     "price": 174900,
-    "shortDescription": "Celebra su aniversario con vino y rosas aniversario, una experiencia pensada para parejas.",
-    "fullDescription": "Vino y Rosas Aniversario es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con vino y rosas aniversario, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra su aniversario con el brindis que sella otro año juntos, una experiencia pensada para parejas.",
+    "fullDescription": "El brindis que sella otro año juntos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el brindis que sella otro año juntos, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Experiencia principal",
       "Detalle romántico",
@@ -7842,14 +7842,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "spa-en-casa-pareja-deluxe",
-    "name": "Spa en Casa Pareja Deluxe",
+    "id": "el-spa-en-casa-para-los-dos",
+    "name": "El spa en casa para los dos",
     "category": "aniversarios",
     "categoryLabel": "Aniversarios",
     "emoji": "💝",
     "price": 199900,
-    "shortDescription": "Celebra su aniversario con spa en casa pareja deluxe, una experiencia pensada para parejas.",
-    "fullDescription": "Spa en Casa Pareja Deluxe es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con spa en casa pareja deluxe, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra su aniversario con el spa en casa para los dos, una experiencia pensada para parejas.",
+    "fullDescription": "El spa en casa para los dos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el spa en casa para los dos, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Experiencia principal",
       "Detalle romántico",
@@ -7927,14 +7927,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "cena-vela-y-champagne",
-    "name": "Cena Vela y Champagne",
+    "id": "la-cena-con-champagne-que-enciende-la-noche",
+    "name": "La cena con champagne que enciende la noche",
     "category": "aniversarios",
     "categoryLabel": "Aniversarios",
     "emoji": "💝",
     "price": 219900,
-    "shortDescription": "Celebra su aniversario con cena vela y champagne, una experiencia pensada para parejas.",
-    "fullDescription": "Cena Vela y Champagne es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con cena vela y champagne, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra su aniversario con la cena con champagne que enciende la noche, una experiencia pensada para parejas.",
+    "fullDescription": "La cena con champagne que enciende la noche es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con la cena con champagne que enciende la noche, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Experiencia principal",
       "Detalle romántico",
@@ -7994,14 +7994,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-pareja-recien-casados",
-    "name": "Box Pareja Recién Casados",
+    "id": "recien-casados-la-primera-celebracion",
+    "name": "Recién casados: la primera celebración",
     "category": "aniversarios",
     "categoryLabel": "Aniversarios",
     "emoji": "💝",
     "price": 164900,
-    "shortDescription": "Celebra su aniversario con box pareja recién casados, una experiencia pensada para parejas.",
-    "fullDescription": "Box Pareja Recién Casados es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con box pareja recién casados, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra su aniversario con recién casados: la primera celebración, una experiencia pensada para parejas.",
+    "fullDescription": "Recién casados: la primera celebración es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con recién casados: la primera celebración, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Experiencia principal",
       "Detalle romántico",
@@ -8067,14 +8067,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "flores-y-vino-aniversario",
-    "name": "Flores y Vino Aniversario",
+    "id": "flores-y-vino-el-clasico-que-enamora",
+    "name": "Flores y vino: el clásico que enamora",
     "category": "aniversarios",
     "categoryLabel": "Aniversarios",
     "emoji": "💝",
     "price": 159900,
-    "shortDescription": "Celebra su aniversario con flores y vino aniversario, una experiencia pensada para parejas.",
-    "fullDescription": "Flores y Vino Aniversario es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con flores y vino aniversario, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra su aniversario con flores y vino: el clásico que enamora, una experiencia pensada para parejas.",
+    "fullDescription": "Flores y vino: el clásico que enamora es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con flores y vino: el clásico que enamora, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Experiencia principal",
       "Detalle romántico",
@@ -8146,14 +8146,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-romance-chocolate-y-vino",
-    "name": "Box Romance Chocolate y Vino",
+    "id": "el-romance-que-sabe-a-chocolate-y-vino",
+    "name": "El romance que sabe a chocolate y vino",
     "category": "aniversarios",
     "categoryLabel": "Aniversarios",
     "emoji": "💝",
     "price": 144900,
-    "shortDescription": "Celebra su aniversario con box romance chocolate y vino, una experiencia pensada para parejas.",
-    "fullDescription": "Box Romance Chocolate y Vino es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con box romance chocolate y vino, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra su aniversario con el romance que sabe a chocolate y vino, una experiencia pensada para parejas.",
+    "fullDescription": "El romance que sabe a chocolate y vino es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el romance que sabe a chocolate y vino, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Experiencia principal",
       "Detalle romántico",
@@ -8231,14 +8231,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "noche-de-cine-en-casa-pareja",
-    "name": "Noche de Cine en Casa Pareja",
+    "id": "la-noche-de-cine-abrazados-en-casa",
+    "name": "La noche de cine abrazados en casa",
     "category": "aniversarios",
     "categoryLabel": "Aniversarios",
     "emoji": "💝",
     "price": 134900,
-    "shortDescription": "Celebra su aniversario con noche de cine en casa pareja, una experiencia pensada para parejas.",
-    "fullDescription": "Noche de Cine en Casa Pareja es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con noche de cine en casa pareja, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra su aniversario con la noche de cine abrazados en casa, una experiencia pensada para parejas.",
+    "fullDescription": "La noche de cine abrazados en casa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con la noche de cine abrazados en casa, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Experiencia principal",
       "Detalle romántico",
@@ -8298,14 +8298,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "cena-privada-chef-en-casa",
-    "name": "Cena Privada Chef en Casa",
+    "id": "el-chef-privado-cocina-solo-para-ustedes",
+    "name": "El chef privado cocina solo para ustedes",
     "category": "aniversarios",
     "categoryLabel": "Aniversarios",
     "emoji": "💝",
     "price": 299900,
-    "shortDescription": "Celebra su aniversario con cena privada chef en casa, una experiencia pensada para parejas.",
-    "fullDescription": "Cena Privada Chef en Casa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con cena privada chef en casa, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra su aniversario con el chef privado cocina solo para ustedes, una experiencia pensada para parejas.",
+    "fullDescription": "El chef privado cocina solo para ustedes es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el chef privado cocina solo para ustedes, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Experiencia principal",
       "Detalle romántico",
@@ -8371,14 +8371,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-aniversario-bodas-plata",
-    "name": "Box Aniversario Bodas Plata",
+    "id": "bodas-de-plata-la-celebracion-de-la-vida",
+    "name": "Bodas de plata: la celebración de la vida",
     "category": "aniversarios",
     "categoryLabel": "Aniversarios",
     "emoji": "💝",
     "price": 229900,
-    "shortDescription": "Celebra su aniversario con box aniversario bodas plata, una experiencia pensada para parejas.",
-    "fullDescription": "Box Aniversario Bodas Plata es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con box aniversario bodas plata, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra su aniversario con bodas de plata: la celebración de la vida, una experiencia pensada para parejas.",
+    "fullDescription": "Bodas de plata: la celebración de la vida es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con bodas de plata: la celebración de la vida, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Experiencia principal",
       "Detalle romántico",
@@ -8450,14 +8450,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "rosas-y-peluche-aniversario",
-    "name": "Rosas y Peluche Aniversario",
+    "id": "rosas-y-peluche-el-duo-del-amor",
+    "name": "Rosas y peluche: el dúo del amor",
     "category": "aniversarios",
     "categoryLabel": "Aniversarios",
     "emoji": "💝",
     "price": 169900,
-    "shortDescription": "Celebra su aniversario con rosas y peluche aniversario, una experiencia pensada para parejas.",
-    "fullDescription": "Rosas y Peluche Aniversario es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con rosas y peluche aniversario, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra su aniversario con rosas y peluche: el dúo del amor, una experiencia pensada para parejas.",
+    "fullDescription": "Rosas y peluche: el dúo del amor es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con rosas y peluche: el dúo del amor, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Experiencia principal",
       "Detalle romántico",
@@ -8535,14 +8535,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-pareja-cafe-mananero",
-    "name": "Box Pareja Café Mañanero",
+    "id": "el-cafe-mananero-de-los-enamorados",
+    "name": "El café mañanero de los enamorados",
     "category": "aniversarios",
     "categoryLabel": "Aniversarios",
     "emoji": "💝",
     "price": 119900,
-    "shortDescription": "Celebra su aniversario con box pareja café mañanero, una experiencia pensada para parejas.",
-    "fullDescription": "Box Pareja Café Mañanero es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con box pareja café mañanero, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra su aniversario con el café mañanero de los enamorados, una experiencia pensada para parejas.",
+    "fullDescription": "El café mañanero de los enamorados es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el café mañanero de los enamorados, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Experiencia principal",
       "Detalle romántico",
@@ -8602,14 +8602,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "anillo-promesa-y-flores",
-    "name": "Anillo Promesa y Flores",
+    "id": "el-si-mas-esperado-con-anillo-y-flores",
+    "name": "El sí más esperado con anillo y flores",
     "category": "aniversarios",
     "categoryLabel": "Aniversarios",
     "emoji": "💝",
     "price": 259900,
-    "shortDescription": "Celebra su aniversario con anillo promesa y flores, una experiencia pensada para parejas.",
-    "fullDescription": "Anillo Promesa y Flores es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con anillo promesa y flores, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra su aniversario con el sí más esperado con anillo y flores, una experiencia pensada para parejas.",
+    "fullDescription": "El sí más esperado con anillo y flores es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el sí más esperado con anillo y flores, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Experiencia principal",
       "Detalle romántico",
@@ -8675,14 +8675,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-picnic-romantico-parque",
-    "name": "Box Picnic Romántico Parque",
+    "id": "el-picnic-romantico-en-el-parque",
+    "name": "El picnic romántico en el parque",
     "category": "aniversarios",
     "categoryLabel": "Aniversarios",
     "emoji": "💝",
     "price": 154900,
-    "shortDescription": "Celebra su aniversario con box picnic romántico parque, una experiencia pensada para parejas.",
-    "fullDescription": "Box Picnic Romántico Parque es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con box picnic romántico parque, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra su aniversario con el picnic romántico en el parque, una experiencia pensada para parejas.",
+    "fullDescription": "El picnic romántico en el parque es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el picnic romántico en el parque, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Experiencia principal",
       "Detalle romántico",
@@ -8754,14 +8754,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "cena-mediterranea-pareja",
-    "name": "Cena Mediterránea Pareja",
+    "id": "la-cena-mediterranea-para-dos",
+    "name": "La cena mediterránea para dos",
     "category": "aniversarios",
     "categoryLabel": "Aniversarios",
     "emoji": "💝",
     "price": 234900,
-    "shortDescription": "Celebra su aniversario con cena mediterránea pareja, una experiencia pensada para parejas.",
-    "fullDescription": "Cena Mediterránea Pareja es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con cena mediterránea pareja, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra su aniversario con la cena mediterránea para dos, una experiencia pensada para parejas.",
+    "fullDescription": "La cena mediterránea para dos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con la cena mediterránea para dos, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Experiencia principal",
       "Detalle romántico",
@@ -8839,14 +8839,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-aniversario-larga-distancia",
-    "name": "Box Aniversario Larga Distancia",
+    "id": "el-aniversario-a-distancia-que-los-acerca",
+    "name": "El aniversario a distancia que los acerca",
     "category": "aniversarios",
     "categoryLabel": "Aniversarios",
     "emoji": "💝",
     "price": 139900,
-    "shortDescription": "Celebra su aniversario con box aniversario larga distancia, una experiencia pensada para parejas.",
-    "fullDescription": "Box Aniversario Larga Distancia es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con box aniversario larga distancia, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra su aniversario con el aniversario a distancia que los acerca, una experiencia pensada para parejas.",
+    "fullDescription": "El aniversario a distancia que los acerca es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el aniversario a distancia que los acerca, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Experiencia principal",
       "Detalle romántico",
@@ -8906,14 +8906,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "velas-aromaticas-y-vino",
-    "name": "Velas Aromáticas y Vino",
+    "id": "velas-aromaticas-y-vino-la-noche-perfecta",
+    "name": "Velas aromáticas y vino: la noche perfecta",
     "category": "aniversarios",
     "categoryLabel": "Aniversarios",
     "emoji": "💝",
     "price": 124900,
-    "shortDescription": "Celebra su aniversario con velas aromáticas y vino, una experiencia pensada para parejas.",
-    "fullDescription": "Velas Aromáticas y Vino es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con velas aromáticas y vino, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra su aniversario con velas aromáticas y vino: la noche perfecta, una experiencia pensada para parejas.",
+    "fullDescription": "Velas aromáticas y vino: la noche perfecta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con velas aromáticas y vino: la noche perfecta, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Experiencia principal",
       "Detalle romántico",
@@ -8979,14 +8979,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-bodas-oro-premium",
-    "name": "Box Bodas Oro Premium",
+    "id": "bodas-de-oro-medio-siglo-de-amor",
+    "name": "Bodas de oro: medio siglo de amor",
     "category": "aniversarios",
     "categoryLabel": "Aniversarios",
     "emoji": "💝",
     "price": 279900,
-    "shortDescription": "Celebra su aniversario con box bodas oro premium, una experiencia pensada para parejas.",
-    "fullDescription": "Box Bodas Oro Premium es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con box bodas oro premium, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra su aniversario con bodas de oro: medio siglo de amor, una experiencia pensada para parejas.",
+    "fullDescription": "Bodas de oro: medio siglo de amor es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con bodas de oro: medio siglo de amor, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Experiencia principal",
       "Detalle romántico",
@@ -9058,14 +9058,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "foto-canvas-y-flores-aniversario",
-    "name": "Foto Canvas y Flores Aniversario",
+    "id": "el-canvas-del-amor-con-flores",
+    "name": "El canvas del amor con flores",
     "category": "aniversarios",
     "categoryLabel": "Aniversarios",
     "emoji": "💝",
     "price": 189900,
-    "shortDescription": "Celebra su aniversario con foto canvas y flores aniversario, una experiencia pensada para parejas.",
-    "fullDescription": "Foto Canvas y Flores Aniversario es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con foto canvas y flores aniversario, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Celebra su aniversario con el canvas del amor con flores, una experiencia pensada para parejas.",
+    "fullDescription": "El canvas del amor con flores es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Celebra su aniversario con el canvas del amor con flores, una experiencia pensada para parejas. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Experiencia principal",
       "Detalle romántico",
@@ -9143,14 +9143,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "caja-personalizada-nombre-dorado",
-    "name": "Caja Personalizada Nombre Dorado",
+    "id": "su-nombre-grabado-en-oro-para-siempre",
+    "name": "Su nombre grabado en oro para siempre",
     "category": "personalizados",
     "categoryLabel": "Personalizados",
     "emoji": "✨",
     "price": 119900,
-    "shortDescription": "Producto personalizado caja personalizada nombre dorado con grabado e impresión de alta calidad.",
-    "fullDescription": "Caja Personalizada Nombre Dorado es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado caja personalizada nombre dorado con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Producto personalizado su nombre grabado en oro para siempre con grabado e impresión de alta calidad.",
+    "fullDescription": "Su nombre grabado en oro para siempre es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado su nombre grabado en oro para siempre con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto personalizado",
       "Diseño a medida",
@@ -9210,14 +9210,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "taza-personalizada-foto-pareja",
-    "name": "Taza Personalizada Foto Pareja",
+    "id": "la-taza-de-los-dos-con-su-mejor-foto",
+    "name": "La taza de los dos con su mejor foto",
     "category": "personalizados",
     "categoryLabel": "Personalizados",
     "emoji": "✨",
     "price": 69900,
-    "shortDescription": "Producto personalizado taza personalizada foto pareja con grabado e impresión de alta calidad.",
-    "fullDescription": "Taza Personalizada Foto Pareja es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado taza personalizada foto pareja con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Producto personalizado la taza de los dos con su mejor foto con grabado e impresión de alta calidad.",
+    "fullDescription": "La taza de los dos con su mejor foto es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la taza de los dos con su mejor foto con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto personalizado",
       "Diseño a medida",
@@ -9283,14 +9283,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "marco-fotos-personalizado",
-    "name": "Marco Fotos Personalizado",
+    "id": "el-marco-que-guarda-el-recuerdo-favorito",
+    "name": "El marco que guarda el recuerdo favorito",
     "category": "personalizados",
     "categoryLabel": "Personalizados",
     "emoji": "✨",
     "price": 84900,
-    "shortDescription": "Producto personalizado marco fotos personalizado con grabado e impresión de alta calidad.",
-    "fullDescription": "Marco Fotos Personalizado es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado marco fotos personalizado con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Producto personalizado el marco que guarda el recuerdo favorito con grabado e impresión de alta calidad.",
+    "fullDescription": "El marco que guarda el recuerdo favorito es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el marco que guarda el recuerdo favorito con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto personalizado",
       "Diseño a medida",
@@ -9362,14 +9362,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "llavero-grabado-nombre",
-    "name": "Llavero Grabado Nombre",
+    "id": "el-llavero-que-lleva-tu-nombre-a-todos-lados",
+    "name": "El llavero que lleva tu nombre a todos lados",
     "category": "personalizados",
     "categoryLabel": "Personalizados",
     "emoji": "✨",
     "price": 49900,
-    "shortDescription": "Producto personalizado llavero grabado nombre con grabado e impresión de alta calidad.",
-    "fullDescription": "Llavero Grabado Nombre es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado llavero grabado nombre con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Producto personalizado el llavero que lleva tu nombre a todos lados con grabado e impresión de alta calidad.",
+    "fullDescription": "El llavero que lleva tu nombre a todos lados es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el llavero que lleva tu nombre a todos lados con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto personalizado",
       "Diseño a medida",
@@ -9447,14 +9447,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "caja-madera-grabado-laser",
-    "name": "Caja Madera Grabado Láser",
+    "id": "la-madera-grabada-con-tu-propia-historia",
+    "name": "La madera grabada con tu propia historia",
     "category": "personalizados",
     "categoryLabel": "Personalizados",
     "emoji": "✨",
     "price": 134900,
-    "shortDescription": "Producto personalizado caja madera grabado láser con grabado e impresión de alta calidad.",
-    "fullDescription": "Caja Madera Grabado Láser es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado caja madera grabado láser con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Producto personalizado la madera grabada con tu propia historia con grabado e impresión de alta calidad.",
+    "fullDescription": "La madera grabada con tu propia historia es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la madera grabada con tu propia historia con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto personalizado",
       "Diseño a medida",
@@ -9514,14 +9514,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "taza-magica-revela-foto",
-    "name": "Taza Mágica Revela Foto",
+    "id": "la-magia-que-revela-tu-foto-con-el-calor",
+    "name": "La magia que revela tu foto con el calor",
     "category": "personalizados",
     "categoryLabel": "Personalizados",
     "emoji": "✨",
     "price": 79900,
-    "shortDescription": "Producto personalizado taza mágica revela foto con grabado e impresión de alta calidad.",
-    "fullDescription": "Taza Mágica Revela Foto es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado taza mágica revela foto con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Producto personalizado la magia que revela tu foto con el calor con grabado e impresión de alta calidad.",
+    "fullDescription": "La magia que revela tu foto con el calor es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la magia que revela tu foto con el calor con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto personalizado",
       "Diseño a medida",
@@ -9587,14 +9587,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "cojin-personalizado-foto",
-    "name": "Cojín Personalizado Foto",
+    "id": "el-cojin-que-abraza-con-tu-foto",
+    "name": "El cojín que abraza con tu foto",
     "category": "personalizados",
     "categoryLabel": "Personalizados",
     "emoji": "✨",
     "price": 94900,
-    "shortDescription": "Producto personalizado cojín personalizado foto con grabado e impresión de alta calidad.",
-    "fullDescription": "Cojín Personalizado Foto es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado cojín personalizado foto con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Producto personalizado el cojín que abraza con tu foto con grabado e impresión de alta calidad.",
+    "fullDescription": "El cojín que abraza con tu foto es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el cojín que abraza con tu foto con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto personalizado",
       "Diseño a medida",
@@ -9666,14 +9666,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "bolso-tote-personalizado",
-    "name": "Bolso Tote Personalizado",
+    "id": "el-bolso-unico-con-tu-diseno-exclusivo",
+    "name": "El bolso único con tu diseño exclusivo",
     "category": "personalizados",
     "categoryLabel": "Personalizados",
     "emoji": "✨",
     "price": 104900,
-    "shortDescription": "Producto personalizado bolso tote personalizado con grabado e impresión de alta calidad.",
-    "fullDescription": "Bolso Tote Personalizado es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado bolso tote personalizado con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Producto personalizado el bolso único con tu diseño exclusivo con grabado e impresión de alta calidad.",
+    "fullDescription": "El bolso único con tu diseño exclusivo es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el bolso único con tu diseño exclusivo con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto personalizado",
       "Diseño a medida",
@@ -9751,14 +9751,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "cuadro-canvas-impresion",
-    "name": "Cuadro Canvas Impresión",
+    "id": "el-cuadro-canvas-de-tu-mejor-momento",
+    "name": "El cuadro canvas de tu mejor momento",
     "category": "personalizados",
     "categoryLabel": "Personalizados",
     "emoji": "✨",
     "price": 149900,
-    "shortDescription": "Producto personalizado cuadro canvas impresión con grabado e impresión de alta calidad.",
-    "fullDescription": "Cuadro Canvas Impresión es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado cuadro canvas impresión con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Producto personalizado el cuadro canvas de tu mejor momento con grabado e impresión de alta calidad.",
+    "fullDescription": "El cuadro canvas de tu mejor momento es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el cuadro canvas de tu mejor momento con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto personalizado",
       "Diseño a medida",
@@ -9818,14 +9818,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "caja-luz-nombre-led",
-    "name": "Caja Luz Nombre LED",
+    "id": "la-luz-de-tu-nombre-brillando-en-la-noche",
+    "name": "La luz de tu nombre brillando en la noche",
     "category": "personalizados",
     "categoryLabel": "Personalizados",
     "emoji": "✨",
     "price": 114900,
-    "shortDescription": "Producto personalizado caja luz nombre led con grabado e impresión de alta calidad.",
-    "fullDescription": "Caja Luz Nombre LED es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado caja luz nombre led con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Producto personalizado la luz de tu nombre brillando en la noche con grabado e impresión de alta calidad.",
+    "fullDescription": "La luz de tu nombre brillando en la noche es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la luz de tu nombre brillando en la noche con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto personalizado",
       "Diseño a medida",
@@ -9891,14 +9891,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "album-fotos-personalizado",
-    "name": "Álbum Fotos Personalizado",
+    "id": "el-album-de-su-vida-en-papel-premium",
+    "name": "El álbum de su vida en papel premium",
     "category": "personalizados",
     "categoryLabel": "Personalizados",
     "emoji": "✨",
     "price": 124900,
-    "shortDescription": "Producto personalizado álbum fotos personalizado con grabado e impresión de alta calidad.",
-    "fullDescription": "Álbum Fotos Personalizado es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado álbum fotos personalizado con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Producto personalizado el álbum de su vida en papel premium con grabado e impresión de alta calidad.",
+    "fullDescription": "El álbum de su vida en papel premium es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el álbum de su vida en papel premium con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto personalizado",
       "Diseño a medida",
@@ -9970,14 +9970,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "pulsera-grabado-nombre",
-    "name": "Pulsera Grabado Nombre",
+    "id": "la-pulsera-que-lleva-su-nombre-en-la-piel",
+    "name": "La pulsera que lleva su nombre en la piel",
     "category": "personalizados",
     "categoryLabel": "Personalizados",
     "emoji": "✨",
     "price": 74900,
-    "shortDescription": "Producto personalizado pulsera grabado nombre con grabado e impresión de alta calidad.",
-    "fullDescription": "Pulsera Grabado Nombre es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado pulsera grabado nombre con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Producto personalizado la pulsera que lleva su nombre en la piel con grabado e impresión de alta calidad.",
+    "fullDescription": "La pulsera que lleva su nombre en la piel es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la pulsera que lleva su nombre en la piel con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto personalizado",
       "Diseño a medida",
@@ -10055,14 +10055,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "rompecabezas-foto-personalizado",
-    "name": "Rompecabezas Foto Personalizado",
+    "id": "el-rompecabezas-del-amor-que-arman-juntos",
+    "name": "El rompecabezas del amor que arman juntos",
     "category": "personalizados",
     "categoryLabel": "Personalizados",
     "emoji": "✨",
     "price": 89900,
-    "shortDescription": "Producto personalizado rompecabezas foto personalizado con grabado e impresión de alta calidad.",
-    "fullDescription": "Rompecabezas Foto Personalizado es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado rompecabezas foto personalizado con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Producto personalizado el rompecabezas del amor que arman juntos con grabado e impresión de alta calidad.",
+    "fullDescription": "El rompecabezas del amor que arman juntos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el rompecabezas del amor que arman juntos con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto personalizado",
       "Diseño a medida",
@@ -10122,14 +10122,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "cartel-led-nombre-personalizado",
-    "name": "Cartel LED Nombre Personalizado",
+    "id": "el-cartel-led-con-su-nombre-en-luz",
+    "name": "El cartel LED con su nombre en luz",
     "category": "personalizados",
     "categoryLabel": "Personalizados",
     "emoji": "✨",
     "price": 159900,
-    "shortDescription": "Producto personalizado cartel led nombre personalizado con grabado e impresión de alta calidad.",
-    "fullDescription": "Cartel LED Nombre Personalizado es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado cartel led nombre personalizado con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Producto personalizado el cartel led con su nombre en luz con grabado e impresión de alta calidad.",
+    "fullDescription": "El cartel LED con su nombre en luz es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el cartel led con su nombre en luz con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto personalizado",
       "Diseño a medida",
@@ -10195,14 +10195,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "taza-ceramica-diseno-unico",
-    "name": "Taza Cerámica Diseño Único",
+    "id": "la-ceramica-unica-con-tu-diseno-a-mano",
+    "name": "La cerámica única con tu diseño a mano",
     "category": "personalizados",
     "categoryLabel": "Personalizados",
     "emoji": "✨",
     "price": 64900,
-    "shortDescription": "Producto personalizado taza cerámica diseño único con grabado e impresión de alta calidad.",
-    "fullDescription": "Taza Cerámica Diseño Único es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado taza cerámica diseño único con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Producto personalizado la cerámica única con tu diseño a mano con grabado e impresión de alta calidad.",
+    "fullDescription": "La cerámica única con tu diseño a mano es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la cerámica única con tu diseño a mano con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto personalizado",
       "Diseño a medida",
@@ -10274,14 +10274,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "agenda-personalizada-2025",
-    "name": "Agenda Personalizada 2025",
+    "id": "la-agenda-2025-con-su-nombre-en-la-portada",
+    "name": "La agenda 2025 con su nombre en la portada",
     "category": "personalizados",
     "categoryLabel": "Personalizados",
     "emoji": "✨",
     "price": 94900,
-    "shortDescription": "Producto personalizado agenda personalizada 2025 con grabado e impresión de alta calidad.",
-    "fullDescription": "Agenda Personalizada 2025 es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado agenda personalizada 2025 con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Producto personalizado la agenda 2025 con su nombre en la portada con grabado e impresión de alta calidad.",
+    "fullDescription": "La agenda 2025 con su nombre en la portada es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la agenda 2025 con su nombre en la portada con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto personalizado",
       "Diseño a medida",
@@ -10359,14 +10359,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "caja-regalo-personalizada-grande",
-    "name": "Caja Regalo Personalizada Grande",
+    "id": "la-caja-grande-que-guarda-toda-su-historia",
+    "name": "La caja grande que guarda toda su historia",
     "category": "personalizados",
     "categoryLabel": "Personalizados",
     "emoji": "✨",
     "price": 179900,
-    "shortDescription": "Producto personalizado caja regalo personalizada grande con grabado e impresión de alta calidad.",
-    "fullDescription": "Caja Regalo Personalizada Grande es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado caja regalo personalizada grande con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Producto personalizado la caja grande que guarda toda su historia con grabado e impresión de alta calidad.",
+    "fullDescription": "La caja grande que guarda toda su historia es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la caja grande que guarda toda su historia con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto personalizado",
       "Diseño a medida",
@@ -10426,14 +10426,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "carta-stellar-mapa-estelar",
-    "name": "Carta Stellar Mapa Estelar",
+    "id": "el-mapa-estelar-de-la-noche-que-se-conocieron",
+    "name": "El mapa estelar de la noche que se conocieron",
     "category": "personalizados",
     "categoryLabel": "Personalizados",
     "emoji": "✨",
     "price": 109900,
-    "shortDescription": "Producto personalizado carta stellar mapa estelar con grabado e impresión de alta calidad.",
-    "fullDescription": "Carta Stellar Mapa Estelar es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado carta stellar mapa estelar con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Producto personalizado el mapa estelar de la noche que se conocieron con grabado e impresión de alta calidad.",
+    "fullDescription": "El mapa estelar de la noche que se conocieron es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el mapa estelar de la noche que se conocieron con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto personalizado",
       "Diseño a medida",
@@ -10499,14 +10499,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "bolsa-tela-estampada-foto",
-    "name": "Bolsa Tela Estampada Foto",
+    "id": "la-bolsa-estampada-con-su-mejor-sonrisa",
+    "name": "La bolsa estampada con su mejor sonrisa",
     "category": "personalizados",
     "categoryLabel": "Personalizados",
     "emoji": "✨",
     "price": 69900,
-    "shortDescription": "Producto personalizado bolsa tela estampada foto con grabado e impresión de alta calidad.",
-    "fullDescription": "Bolsa Tela Estampada Foto es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado bolsa tela estampada foto con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Producto personalizado la bolsa estampada con su mejor sonrisa con grabado e impresión de alta calidad.",
+    "fullDescription": "La bolsa estampada con su mejor sonrisa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado la bolsa estampada con su mejor sonrisa con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto personalizado",
       "Diseño a medida",
@@ -10578,14 +10578,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "cuadro-acrilico-foto-premium",
-    "name": "Cuadro Acrílico Foto Premium",
+    "id": "el-acrilico-premium-de-su-mejor-foto",
+    "name": "El acrílico premium de su mejor foto",
     "category": "personalizados",
     "categoryLabel": "Personalizados",
     "emoji": "✨",
     "price": 169900,
-    "shortDescription": "Producto personalizado cuadro acrílico foto premium con grabado e impresión de alta calidad.",
-    "fullDescription": "Cuadro Acrílico Foto Premium es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado cuadro acrílico foto premium con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Producto personalizado el acrílico premium de su mejor foto con grabado e impresión de alta calidad.",
+    "fullDescription": "El acrílico premium de su mejor foto es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Producto personalizado el acrílico premium de su mejor foto con grabado e impresión de alta calidad. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Producto personalizado",
       "Diseño a medida",
@@ -10663,14 +10663,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "caja-misterio-deluxe",
-    "name": "Caja Misterio Deluxe",
+    "id": "la-caja-misterio-que-no-querra-dejar-de-abrir",
+    "name": "La caja misterio que no querrá dejar de abrir",
     "category": "sorpresas",
     "categoryLabel": "Sorpresas",
     "emoji": "🎉",
     "price": 159900,
-    "shortDescription": "Sorpresa única caja misterio deluxe con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "Caja Misterio Deluxe es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única caja misterio deluxe con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Sorpresa única la caja misterio que no querrá dejar de abrir con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "La caja misterio que no querrá dejar de abrir es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única la caja misterio que no querrá dejar de abrir con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Curaduría de productos",
       "Empaque de lujo",
@@ -10730,14 +10730,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "sorpresa-mananera-bogota",
-    "name": "Sorpresa Mañanera Bogotá",
+    "id": "la-sorpresa-mananera-que-despierta-sonrisas",
+    "name": "La sorpresa mañanera que despierta sonrisas",
     "category": "sorpresas",
     "categoryLabel": "Sorpresas",
     "emoji": "🎉",
     "price": 139900,
-    "shortDescription": "Sorpresa única sorpresa mañanera bogotá con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "Sorpresa Mañanera Bogotá es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única sorpresa mañanera bogotá con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Sorpresa única la sorpresa mañanera que despierta sonrisas con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "La sorpresa mañanera que despierta sonrisas es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única la sorpresa mañanera que despierta sonrisas con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Curaduría de productos",
       "Empaque de lujo",
@@ -10803,14 +10803,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "hamper-gourmet-sorpresa",
-    "name": "Hamper Gourmet Sorpresa",
+    "id": "el-hamper-gourmet-para-el-paladar-exigente",
+    "name": "El hamper gourmet para el paladar exigente",
     "category": "sorpresas",
     "categoryLabel": "Sorpresas",
     "emoji": "🎉",
     "price": 189900,
-    "shortDescription": "Sorpresa única hamper gourmet sorpresa con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "Hamper Gourmet Sorpresa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única hamper gourmet sorpresa con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Sorpresa única el hamper gourmet para el paladar exigente con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "El hamper gourmet para el paladar exigente es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única el hamper gourmet para el paladar exigente con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Curaduría de productos",
       "Empaque de lujo",
@@ -10882,14 +10882,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-sorpresa-motivacional",
-    "name": "Box Sorpresa Motivacional",
+    "id": "la-motivacion-del-dia-en-una-sola-caja",
+    "name": "La motivación del día en una sola caja",
     "category": "sorpresas",
     "categoryLabel": "Sorpresas",
     "emoji": "🎉",
     "price": 114900,
-    "shortDescription": "Sorpresa única box sorpresa motivacional con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "Box Sorpresa Motivacional es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única box sorpresa motivacional con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Sorpresa única la motivación del día en una sola caja con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "La motivación del día en una sola caja es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única la motivación del día en una sola caja con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Curaduría de productos",
       "Empaque de lujo",
@@ -10967,14 +10967,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "torre-regalos-premium-5-niveles",
-    "name": "Torre Regalos Premium 5 Niveles",
+    "id": "la-torre-de-5-pisos-que-deslumbra-al-abrir",
+    "name": "La torre de 5 pisos que deslumbra al abrir",
     "category": "sorpresas",
     "categoryLabel": "Sorpresas",
     "emoji": "🎉",
     "price": 209900,
-    "shortDescription": "Sorpresa única torre regalos premium 5 niveles con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "Torre Regalos Premium 5 Niveles es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única torre regalos premium 5 niveles con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Sorpresa única la torre de 5 pisos que deslumbra al abrir con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "La torre de 5 pisos que deslumbra al abrir es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única la torre de 5 pisos que deslumbra al abrir con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Curaduría de productos",
       "Empaque de lujo",
@@ -11034,14 +11034,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "caja-sorpresa-cumpleanos",
-    "name": "Caja Sorpresa Cumpleaños",
+    "id": "el-cumpleanos-sorpresa-que-nadie-olvida",
+    "name": "El cumpleaños sorpresa que nadie olvida",
     "category": "sorpresas",
     "categoryLabel": "Sorpresas",
     "emoji": "🎉",
     "price": 149900,
-    "shortDescription": "Sorpresa única caja sorpresa cumpleaños con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "Caja Sorpresa Cumpleaños es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única caja sorpresa cumpleaños con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Sorpresa única el cumpleaños sorpresa que nadie olvida con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "El cumpleaños sorpresa que nadie olvida es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única el cumpleaños sorpresa que nadie olvida con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Curaduría de productos",
       "Empaque de lujo",
@@ -11107,14 +11107,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-wellness-sorpresa",
-    "name": "Box Wellness Sorpresa",
+    "id": "el-wellness-que-relaja-cuerpo-y-alma",
+    "name": "El wellness que relaja cuerpo y alma",
     "category": "sorpresas",
     "categoryLabel": "Sorpresas",
     "emoji": "🎉",
     "price": 134900,
-    "shortDescription": "Sorpresa única box wellness sorpresa con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "Box Wellness Sorpresa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única box wellness sorpresa con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Sorpresa única el wellness que relaja cuerpo y alma con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "El wellness que relaja cuerpo y alma es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única el wellness que relaja cuerpo y alma con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Curaduría de productos",
       "Empaque de lujo",
@@ -11186,14 +11186,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "sorpresa-pareja-romantica",
-    "name": "Sorpresa Pareja Romántica",
+    "id": "la-pareja-sorprendida-sin-ninguna-razon",
+    "name": "La pareja sorprendida sin ninguna razón",
     "category": "sorpresas",
     "categoryLabel": "Sorpresas",
     "emoji": "🎉",
     "price": 169900,
-    "shortDescription": "Sorpresa única sorpresa pareja romántica con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "Sorpresa Pareja Romántica es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única sorpresa pareja romántica con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Sorpresa única la pareja sorprendida sin ninguna razón con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "La pareja sorprendida sin ninguna razón es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única la pareja sorprendida sin ninguna razón con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Curaduría de productos",
       "Empaque de lujo",
@@ -11271,14 +11271,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "hamper-chocolate-deluxe",
-    "name": "Hamper Chocolate Deluxe",
+    "id": "el-chocolate-deluxe-que-enamora-al-primer-bocado",
+    "name": "El chocolate deluxe que enamora al primer bocado",
     "category": "sorpresas",
     "categoryLabel": "Sorpresas",
     "emoji": "🎉",
     "price": 124900,
-    "shortDescription": "Sorpresa única hamper chocolate deluxe con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "Hamper Chocolate Deluxe es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única hamper chocolate deluxe con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Sorpresa única el chocolate deluxe que enamora al primer bocado con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "El chocolate deluxe que enamora al primer bocado es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única el chocolate deluxe que enamora al primer bocado con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Curaduría de productos",
       "Empaque de lujo",
@@ -11338,14 +11338,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-sorpresa-infantil",
-    "name": "Box Sorpresa Infantil",
+    "id": "la-sorpresa-infantil-que-arranca-risas",
+    "name": "La sorpresa infantil que arranca risas",
     "category": "sorpresas",
     "categoryLabel": "Sorpresas",
     "emoji": "🎉",
     "price": 99900,
-    "shortDescription": "Sorpresa única box sorpresa infantil con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "Box Sorpresa Infantil es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única box sorpresa infantil con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Sorpresa única la sorpresa infantil que arranca risas con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "La sorpresa infantil que arranca risas es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única la sorpresa infantil que arranca risas con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Curaduría de productos",
       "Empaque de lujo",
@@ -11411,14 +11411,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "caja-misterio-lujo-oro",
-    "name": "Caja Misterio Lujo Oro",
+    "id": "el-lujo-oro-que-impresiona-al-destapar",
+    "name": "El lujo oro que impresiona al destapar",
     "category": "sorpresas",
     "categoryLabel": "Sorpresas",
     "emoji": "🎉",
     "price": 229900,
-    "shortDescription": "Sorpresa única caja misterio lujo oro con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "Caja Misterio Lujo Oro es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única caja misterio lujo oro con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Sorpresa única el lujo oro que impresiona al destapar con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "El lujo oro que impresiona al destapar es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única el lujo oro que impresiona al destapar con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Curaduría de productos",
       "Empaque de lujo",
@@ -11490,14 +11490,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "sorpresa-espresso-mananero",
-    "name": "Sorpresa Espresso Mañanero",
+    "id": "el-espresso-mananero-que-despierta-el-alma",
+    "name": "El espresso mañanero que despierta el alma",
     "category": "sorpresas",
     "categoryLabel": "Sorpresas",
     "emoji": "🎉",
     "price": 104900,
-    "shortDescription": "Sorpresa única sorpresa espresso mañanero con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "Sorpresa Espresso Mañanero es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única sorpresa espresso mañanero con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Sorpresa única el espresso mañanero que despierta el alma con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "El espresso mañanero que despierta el alma es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única el espresso mañanero que despierta el alma con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Curaduría de productos",
       "Empaque de lujo",
@@ -11575,14 +11575,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-spa-sorpresa-relajante",
-    "name": "Box Spa Sorpresa Relajante",
+    "id": "el-spa-sorpresa-que-relaja-sin-salir-de-casa",
+    "name": "El spa sorpresa que relaja sin salir de casa",
     "category": "sorpresas",
     "categoryLabel": "Sorpresas",
     "emoji": "🎉",
     "price": 144900,
-    "shortDescription": "Sorpresa única box spa sorpresa relajante con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "Box Spa Sorpresa Relajante es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única box spa sorpresa relajante con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Sorpresa única el spa sorpresa que relaja sin salir de casa con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "El spa sorpresa que relaja sin salir de casa es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única el spa sorpresa que relaja sin salir de casa con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Curaduría de productos",
       "Empaque de lujo",
@@ -11642,14 +11642,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "torre-sabores-gourmet",
-    "name": "Torre Sabores Gourmet",
+    "id": "la-torre-de-sabores-que-conquista-el-paladar",
+    "name": "La torre de sabores que conquista el paladar",
     "category": "sorpresas",
     "categoryLabel": "Sorpresas",
     "emoji": "🎉",
     "price": 174900,
-    "shortDescription": "Sorpresa única torre sabores gourmet con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "Torre Sabores Gourmet es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única torre sabores gourmet con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Sorpresa única la torre de sabores que conquista el paladar con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "La torre de sabores que conquista el paladar es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única la torre de sabores que conquista el paladar con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Curaduría de productos",
       "Empaque de lujo",
@@ -11715,14 +11715,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "caja-sorpresa-gracias",
-    "name": "Caja Sorpresa Gracias",
+    "id": "el-gracias-que-se-queda-grabado-para-siempre",
+    "name": "El gracias que se queda grabado para siempre",
     "category": "sorpresas",
     "categoryLabel": "Sorpresas",
     "emoji": "🎉",
     "price": 119900,
-    "shortDescription": "Sorpresa única caja sorpresa gracias con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "Caja Sorpresa Gracias es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única caja sorpresa gracias con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Sorpresa única el gracias que se queda grabado para siempre con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "El gracias que se queda grabado para siempre es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única el gracias que se queda grabado para siempre con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Curaduría de productos",
       "Empaque de lujo",
@@ -11794,14 +11794,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-sorpresa-mama",
-    "name": "Box Sorpresa Mamá",
+    "id": "la-sorpresa-de-mama-que-la-hace-emocionar",
+    "name": "La sorpresa de mamá que la hace emocionar",
     "category": "sorpresas",
     "categoryLabel": "Sorpresas",
     "emoji": "🎉",
     "price": 154900,
-    "shortDescription": "Sorpresa única box sorpresa mamá con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "Box Sorpresa Mamá es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única box sorpresa mamá con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Sorpresa única la sorpresa de mamá que la hace emocionar con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "La sorpresa de mamá que la hace emocionar es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única la sorpresa de mamá que la hace emocionar con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Curaduría de productos",
       "Empaque de lujo",
@@ -11879,14 +11879,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "hamper-vino-y-quesos",
-    "name": "Hamper Vino y Quesos",
+    "id": "el-vino-y-quesos-para-la-noche-perfecta",
+    "name": "El vino y quesos para la noche perfecta",
     "category": "sorpresas",
     "categoryLabel": "Sorpresas",
     "emoji": "🎉",
     "price": 194900,
-    "shortDescription": "Sorpresa única hamper vino y quesos con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "Hamper Vino y Quesos es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única hamper vino y quesos con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Sorpresa única el vino y quesos para la noche perfecta con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "El vino y quesos para la noche perfecta es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única el vino y quesos para la noche perfecta con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Curaduría de productos",
       "Empaque de lujo",
@@ -11946,14 +11946,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "sorppresa-oficina-ejecutiva",
-    "name": "Sorppresa Oficina Ejecutiva",
+    "id": "la-oficina-ejecutiva-sorprendida-al-mediodia",
+    "name": "La oficina ejecutiva sorprendida al mediodía",
     "category": "sorpresas",
     "categoryLabel": "Sorpresas",
     "emoji": "🎉",
     "price": 164900,
-    "shortDescription": "Sorpresa única sorppresa oficina ejecutiva con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "Sorppresa Oficina Ejecutiva es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única sorppresa oficina ejecutiva con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Sorpresa única la oficina ejecutiva sorprendida al mediodía con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "La oficina ejecutiva sorprendida al mediodía es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única la oficina ejecutiva sorprendida al mediodía con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Curaduría de productos",
       "Empaque de lujo",
@@ -12019,14 +12019,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "caja-misterio-tech",
-    "name": "Caja Misterio Tech",
+    "id": "el-misterio-tech-que-enamora-al-instante",
+    "name": "El misterio tech que enamora al instante",
     "category": "sorpresas",
     "categoryLabel": "Sorpresas",
     "emoji": "🎉",
     "price": 179900,
-    "shortDescription": "Sorpresa única caja misterio tech con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "Caja Misterio Tech es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única caja misterio tech con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Sorpresa única el misterio tech que enamora al instante con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "El misterio tech que enamora al instante es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única el misterio tech que enamora al instante con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Curaduría de productos",
       "Empaque de lujo",
@@ -12098,14 +12098,14 @@ export const PRODUCTS: Product[] = [
     ]
   },
   {
-    "id": "box-sorpresa-amistad",
-    "name": "Box Sorpresa Amistad",
+    "id": "la-amistad-celebrada-en-una-caja",
+    "name": "La amistad celebrada en una caja",
     "category": "sorpresas",
     "categoryLabel": "Sorpresas",
     "emoji": "🎉",
     "price": 109900,
-    "shortDescription": "Sorpresa única box sorpresa amistad con curaduría de productos premium y empaque de lujo.",
-    "fullDescription": "Box Sorpresa Amistad es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única box sorpresa amistad con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
+    "shortDescription": "Sorpresa única la amistad celebrada en una caja con curaduría de productos premium y empaque de lujo.",
+    "fullDescription": "La amistad celebrada en una caja es una creación exclusiva de Emociones Matutinas, diseñada para regalar momentos inolvidables. Sorpresa única la amistad celebrada en una caja con curaduría de productos premium y empaque de lujo. Cada detalle ha sido cuidadosamente seleccionado por nuestro equipo curatorial en Bogotá, garantizando una experiencia de unboxing que deslumbra desde el primer instante.\n\nElaborado con materiales premium y presentado en un empaque de lujo, este producto combina estética, calidad y emoción en una sola pieza. Perfecto para celebrar ocasiones especiales, sorprender a quien amas o simplemente decir \"pienso en ti\" con elegancia.\n\nNuestro compromiso es entregar más que un producto: entregamos una experiencia sensorial completa que conecta con los sentimientos y crea recuerdos duraderos. La entrega a domicilio en Bogotá y áreas metropolitanas es puntual y confiable.",
     "includes": [
       "Curaduría de productos",
       "Empaque de lujo",

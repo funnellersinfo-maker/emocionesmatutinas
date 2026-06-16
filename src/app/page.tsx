@@ -4,6 +4,7 @@ import { useState, useEffect, useCallback, Suspense } from 'react'
 import { PRODUCTS, CATEGORIES } from '@/data/products'
 import { Header } from '@/components/catalog/header'
 import { Hero, CategoryStrip } from '@/components/catalog/hero'
+import { CommercialSections } from '@/components/catalog/commercial-sections'
 import { Experiencias } from '@/components/catalog/experiencias'
 import { ProductGrid } from '@/components/catalog/product-grid'
 import { ProductDetail } from '@/components/catalog/product-detail'
@@ -113,6 +114,7 @@ function CatalogContent() {
           <>
             <Hero onCategory={selectCategory} onShop={() => document.getElementById('catalogo')?.scrollIntoView({ behavior: 'smooth' })} />
             <CategoryStrip active={activeCategory} onSelect={selectCategory} />
+            <CommercialSections onOpen={openProduct} onSeeAll={() => document.getElementById('catalogo')?.scrollIntoView({ behavior: 'smooth' })} />
             <ProductGrid
               products={PRODUCTS}
               onOpen={openProduct}
